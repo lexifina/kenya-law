@@ -1,6 +1,11 @@
 # FIRST SCHEDULE
+[Section 21, Act No. 20 of 1967, s. 6]
 RATES OF DUTY
-(a) where the value of the estate does not exceed £ 25,000, no estate duty shall be paid.
+(a) (i) Where the value of the estate does not exceed £1,000, no estate duty shall be payable.
+(ii) Where the value of the estate exceeds £1,000 but does not exceed £1,500, estate duty shall be £5.
+(iii) Where the value of the estate exceeds £1,500 but does not exceed £2,000, estate duty shall be £10.
+(iv) Where the value of the estate exceeds £2,000 but does not exceed £2,500, estate duty shall be £15.
+(v) Where the value of the estate exceeds £2,500 but does not exceed £5,000, the rate of estate duty shall be one per cent.
 (b) ...
 Where the value of the estate exceeds | but does not exceed | the rate of estate duty shall be per cent
 £ | £
