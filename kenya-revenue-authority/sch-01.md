@@ -9,3 +9,4 @@ WRITTEN LAWS RELATING TO REVENUE
 7. The Traffic Act (Cap. 403)
 8. The Transport Licensing Act (Cap. 404).
 9. The Second-hand Motor Vehicles Purchase Tax Act (Cap. 484).
+10. Petroleum Development Fund Act, 1991 (No. 4 of 1991).
