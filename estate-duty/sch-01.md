@@ -1,5 +1,5 @@
 # FIRST SCHEDULE
-[Section 21, Act No. 20 of 1967, s. 6, Act No. 10 of 1972, s. 3, Act No. 10 of 1980, s. 7.]
+[Section 21, Act No. 20 of 1967, s. 6, Act No. 10 of 1972, s. 3, Act No. 10 of 1980, s. 7, Act No. 10 of 1982, s. 2.]
 RATES OF DUTY
 (In terms of Act No. 10 of 1982, no estate duty shall be levied or paid on property which passes on the death of any person)
 (a) where the value of the estate does not exceed $ 25,000, no estate duty shall be paid.
