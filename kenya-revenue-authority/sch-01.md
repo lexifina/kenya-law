@@ -18,3 +18,8 @@ Part II
 8. The Stamp Duty Act (Cap. 480).
 9. The Horticultural Crops Development Authority (Imposition of Fees and Charges) Order, 1995 (L.N. 225 of 1995).
 10. The Standards Levy Order, 1990 (L.N. 267 of 1990).
+Part III
+1. The Income Tax Act (Cap. 470).
+2. The Customs and Excise Act (Cap. 472).
+3. The Value Added Tax Act (Cap. 476).
+4. The Entertainment Tax Act (Cap. 479).
