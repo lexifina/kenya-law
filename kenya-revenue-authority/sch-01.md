@@ -7,3 +7,6 @@ WRITTEN LAWS RELATING TO REVENUE
 5. Air Passenger Service Charge Act (Cap. 475).
 6. Entertainment Tax Act (Cap. 479).
 7. Petroleum Development Fund Act, 1991 (No. 4 of 1991).
+8. Traffic Act (Cap. 403).
+9. Transport Licensing Act (Cap. 404).
+10. Second-Hand Motor Vehicles Purchase Tax Act (Cap. 484).
