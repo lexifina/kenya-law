@@ -1,0 +1,3 @@
+# 3. Decisions of the Board
+(1) All questions proposed at a meeting of the Board shall be decided by a majority of the votes of the members present and voting, and in the event of an equality of votes, the person presiding shall have a casting vote in addition to his deliberative vote.
+(2) A decision may be made by the Board without a meeting by circulation of the relevant papers among the members of the Board and by the expression of the views of the majority of the members in writing but any member shall be entitled to require that the decision be deferred and the matter on which a decision is sought be considered at a meeting of the Board.
