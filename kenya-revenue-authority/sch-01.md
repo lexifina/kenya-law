@@ -14,3 +14,5 @@ Part II
 4. The Civil Aviation Act (Cap. 394).
 5. The Widows' and Children's Pensions Act (Cap. 195).
 6. The Parliamentary Pensions Act (Cap. 196).
+7. The Betting, Lotteries and Gaming Act (Cap. 131).
+8. The Stamp Duty Act (Cap. 480).
