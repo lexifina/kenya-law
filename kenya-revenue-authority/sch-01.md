@@ -24,3 +24,5 @@ Part III
 2. The Customs and Excise Act (Cap. 472).
 3. The Value Added Tax Act (Cap. 476).
 4. The Entertainment Tax Act (Cap. 479).
+11. The Government Lands Act (Cap. 280).
+12. The Sugar (Imposition of Levy) Order, 2002 (L.N. 385/2002).
