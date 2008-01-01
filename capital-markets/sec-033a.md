@@ -1,6 +1,6 @@
 # 33A. Powers of the Authority to intervene in management of a licence
 (1) This section shall apply and the powers conferred by subsection (2) may be exercised in the following circumstances—
-(a) if a person's licence or approval is suspended under subsection (1) of section 26;
+(a) if a person's licence or approval is suspended under section 25(4)(c)(ii);
 (b) if a petition is filed, or a resolution proposed, for the winding up of a licensed person or if any receiver or receiver manager or similar officer is appointed in respect of the licensed person or in respect of all or any part of its assets;
 (c) if the Authority discovers (whether on an inspection or otherwise) or becomes aware of any fact or circumstance which, in the opinion of the Authority, warrants the exercise of the relevant power in the interests of investors:
 Provided that the Authority shall give the licensed person an opportunity to be heard prior to the exercise of this power.
