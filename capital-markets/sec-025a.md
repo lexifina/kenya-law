@@ -11,7 +11,7 @@
 (b) with respect to an employee of a licensed or approved person, including a securities exchange—
 (i) require the licensed or approved person to take disciplinary action against the employee;
 (ii) disqualification of such employee from employment in any capacity by any licensed or approved person or listed company for a specified period;
-(iii) recovery from the employee of a licensed or approved person an amount double the benefit accruing to such person by reason of the breach;
+(iii) recovery from the employee of a licensed or approved person an amount double the benefit accruing to such person be reason of the breach;
 (iv) the levying of financial penalties as such amounts as may be prescribed;
 (c) with respect to a director of a listed company or a licensed or approved person, including a securities exchange—
 (i) disqualification of such person from appointment as a director of a listed company or licensed or approved person including, a securities exchange;
