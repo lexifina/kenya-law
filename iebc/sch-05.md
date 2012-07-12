@@ -28,7 +28,7 @@ The Commission shall prepare and publish a preliminary report outlining -
 4. Review of decision of Commission
 A person may apply to the High Court for review of a decision of the Commission made under the Constitution and this Act.
 5. Application for review
-An application for the review of the decision made under paragraph 4 shall be made within thirty days of the publication of the decision in the Gazette and shall be heard and determined within thirty days of the date on which it is filed.
+An application for the review of the decision made under paragraph 4 shall be made within thirty days of the publication of the decision in the Gazette and shall be heard and determined within three months of the date on which it is filed.
 6. Sensitization on the proposed boundaries
 The Commission shall, upon publication of the boundaries referred to in paragraph 3 facilitate sensitization of the public on the boundaries for a period of thirty days.
 7. Maintenance of records
