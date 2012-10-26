@@ -1,7 +1,7 @@
 # 35A. Establishment of the Capital Markets Tribunal
 (1) There is established a tribunal to be known as the Capital Markets Tribunal which shall consist of the following members and the secretary appointed by the Minister—
 (a) a chairman who at the time of his appointment shall be an advocate of not less than seven years standing;
-(b) one lawyer having at least seven years experience in the commercial and corporate sector;
+(b) one lawyer having at least seven years' experience in the commercial and corporate sector;
 (c) one accountant who shall have been in practice for a period of not less than seven years; and
 (d) two persons who have demonstrated competence in the field of securities;
 (e) the secretary shall be an advocate with at least five years' experience commercial law.
