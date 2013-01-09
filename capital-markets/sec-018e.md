@@ -1,7 +1,7 @@
-# 18E. Disciplinary action by a self-regulatory organization
-(1) A self-regulatory organization may take disciplinary action against any of its members in accordance with its rules, if the member contravenes any provision of the rules.
-(2) A self-regulatory organization shall, where it has taken disciplinary action under subsection (1), immediately inform the Authority, in writing, of the name of the member, the action taken and the reason therefor, including the amount of any fine and the period of suspension, if any.
-(3) The Authority may, on its own motion or on application by an aggrieved person, review any disciplinary action taken under subsection (1) and may affirm, modify or set aside the decision after giving the aggrieved person and the self-regulatory organization an opportunity to be heard.
-(4) Nothing in this section shall preclude the Authority, in any case where a self-regulatory organization fails to act against its member, from suspending, expelling or otherwise disciplining a member of the self-regulatory organization.
-(5) The Authority shall, before taking any action under subsection (4), give the licensed person and the self-regulatory organization an opportunity to be heard.
-(6) Any action taken by a self-regulatory organization under subsection (1) shall not prejudice the power of the Authority to take any further action that it considers necessary with regard to the licensed person.
+# 18E. Disciplinary action by a self regulatory organization
+(1) A self regulatory organization may take disciplinary action against any of its members in accordance with its rules, if the member contravenes any provision of the rules.
+(2) A self regulatory organization shall, where it has taken disciplinary action under subsection (1), immediately inform the Authority, in writing, of the name of the member, the action taken and the reason therefor, including the amount of any fine and the period of suspension, if any.
+(3) The Authority may, on its own motion or on application by an aggrieved person, review any disciplinary action taken under subsection (1) and may affirm, modify or set aside the decision after giving the aggrieved person and the self regulatory organization an opportunity to be heard.
+(4) Nothing in this section shall preclude the Authority, in any case where a self regulatory organization fails to act against its member, from suspending, expelling or otherwise disciplining a member of the self regulatory organization.
+(5) The Authority shall, before taking any action under subsection (4), give the licensed person and the self regulatory organization an opportunity to be heard.
+(6) Any action taken by a self regulatory organization under subsection (1) shall not prejudice the power of the Authority to take any further action that it considers necessary with regard to the licensed person.
