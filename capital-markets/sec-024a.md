@@ -18,7 +18,7 @@
 (i) any person who is to be employed by, associated with, or who shall be acting for or on behalf of, the applicant for the purposes of a regulated activity, including an agent;
 (ii) where the applicant is a company in a group of companies—
 (A) any other company in the same group of companies; or
-(B) any substantial shareholder or key personnel of the company or any company referred to in subparagraph (a);
+(B) any substantial shareholder or key personnel of the company or any-company referred to in subparagraph (a);
 (c) take into account whether the applicant has established effective internal control procedures and risk management systems to ensure its compliance with all applicable regulatory requirements; and
 (d) have regard to the state of affairs of any other business which the person carries on or purports to carry on.
 (3) The Authority shall give a person an opportunity to be heard before determining whether the person is fit and proper for the purposes of this Act.
