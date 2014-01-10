@@ -1,0 +1,7 @@
+# 30V. Obligation to conduct due diligence
+(1) An issuer, an originator, a seller, a securitisation arranger, a transaction adviser or any party involved in or connected with the issue or offer or named as an expert in the prospectus or offering memorandum shall conduct an independent verification and due diligence in respect of the assets, the issue of asset backed securities, all statements included in the prospectus or offering memorandum and the, presentations and warranties included in any transaction document.
+(2) A person shall not be held liable for a statement in or omission from a prospectus or offering memorandum or in respect of a representation or warranty in a transaction document if that person proves that prior to making such statement, omission, representation or warranty that person—
+(a) made such inquiries that were reasonable in the circumstances; and
+(b) believed, on reasonable grounds, that the statement, representation, warranty or omission was not misleading, deceptive or material.
+(3) A credit rating agency shall include, prominently in any credit rating report issued in respect of asset backed securities, details of due diligence or verification of facts, data, assumptions or other information or statements, if any, that the credit rating agency has undertaken.
+(4) Due diligence or verification under this section shall be carried out in such manner as the Authority may prescribe.

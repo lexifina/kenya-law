@@ -1,0 +1,3 @@
+# 30X. General disclosure obligations
+(1) A servicer and a trustee or any other specified person in a securitisation trust shall, whether the asset backed securities are listed or not, comply with the disclosure requirements under section 30F, and any further obligations and requirements as may be prescribed by the Authority.
+(2) The continuing disclosure obligations imposed under this Part and any other obligations imposed by the Authority shall apply, to the servicer, trustee or any other specified person under subsection (1), in addition to any requirements provided for in the transaction documents or the requirements of any listing entity.

@@ -1,0 +1,3 @@
+# 30J. Form of asset backed securities to be offered
+(1) Asset backed securities issued or offered under this Act shall consist of beneficial entitlements to a unit, participation, share of or interest in the assets of the trust established as a special purpose vehicle for undertaking a securitisation transaction and issuing asset backed securities to investors who shall be beneficiaries of the trust.
+(2) A person may issue or offer different classes or tranches of asset-backed securities reflecting beneficial entitlements with differing rights including priorities of payments from the income or capital of the trust or distribution of assets or voting entitlements and provision may be made for a beneficiary to be entitled to a residual interest.

@@ -1,0 +1,9 @@
+# 22D. Fixing of position and trading limits in futures contracts
+(1) The Authority may, for the purpose of preventing, diminishing or eliminating excessive speculation in any commodity under an exchange-traded derivatives contract, by notice in writing, from time to time, fix such limits as the Authority considers necessary on the amount of trading which may be done or exchange-traded derivatives contracts' positions which may be held by any person, generally or specifically, under an exchange-traded derivatives contract traded on the derivatives market of or subject to the rules of a derivatives exchange.
+(2) The limits upon exchange-traded derivatives contracts' positions and trading fixed by the Authority under subsection (1) shall apply to positions held by, and trading done by two or more persons acting in accordance with an express or implied agreement or understanding, as if the positions were held by, or the trading done by a single person.
+(3) A person shall not, directly or indirectly—
+(a) buy or sell or agree to buy or sell, under an exchange-traded derivatives contract traded on the derivatives market of or subject to the rules of a derivatives exchange, any number of contracts in excess of the trading limits fixed for one business day or any other stated period set by the Authority; or
+(b) hold or control a gross buy or sell position under an exchange-traded derivatives contract traded on the derivatives market of or subject to the rules of a derivatives exchange in excess of any position limit fixed by the Authority.
+(4) Nothing in this section shall preclude the Authority from—
+(a) fixing different trading or position limits for different exchange-traded derivatives contracts, different delivery months or for different days remaining until the last day of trading in an exchange-traded derivatives contract; or
+(b) exempting transactions under this section.

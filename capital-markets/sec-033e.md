@@ -1,0 +1,2 @@
+# 33E. Winding up
+The Authority may, if it appears to it that it is desirable, for the protection of clients or investors, that a licensed person should be wound up under the Companies Act (Cap. 486) or relevant constituting document, present a petition for the licensed person to be wound up or institute winding up proceedings under the relevant instrument on the ground that it is just and equitable that the licensed person should be wound up.
