@@ -1,0 +1,30 @@
+# EIGHTH SCHEDULE FORMA
+Application for Registration/Renewal of Registration for Tourism and Hospitality Training Institutions I hereby apply for Registration/Renewal/the Variation of Registration to carry on l. Name of applicant. ................. ... .. .. ................... ........ .... .. .... .... . l. If a company, list names and particulars of directors .. ........ ....... ......... .. . .
+Postal address ..... .................................... ........ .... ..... ...... ....... ... ... .
+(a) Town ........... ... ..... .... ... .. .. ..... ..... ... .. .. .. ....... .. ......... ..... ..... .
+(b) Street/Road.. .. .... .. ..... .. ...... ..........
+LR.NO .. ... ...... .
+(c) Name ofbuilding...... ..... . Floor .......... .... . Room .. .. ... . .
+(d) Telephone No ..................................................... .
+4. Income Tax Personal Identification Number (PIN) (attach copy) ...... ........ ... .
+5. Nature of tourism and hospitality training courses .. ... .... ... ... ... ... ........... .
+(i) State whether any of the partners/directors/shareholders is an undischarged bankrupt. (If so, indicate the names).
+(ii) Has any previous application by you been rejected under the Bill? (If 0 •••••
+• 0 • 0 ••• 0 ••• ~ ••• 0 0 ••• 0 •• 0 •••• 0 ••••••• 0 0 0 • 0 ••• 0 •• 0 ••• 0 • 0 ••• 0 •
+(iii) Has any previous registration granted to you under the Bil been revoked, cancelled or suspended? (If so, give details).
+7. Mandatory requirements
+(a) A copy of the memorandum of association or the instrument or document by which the applicant is constituted.
+(b) A copy of the articles of association or other rules of the applicant.
+(c) A certified copy of the published prospectus, if any.
+(d) A copy of approved courses and curriculum by· the Ministry responsible for higher education or the Commission for University Education. ~·
+(e) A copy of a certificate of approval by public works and public health of the premises to be used for training.
+(f) Evidence of suitable premises and facilities to satisfactorily serve the students and the public in respect of the tourism and hospitality training specified in
+(g) Evidence of an adequate number of technically qualified and otherwise K'akdmega 'Countj; Toilris'm · (All documentS attached to this apf)Iication sho"tild oe certified-as true c;opiesof:th(;!·· 1,_,_ ,, , , ·"· 8._ Completed apJ?Iication forms should be returned to~ ; · ·,. · r ; ·~ i !!:· "·l -,:·. ! .
+Tourism Regulatory Authority .-:.J ,.q_ ~~~ ;. · rr1 n:::··~~ 1 ir, ~ ; <'f. '\,,\ ':'''~~ \ -~ };\~~'•\;.. -~- ~_ :;!_ •':\'·\!,• \·~-.. : i ·!: \ ·,_.,~{\1;•;\,', ' I/We hereby certify the inform(\tjQQ -.w~ ;Q '\.tv~ 1p.~;o,v,ided in this application is true and ~~,,;rl;i·lJ;\ . l;f· -l~ ~ ·· -;;· ; ~'4 \:i ; ti~ · ~-,~,.," _1}i · u ~:i 'I;•:!qi:i -.rd~-·-: :; d ~ 1/We also understand that it is an offence under the A~h~4:·t)1e ;B~n~ C.~qJ~ ~~q ,gi M~ ·:I• false information in support of any application . · · .. . .. .. ... .Jnh·.: iqcp ... H_i ~ ! )Ui/t '.
+Date.···· ··· ··· ···· ··.·.:_·· :.·.;,;;:.:; ·,·!; ·:;,· .. , ;, i 1 ~~~?~~~~~~! : ·: ~. : ; ~·,::i ;; ; [ ·_ v ;!·i:,::; ;,·(· · · ;i ';j .. . : .l Applirarzt o_r hi~ rjuly authqri,z,~(lg (!.r( t:;;·;di
+FOR OFFICIAL USE ONLY .-.:· I '.:C ·. • • ! : · ~ )' :, .
+The applicant MEETS/DOES NOT MEET the registrati6n:reqO'itetrleritsiand is hereby RECOMMENDED/NOT .RECOMMENDED for;aj:JpiovaltrerreW'al of! registration to undertake tourism and hospital.ity. training in the1'bll~wii~gibu t$es : ......•. .....•.• •..•• . i. '/.\j (.},:.:JJ..;)!!),\j tJ.( .\.'.t.J. J>.di;!-J/ dOiH, ;dj;n _,~Jf \: );•~ ' f'·c _~ ~J nc.:i ._.S;ihLJei -~-..
+The reasons fcir 'riot rec6mmen~firrg;\ll~' apphc-~iit a~e a~·ta·u~iY:~i_;,,· 1;" ; ;,:;:'r:)·,; -- :'-.'1 '.-.: f,•. ·'' • .r;o,,-. , ~ · · : ,. ("ft 'l) j , . tr~ · : ' I '"~~~ "' 1' 1'; ~· ; ·'· 1• ;_! ~- : :·'! ~:· : ). ~ .·: ;, -~ ~(~! . ~.;. : . ; ".f! ~ l .'! ~J :t'. ·· ~· cf:~< .~! ~)i ~ -?: . . . .. . ,.::_~) . ... . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . :· .. <· : ~ ~ r ;-::.i . :)! ~ i. :~ r .. ·ro ~ ! ~)n i \ U. ;: :-~ = ! L{Q ::-fJ.~) ?J;11t~:t~d !~ro:po : ·-:-: : 0 . 0 0 0 0 0 0 Name.-.· .. ..... · .. -.·.· .. ·.· ... · .. ·.-. .-.· ..... · -Designation, .. ,.,, .. , .. ,. ,,,,, .. :,, ,.:, ,,.:,, .,· FORMB Tourism and Hospitality Training Registration Certl!ifica:ti> ur.~ ~y, ·,;_-;t;Jhbnsl'l! ,-. i ! · ,ui; !() 1!J ';f11Fi' . ..~.Pi .9tll ;_cl nniiJ~j - _, 1 .) , ··: ... !~ ·~ n rno l•iq-::-·_{ n !-f!"Yn ~Jd J lu '/qn:_, A (s'1 1s su~d -~~Jf."clt :N;i!'>T ·r.ii:·'i"!lidS ·-yfnbi"nii .of ~ .0 .
+Box .. ... ... ...... ..... ... ... .. .. and authonzes the said person to carry on busmess m tounsm and hospillllit)l iqc~raiillng ~, ,i in T:,tthe·,,) Repliblic;L; i of-. ~· i 1N.enylil1r:atq:·LiR. (rNo.(s) .. .................................... ... .for · a Rerjod~ .Qf one, (1) year be2:innip2: on . -.',U; .J. j ,··~Jj :J :./ ~d;,;-,_tr~ f .l'.J{ '}!;nu t;; ;)ft1 ,4 D ·~ 'J t~n ) t.(:H ;LiT~; · ; 'P-, ,AJ .. .... .. .... .. ... .. .... ........... ': ... oay o en mg on Tst aoay or ecemuer ... .. .... (bOlll days incl-usi ~t!~.i~' f!-)~1~-'f! ·(Ht-:iild'/: :.;dt yd r: s uh~·:~tTn~ :: l~ nJ; ~.~.H·:u~r..: !rJvn·tqqr::. !u ·fqo·J ! ..:..... tb ) THIS Certif{t~it{ \Jh~ s-Jb~n~Hj~bn~ '66\TI~\\~H~Q Jlih ;{J1g (~t6?1'J13 ridWthe Tourism Acto.N ol i28-l-o£ :QO-J!l r-Ofrthe 1 Laws iOf;. K-enya; d!Iita;theJ'~i':diui§mJ(~ner.al~R~gu:lation$ ~nd to the terms and conditions specif~ed hereunder. .gt1i:. iJ.:'Ji Eli L•)7,;; ~A:l nl ?.:>~irn:nq (' j 1 t:J.Da:te· 11.:,.v;J;J6 o{! :v~l);:;.nl~ ~tf; ~l,.(.)J o i; ~j.IJ i!' :;~;'j o bnc /.:),.-'! fft ~=-ii.! oJ( <Jg,j oio~ :t(o). ~ ;)f~ t. .. bi v a.
+0. 0 0 i'o m l> ~i li :;~n ;> !lflini:;·JJ yi!!uia.;nd bnr. :fl~ i ·I u oJ :>dJ 'toE•·:-1a2-7-.-; rt i ;,ifdurtJ :Jdt bn!; xecu tve ,::,ecre t~rv . . fl0! 1 l> ~l l.!Cf'Cj£ :Jril .c:;i ·'' 1 ·!i:,. i:1 1r; ~.,,,.i ;i,;np f!!t::) irllh·:j ·t ,T~~fit~m ~ ~~?.HW~T~ rF?,? b}85n~,}?f r,j~ -,- ~~,, -:
+In JIX!Pin _,
