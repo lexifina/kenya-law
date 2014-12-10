@@ -1,0 +1,19 @@
+# FIRST SCHEDULE
+CONDUCT OF BUSINESS AND AFFAIRS OF THE COUNTY PLANT HEALTH BOARD.
+1. Filling of Vacancy: Vacancy in the office of a member under Section 3 (1) shall be filled by a person appointed by the CEC in accordance with the provisions of this Schedule.
+2. Vice-Chairperson: The Board shall, at its first meeting, elect a Deputy Chairperson from amongst the persons appointed under Section 3(1) of this Act.
+3. Meetings of the Board: The Board shall meet at least three times in each year. 4.
+Special meetings: The Chairperson may at any time convene a special meeting of the Board and shall do so within fifteen days of a written requisition for the meeting signed by at least three members. 5.
+Chairperson to preside: (1) The Chairperson shall preside at all meetings of the Board, in which the Chairperson is present an in the case of his or her absence, the Deputy Chairperson shall preside;
+(2) At a meeting of the Board at which neither the Chairperson or Deputy Chairperson is present, the members of the Board present shall elect one of their numbers to preside, and the person so elected shall have all the powers of the Chairperson with respect to that meeting and the business transacted thereat.
+6. Quorum: The quorum for the conduct of the business of the Board shall be three members.
+7. Voting Procedure: The decisions of the Board shall be by a majority of voting procedure Votes, and the Chairperson of the meeting shall have an Original and a casting vote.
+8. Validity of Proceedings: The validity of any proceedings of the Board shall validity of proceedings not be affected by any vacancy among the membership thereof, or by reason of a defect in the appointment of a member.
+9. Minutes of the Meeting: Minutes of the proceedings at meetings of the Board minutes of the meeting shall be kept in such a manner as the Mandera County Plant Health No. 13 Board directs, and, on the written request of the CEC, shall be made available to him or her or any person nominated by him or her.
+10. Committees of the Board: The Board may establish such committee as may Board be necessary for the performance of the functions of the Board and may, subject to the provisions of this Act, delegate powers conferred on it to any such committee.
+11. Power of the Board to Regulate own Procedure: Subject to the provisions of this Schedule, the Regulate own procedure Board shall regulate its own procedure.
+12. Disclosure of interest: (1) If a member of the Board is directly or indirectly interested in any contract, proposed contract or other matter before the Board and is present at a meeting of the Board at which the contract, proposed contract or other matter is the subject of consideration, he or she shall at the meeting and as soon as reasonably practicable after the commencement thereof, disclose the fact and shall not take part in the consideration or discussion of or vote on, any questions with respect to the contract or other matter, or be counted in the quorum of the meeting during consideration of the matter.
+(2) A disclosure of interest made under this Paragraph shall be recorded in the minutes of the meeting at which it is made.
+PART V— GENERAL PROVISIONS
+13. No action or proceeding may be commenced Protection from against the county executive member, the chief officer, an personal liability agent of the chief officer, for any act done in good faith in the performance or intended performance of a responsibility or in the exercise or intended exercise of an authorized action under this Act, or for any neglect or default in the performance of a responsibility or the exercise of an authorized action in good faith.
+14. A person who contravenes a provision of this Act General penalty where no other penalties are provided commits an offence and offences and is liable to a fine not exceeding two hundred thousand shillings or to an imprisonment term of two years or both.
