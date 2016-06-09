@@ -12,6 +12,7 @@ Tariff No. | Tariff Description | Rate
 2710.12.90 | Other light oils and preparations Per 10001 @ 20degC | Shs. 8,500
 2710.19.10 | Partly refined (including topped crude) per 10001 @ 20degC | Shs. 1,450.00
 2710.19.21 | Kerosene type Jet Fuel Per 10001 @ 20degC | Shs. 5,755.00
+2710.19.22 | Illuminating kerosene | KSh.7,205 per 1000litres @ 20 degrees centigrade
 2710.19.29 | Other medium oils and preparations per 10001 @ 20degC | Shs. 5,300.00
 2710.19.31 | Gas oil (automotive, light, amber for high speed engines) per 10001 @ 20degC | Shs. 10,305.00
 2710.19.32 | Diesel oil (industrial heavy, black, for low speed marine and stationery engines) per 10001 @ 20degC | Shs. 3,700.00
@@ -23,7 +24,8 @@ Tariff No. | Tariff Description | Rate
 Description | Rate of Excise Duty
 Fruit juices (including grape must), and vegetable juices, unfermented and not containing added spirit, whether or not containing added spirit, whether or not containing added sugar or other sweetening matter | Shs. 10 per litre
 Food supplements | 10%
-Waters and other non-alcoholic beverages not including fruit or vegetable juices | Shs. 5 per litre
+Cosmetics and Beauty products of tariff heading No. 3303, 3304, 3305 and 3307 | 10%
+Waters (excluding water of tariff No. 2201.90.00) and other non-alcoholic beverages not including fruit or vegetable juices | Shs. 5 per litre
 Beer, Cider, Perry, Mead, Opaque beer and mixtures of fermented beverages with non-alcoholic beverages and spirituous beverages of alcoholic strength not exceeding 10% | Shs. 100 per litre
 Powdered beer | Shs. 100 per kg
 Wines including fortified wines, and other alcoholic beverages obtained by fermentation of fruits | Shs. 150 per litre
@@ -33,13 +35,12 @@ Electronic cigarettes | Shs. 3000 per unit
 Cartridge for use in electronic cigarettes | Shs. 2000 per unit
 Cigarettes containing tobacco or tobacco substitutes | Shs. 2500 per mille
 Other manufactured tobacco and manufactured tobacco substitutes; "homogenous" and "reconstituted tobacco"; tobacco extracts and essences | Shs. 7000 per kg
-Motor vehicles of tariff heading 87.02, 87.03 and 87.04 | Less than three years old from the date of first registration Kshs. 150,000 per unit
-Over three years old from the date of first registration Shs. 200,000 per unit
-Motor cycles of tariff 87.11 other than motor cycle ambulances | Shs. 10,000 per unit
+Motor vehicles excluding school buses for use by public schools of tariff heading 87.02, 87.03 and 87.04 | 20%
+Motor cycles of tariff 87.11 other than motor cycle ambulances and locally assembled motor cycles | Shs. 10,000 per unit
 Plastic shopping bags | Shs. 120 per kg
 2. (1) The specific rates of excise duty on excisable goods specified in this Schedule shall be adjusted for inflation at the beginning of every financial year in accordance with this paragraph.
 (2) Each rate of excise duty specified in column 2 of the table in paragraph 1 shall be replaced by the rate of excise duty computed by reference to the following formula—
-A X B
+A (1+ B)
 where —
 A is the rate of excise duty on the day immediately before the adjustment day; and
 B is the adjustment factor for the adjustment day, calculated as the average rate of monthly inflation of the preceding financial year.
