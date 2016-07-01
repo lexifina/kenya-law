@@ -24,7 +24,7 @@ Tariff No. | Tariff Description | Rate
 Description | Rate of Excise Duty
 Fruit juices (including grape must), and vegetable juices, unfermented and not containing added spirit, whether or not containing added spirit, whether or not containing added sugar or other sweetening matter | Shs. 10 per litre
 Food supplements | 10%
-Cosmetics and Beauty products of tariff heading No. 3303, 3304, 3305 and 3307 | 10%
+Cosmetics and Beauty products of tariffheading No. 3303, 3304, 3305 and 3307 | 10%
 Waters (excluding water of tariff No. 2201.90.00) and other non-alcoholic beverages not including fruit or vegetable juices | Shs. 5 per litre
 Beer, Cider, Perry, Mead, Opaque beer and mixtures of fermented beverages with non-alcoholic beverages and spirituous beverages of alcoholic strength not exceeding 10% | Shs. 100 per litre
 Powdered beer | Shs. 100 per kg
