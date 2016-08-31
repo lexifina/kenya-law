@@ -1,0 +1,15 @@
+# SCHEDULE
+(s.47(5))
+TRANSITIONAL PROVISIONS
+1. (l) In this Schedule-lnterpretation. "appointed day" means the day this Act comes into operation; "former institution" means the instifution by whatever name called registered under any of the repealed
+2. (1) All rights, obligations and contracts which, Rights and immediately before the coming into operation of this Act, obligations. were vested in or imposed on a former institution shall be deemed to be the rights, obligations and contracts of the registered community.
+(2) Notwithstanding any provision in this Act to the contrary, all agreements entered into between a community for the use of community land in the interest of defence, public safety, public order, public morality, public health, land use planning or shall continue in force.
+3. On the appointed day-Assets and liabilities.
+(a) all funds, assets, and other property, moveable and immovable which, immediately before the appointed day were vested in a former institution, shall, on the appointed duy, vest in the registered community;
+(b) every public officer having the power or duty to effect or amend any entry in a register relating to property, or to issue or amend any certifi cate or other document effecting or evidencing title to properly, shall, without payment of a fee or other charge and upon request made by or on behalf of the registered community, do all such things as are by law necessary to give effect to the transfer of property referred to under paragraph (a); and
+(c) all rights, powers, liabilities and duties whether arising under any written law or otherwise howsoever, which immediately before the appointed day were vested in, imposed on or Community Land enforceable by or against a former institution shall, by virtue of this paragraph, be tansferred to, vested in, imposed on or enforceable by or against the registered community.
+4. On or after the appointed day, all actions, suits or Legal legal proceedings whatsoiver pending by or against the proceedings' former institution shall be carried on or prosecuted by or against the registered community, and no such action, suit or legal proceedings shall in any manner abate or be prejudicially affected by the enactment of this Act.
+5. The Cabinet Secretary shall prescribe procedures Pending appeals for the determination of aU pending appeals to the to the Minister Minister brought under any of the r.p.i.d tu*r. over.communitv
+6. Any reference to a former institution in any Reference to written law or in any contract, document or instrument of written laws. whatever nature shall, on the commencement of this Act, be read and construed as a reference to the registered community.
+7. All directions, orders and authorizations givetr, or Directions, licenses or permits issued, or registrations made by a orders, etc of former institution and subsisting or valid immediately former institution. before the appointed duy, shall be deemed to have been given, issued or made by the registered community under this Act.
+8. Nothing in this Schedule shall be construed as giving exemption to the application of the provisions of Article 63(4) of the Constitution.
