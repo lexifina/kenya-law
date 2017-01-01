@@ -1,20 +1,20 @@
 # 25A. Imposition of additional sanctions and penalties
-(1) Without prejudice to any other provision of this Act, the Authority may impose the following sanctions or levy financial penalties in accordance with this Act, for the breach of any provisions of this Act, the regulations, rules, guidelines, notices or directions made thereunder, or the rules of procedure of a securities exchange, by a licensed or approved person, listed company, employee or a director of a licensed or approved person or director of a listed company as provided under section 11(3)(cc)—
-(a) with respect to a licensed person, listed company, securities exchange or other approved person—
+(1) Without prejudice to any other provision of this Act, the Authority may impose the following sanctions or levy financial penalties in accordance with this Act, for the breach of any provisions of this Act, the regulations, rules, guidelines, notices or directions made thereunder, or the rules of procedure of a securities, commodities or derivatives exchange, by a licensed or approved person, listed company, employee or a director of a licensed or approved person or director of a listed company as provided under section 11(3)(cc)—
+(a) with respect to a licensed person, listed company, securities, commodities or derivatives exchange or other approved person—
 (i) a public reprimand;
-(ii) suspension in the trading of a listed company's securities for a specified period;
+(ii) suspension in the trading of a listed company's securities, commodities or derivatives for a specified period;
 (iii) suspension of a licensed person from trading for a specified period;
 (iv) restriction on the use of a licence;
 (v) recovery from such person of an amount equivalent to two times the amount of the benefit accruing to such person by virtue of the breach;
 (vi) the levying of financial penalties not exceeding ten million shillings;
 (vii) revocation of the licence of such person;
-(b) with respect to an employee of a licensed or approved person, including a securities exchange—
+(b) with respect to an employee of a licensed or approved person, including a securities, commodities or derivatives exchange—
 (i) require the licensed or approved person to take disciplinary action against the employee;
 (ii) disqualification of such employee from employment in any capacity by any licensed or approved person or listed company for a specified period;
 (iii) recovery from the employee of a licensed or approved person an amount double the benefit accruing to such person be reason of the breach;
 (iv) the levying of financial penalties not exceeding five million shillings;
-(c) with respect to a director of a listed company or a licensed or approved person, including a securities exchange—
-(i) disqualification of such person from appointment as a director of a listed company or licensed or approved person including, a securities exchange;
+(c) with respect to a director of a listed company or a licensed or approved person, including a securities, commodities or derivatives exchange—
+(i) disqualification of such person from appointment as a director of a listed company or licensed or approved person including, a securities, commodities or derivatives exchange;
 (ii) the recovery from such person of an amount equivalent to two times the amount of the benefit accruing to the person by reason of the breach;
 (iii) the levying of financial penalties in such amounts as may be prescribed.
 (2) In addition to any other sanction or penalty that may be imposed under this section, the Authority may make orders for restitution, subject to the provisions of subsection (3).

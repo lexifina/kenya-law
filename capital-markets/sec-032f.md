@@ -1,7 +1,7 @@
 # 32F. Market manipulation
 (1) A person who enters into or carries out, directly or indirectly, two or more transactions in the securities of a company, or in other listed securities, which by themselves or in conjunction with any other transaction—
 (a) increase, or are likely to increase the price with the intention of inducing another person to purchase, or subscribe for, or to refrain from selling securities issued by the same company or a related company, or such other listed securities;
-(b) reduce, or are likely to reduce, the price with the intention of inducing another person to sell , or to refrain from purchasing, securities issued by the same company or a related company, or such other listed securities; or
+(b) reduce, or are likely to reduce, the price with the intention of inducing another person to sell, or to refrain from purchasing, securities issued by the same company or a related company, or such other listed securities; or
 (c) stabilize, or are likely to stabilize, the price with the intention of inducing another person to sell, purchase, or subscribe for, or to refrain from selling, purchasing or subscribing for, securities issued by the same company or by a related company, or such other listed securities,
 commits an offence.
 (2) For the purposes of this section, "securities" includes exchange-traded derivatives contracts, and options on futures contracts, in connection with securities.
