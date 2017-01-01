@@ -1,8 +1,8 @@
 # SECOND SCHEDULE
 CONSEQUENTIAL AMENDMENTS
 1. This Schedule amends the Income Tax Act, the Kenya Revenue Authority Act, 1995, and the Value Added Tax Act, 2013
-2. The Income Tax is amended in Part VI by deleting section 51A(a).
-3. The Income Tax Act is amended in Part VII by deleting section 56.
+2. The Income Tax is amended in Part VI by deleting sections 35 (6B), 37 (6) and 51A (a).
+3. The Income Tax Act is amended in Part VII by deleting section 55 and 56.
 4. The Income Tax Act is amended in Part VIII by deleting sections 69, 70, 71, 72A, 74B, 75, 75B, 77, 78, 79, 80, and 81.
 5. The Income Tax Act is amended in Part X by deleting sections 84 to 91A.
 6. The Income Tax Act is amended in Part XI by deleting sections, 92(6), 92(7), 92(8), 93 to 96A, and 100 to 103.
