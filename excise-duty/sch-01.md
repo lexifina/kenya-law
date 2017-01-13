@@ -1,4 +1,4 @@
-# FIRST SCHEDULE
+# FIRST SCHEDULE Section 5 (2).
 RATES OF EXCISE DUTY
 1. Subject to paragraph 2, the rates of excise duty on excisable goods are as set out in the following table:
 Part I — EXCISABLE GOODS
@@ -35,7 +35,7 @@ Electronic cigarettes | Shs. 3000 per unit
 Cartridge for use in electronic cigarettes | Shs. 2000 per unit
 Cigarettes containing tobacco or tobacco substitutes | Shs. 2500 per mille
 Other manufactured tobacco and manufactured tobacco substitutes; "homogenous" and "reconstituted tobacco"; tobacco extracts and essences | Shs. 7000 per kg
-Motor vehicles excluding school buses for use by public schools of tariff heading 87.02, 87.03 and 87.04 | 20%
+Motor vehicles excluding locally assembled motor vehicles and school buses for use by public schools of tariff heading 87.02, 87.03 and 87.04 | 20%
 Motor cycles of tariff 87.11 other than motor cycle ambulances and locally assembled motor cycles | Shs. 10,000 per unit
 Plastic shopping bags | Shs. 120 per kg
 2. (1) The specific rates of excise duty on excisable goods specified in this Schedule shall be adjusted for inflation at the beginning of every financial year in accordance with this paragraph.
@@ -51,7 +51,7 @@ Part II — EXCISABLE SERVICES
 4. Excise duty on other fees charged by financial institutions shall be ten percent of their excisable value.
 Part III — INTERPRETATION OF SCHEDULE
 In this Schedule—
-"Adjustment day" means 1st July of every year;
+"Adjustment day" means 1st day of July of every year;
 "beer" includes ale, porter, and any other description of beer and any liquor, including beer substitute, which is produced as a result of the alcoholic fermentation of an extract derived from barley, malt, a cereal grain, starch or saccharine matter and hops or hops substitute, in potable water with other substitute ingredients and which contains more than two per centum of proof spirit, but does not include—
 (a) any beer brewed by any person for personal consumption and which is not offered for sale; or
 (b) any kind of beer that, by order of the Cabinet Secretary, is excluded from the provisions of this Act;
