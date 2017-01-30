@@ -10,7 +10,7 @@ PROVISIONS AS TO THE CONDUCT OF THE BUSINESS AND AFFAIRS OF THE COMMISSION
 8. Subject to paragraph 5, no proceedings of the Commission shall be invalid by reason only of a vacancy among the members thereof.
 9. (1) The secretary shall be the secretary at all meetings of the Commission.
 (2) The Commission shall, subject to subparagraph (3), establish a committee for liaison with political parties and may establish committees of its members for any other purpose.
-(3) The Political Parties Liaison Committee established under the Political Parties Act, No. 11 of 2011, consists or the designated members of the Commission and the representatives of every political party with one or more candidates validly nominated for the election; and the Commission shall consult with the committee on all matters relating to the election.
+(3) Deleted .
 10. The Commission shall cause minutes of all proceedings of meetings of the Commission to be entered in books for that purpose.
 11. Except as provided by this Schedule, the Commission may regulate its own procedure.
 12. (1) If any person is present at a meeting of the Commission or any committee at which any matter is the subject of consideration and in which matter that person or that directly or indirectly interested in a private capacity, that person shall as soon as is practicable after the commencement of the meeting, declare such interest and shall not, unless the Commission or committee otherwise directs, take part in any consideration or discussion of, or vote on any question touching such matter.
