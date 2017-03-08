@@ -1,0 +1,6 @@
+# FIRST SCHEDULE
+SUMMONS TO WITNESSES (s. 18(3)) To............
+Whereas your attendance is required to ............ (state which county assembly or committee) in relation to (state subject matter), you are hereby required (personally) to appear before the.... .. (state which county assembly or committee) on the day of .,20......., at o'clock in the forenoon and to bring with you (spectJlt the information/document required to be produced).
+Your reasonable travelling and subsistence allowance for one day will be reimbursed upon production of sufficient proof of expenditure. If you fail to comply with this summons without lawful excuse, you will be subject to the consequences of non-attendance laid down in section 27 of the County Assembly Powers and Privileges Act.
+Given under my hand this ......... day of 20.......
+Clerk of the County Assembly of NOTICE: - If you are summoned only to produce a document and not to give evidence, you shall be deemed to have complied with the summons if you cause such document to be delivered to the Clerk on or before the day and hour aforesaid.
