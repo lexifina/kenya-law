@@ -1,4 +1,4 @@
-# FIRST SCHEDULE Section 5 (2).
+# FIRST SCHEDULE
 RATES OF EXCISE DUTY
 1. Subject to paragraph 2, the rates of excise duty on excisable goods are as set out in the following table:
 Part I — EXCISABLE GOODS
@@ -29,16 +29,17 @@ Waters (excluding water of tariff No. 2201.90.00) and other non-alcoholic bevera
 Beer, Cider, Perry, Mead, Opaque beer and mixtures of fermented beverages with non-alcoholic beverages and spirituous beverages of alcoholic strength not exceeding 10% | Shs. 100 per litre
 Powdered beer | Shs. 100 per kg
 Wines including fortified wines, and other alcoholic beverages obtained by fermentation of fruits | Shs. 150 per litre
-Spirits of undenatured ethyl alcohol; spirits liqueurs and other spirituous beverages of alcoholic strength exceeding 10% | Shs. 175 per litre
+Spirits of undenatured ethyl alcohol; spirits liqueurs and other spirituous beverages of alcoholic strength exceeding 10% | Shs. 200 per litre
 Cigars, cheroots, cigarillos, containing tobacco or tobacco substitutes | Shs. 10000 per kg
 Electronic cigarettes | Shs. 3000 per unit
 Cartridge for use in electronic cigarettes | Shs. 2000 per unit
-Cigarettes containing tobacco or tobacco substitutes | Shs. 2500 per mille
+Cigarette with filters (Hinge lid and soft cap) | Shs. 2,500 per mille
+Cigarettes without filters (plain cigarettes) | Shs. 1,800 per mille
 Other manufactured tobacco and manufactured tobacco substitutes; "homogenous" and "reconstituted tobacco"; tobacco extracts and essences | Shs. 7000 per kg
 Motor vehicles excluding locally assembled motor vehicles and school buses for use by public schools of tariff heading 87.02, 87.03 and 87.04 | 20%
 Motor cycles of tariff 87.11 other than motor cycle ambulances and locally assembled motor cycles | Shs. 10,000 per unit
 Plastic shopping bags | Shs. 120 per kg
-2. (1) The specific rates of excise duty on excisable goods specified in this Schedule shall be adjusted for inflation at the beginning of every financial year in accordance with this paragraph.
+2. (1) The specific rates of excise duty on excisable goods specified in this Schedule shall be adjusted for inflation every two years in accordance with this paragraph.
 (2) Each rate of excise duty specified in column 2 of the table in paragraph 1 shall be replaced by the rate of excise duty computed by reference to the following formula—
 A (1+ B)
 where —
@@ -76,6 +77,7 @@ In this Schedule—
 "other fees" includes any fees, charges or commissions charged by financial institutions relating to their licensed financial institutions, but does not include interest on loan or return on loan or an insurance premium or premium based or related commissions;
 "inflation" means the average annual inflation rate in a financial year;
 "money transfer services" includes services of sending and withdrawal of money;
+"powdered beer" means any powder, crystals or any other dry substance which, after being mixed with water or any other nonalcoholic beverage, ferments to, or otherwise becomes an alcoholic beverage;
 "proof" means a standard of strength of distilled alcoholic liquors (or of vinegar);
 "proof spirit" means spirit that at a temperature of 10.55 degrees Centigrade weighs 12/13th of an equal volume of distilled water at the same temperature;
 "rate of monthly inflation in each month" means the movement in the consumer price index number published by the Kenya National Bureau of Statistics for that month when compared to the same month in the preceding year;
