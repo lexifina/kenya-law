@@ -1,0 +1,42 @@
+# FIRST SCHEDULE
+(s. 7(3), 11(1))
+PROCEDURE FOR APPOINTMENT OF CHAIRPERSON AND
+MEMBERS OF THE COMMISSION Selection Panel.
+1. (1) Whenever a vacancy arises, the President shall, within fourteen days by notice in the Government Gazette, declare vacancies in the Commission and constitute a selection panel comprising of the following —
+(a) a representative from the Office of the President;
+(b) a representative from the office of the Attorney-General;
+(c) a representative from the Ministry responsible for the Public Service;
+(d) a representative from the Institute of Certified Public Accountants of Kenya ;
+(e) a representative from the Institute of Human Resource Management who should be knowledgeable in human resource practices;
+(t) a representative from the Federation of Kenya Employers who should be knowledgeable in labour relations; and
+(g) a representative from the National Council for Persons with Disabilities.
+(2) The panel shall elect a chairperson and a vice chairperson from amongst its members.
+(3) Subject to the provisions of this Schedule, the panel shall determine its own procedure.
+(4) The Office of the Secretary to the Cabinet shall provide facilities and any support required by the panel in the performance of its functions.
+(5) This procedure shall start at least six months before the expiry of the term of a member of the Commission.
+Oath or affirmation of office.
+2. The chairperson, vice chairperson and members of the panel shall, before assuming office, take and subscribe the oath or affirmation of office prescribed in the Third Schedule.
+Selection of nominees.
+3. (1) The panel shall, within fourteen days of appointment, invite applications from qualified persons and publish the names of all applicants and their qualifications in the Gazette, at least two newspapers with nationwide circulation and on the Commission's website.
+(2) The panel shall consider the applications, shortlist and interview the applicants.
+(3) After carrying out the interviews, the panel shall —
+(a) select three persons qualified to be appointed as chairperson;
+(b) select three persons qualified to be appointed as vice-chairperson; and
+(c) select three persons qualified to be appointed as members of the Commission for each vacancy; and
+(d) forward the names of the persons selected under paragraphs (a),
+(b) and (c) to the President for nomination as the chairperson, vice-chairperson or member respectively or as the case may be.
+(5) In nominating or appointing persons as members of the Commission, the panel and the President shall —
+(a) observe the principle of gender equity, ethnic and other diversities of the people of Kenya, and shall ensure equality of opportunity for persons with disabilities; and
+(b) take into account the national values and principles set out in Articles 10 and 232 of the Constitution.
+Approval by the National Assembly.
+4. (1) The National Assembly shall within fourteen days of its sitting, consider all nominations received and approve or reject any of them.
+(2) Upon approval by the National Assembly, the Speaker shall within seven days of the approval, forward the names of the approved persons to the President for appointment.
+Rejection by National Assembly.
+5. (1) Where the National Assembly rejects any nomination pursuant to paragraph 4(1), the Speaker shall, within seven days, notify the President of the rejection.
+(2) The President shall within fourteen days of the rejection, submit to the National Assembly a fresh nomination from amongst the list of nominees received from the panel under paragraph 3(3).
+(3) If the National Assembly rejects all or any subsequent nominee submitted under sub -paragraph (2), the panel shall forward to the President fresh names from the persons shortlisted and interviewed under No. 10 paragraph 3(2) and the provisions of paragraphs 3(4), 4 and 5 shall with necessary modifications, apply.
+Appointment of chairperson, vice-chairperson and members.
+6. The President shall by notice in the Government Gazette, appoint the chairperson, vice-chairperson and the members approved and forwarded by the National Assembly within seven days upon receipt of the approved names.
+Dissolution of panel.
+7. The panel shall stand dissolved when the appointments are made under paragraph 6.
+8. Notwithstanding any other provision of this Schedule, the President may, by notice in the Gazette, extend the period specified in respect of any matter under this Schedule by a period not exceeding twenty-one days.
