@@ -4,9 +4,9 @@ PROVISIONS AS TO THE CONDUCT OF THE BUSINESS AND AFFAIRS OF THE COMMISSION
 2. A meeting of the Commission shall be held on such date and at such time as the chairperson shall decide.
 3. The chairperson shall, on the written application of one-third of the members, convene a special meeting of the Commission.
 4. Unless the majority of the total membership or the Commission otherwise agree, at least fourteen days' written notice of every meeting of the Commission shall be given to every member of the Commission.
-5. The quorum for the conduct of business at a meeting of the Commission shall be at least five members of the Commission.
+5. The quorum for the conduct of business at a meeting of the Commission shall be at least half of the existing members of the Commission, provided that the quorum shall not be less than thre members;
 6. The chairperson shall preside at every meeting of the Commission at which he is present and in the absence of the chairperson at a meeting, the vice-chairperson, shall preside and in the absence of both the chairperson and the vice-chairperson, the members present shall elect one of their number who shall, with respect to the meeting and the business transacted there at have all the powers of the chairperson.
-7. Unless a unanimous decision is reached, a decision on any matter before the Commission shall be by concurrence of a majority of all the members.
+7. Unless a unanimous decision is reached, a decision on any matter before the Commission shall be by a majority of the members present and voting.
 8. Subject to paragraph 5, no proceedings of the Commission shall be invalid by reason only of a vacancy among the members thereof.
 9. (1) The secretary shall be the secretary at all meetings of the Commission.
 (2) The Commission shall, subject to subparagraph (3), establish a committee for liaison with political parties and may establish committees of its members for any other purpose.
