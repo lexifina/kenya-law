@@ -9,6 +9,10 @@ Part I
 6. The Entertainment Tax Act (Cap. 479).
 7. The East African Community Customs Management Act, 2004.
 8. The Annexes to the Protocol on the Establishment of the East African Community Customs Union.
+9. Value Added Tax Act, 2013.
+10. Excise Duty Act, 2015.
+11. Tax Procedures Act, 2015.
+12. Miscellaneous Fees and Levies Act, 2016.
 Part II
 1. The Traffic Act (Cap. 403).
 2. The Transport Licensing Act (Cap. 404).
