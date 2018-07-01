@@ -19,6 +19,15 @@ In this Part, "international agreement" means an agreement between the Governmen
 9. Excisable goods imported or purchased locally for direct and exclusive use in the implementation of an Official Aid-Funded Project, to the extent provided for under the financing agreement.
 10. Excisable goods imported or purchased locally for direct use in the manufacture of sanitary towels.
 11. All goods including materials supplies, equipment, machinery and motor vehicles for the official use by the Kenya Defence Forces and the National Police Service.
+12. Alcoholic or non-alcoholic beverages supplied to the Kenya Defence Forces Canteen Organization.
+13. Goods imported or purchased locally for direct and exclusive use in the implementation of projects under special operating framework arrangements with the Government.
+14. One personal motor vehicle, excluding buses and minibuses of seating capacity of more than eight seats, imported by a public officer returning from a posting in a Kenyan mission abroad and another motor vehicle by his or her spouse and which is not exempted from excise duty under item 6 of Part A of the Second Schedule:
+Provided that the exemption under this item shall not apply—
+(a) unless the officer is returning to Kenya from a posting in a Kenyan mission abroad upon recall;
+(b) unless, in the case of an officer's spouse, the spouse accompanied the officer in the foreign mission and is returning with the officer;
+(c) if the officer or the spouse has either enjoyed a similar privilege within the previous four years from the date of importation or has imported a motor vehicle free of duty under item 6 of Part A of this Schedule;
+(d) unless the vehicle is imported within ninety days of the date of arrival of the officer or spouse or such longer period, not exceeding three hundred and sixty days from such arrival as the Commissioner may allow; and
+(e) a state officer.
 PART B — EXEMPT EXCISABLE SERVICES
 1. The following excisable services shall be exempt from excise duty—
 (a) Excisable services supplied in Kenya to a diplomatic or consular mission or to a diplomat or consul, or a member of the diplomat or consul's family forming part of the diplomat or consul's household in Kenya to the extent provided for under the Privileges and Immunities Act (Cap. 179).
