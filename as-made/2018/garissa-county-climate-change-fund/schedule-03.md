@@ -1,0 +1,2 @@
+# SECOND SCHEDULE
+PROCUREMENT MATRIX (Section 30) Approach to Seeking Minimum Cost of Goods and services number ( Kenya Shillings) Direct Purchase (single 1 As specified in the Public Procurement and Asset Disposal Act 2015 and its Regulations Targeted invitation to already 2 As specified in the Public known or new suppliers, not Procurement and Asset disposal widely circulated Act, 2015 and its Regulations Open Tender widely 3 As specified in the Public Procurement and Asset disposal Act, 2015 and its Regulations
