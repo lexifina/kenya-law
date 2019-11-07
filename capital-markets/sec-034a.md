@@ -6,6 +6,7 @@
 (b) on any subsequent offence, in the case of—
 (i) an individual, to a fine not exceeding ten million shillings or to imprisonment for a term not exceeding five years and pay three times the amount of any gain made or loss avoided as a result of the contravention; or
 (ii) a company, to a fine not exceeding thirty million shillings and pay three times the amount of any gain made or loss avoided as a result of the contravention.
+(1A) The financial penalties imposed under subsections (1) and (2) shall be recoverable summarily by the Authority as civil debts.
 (2) The court may make an order for the payment by a person convicted for an offence under this Act of compensation to a person who suffers loss by reason of the offence.
 (3) An order for compensation under subsection (2) may be in addition to or in substitution of any other penalty or remedy available to that person.
 (4) The amount of restitution or compensation for which a person is liable under subsection (2), is—

@@ -1,0 +1,2 @@
+# 39A. Penalty for failure to deduct or withhold tax
+Where a person who is required under a tax law to deduct or withhold tax and remit the tax to the Commissioner fails to do so, the provisions of this Act relating to the collection and recovery of tax, and the payment of penalties and interest thereon, shall apply to the collection and recovery of that tax not deducted or withheld as if it were tax due and payable by that person and the due date for the payment shall be the date on which the amount of tax should have been remitted to the Commissioner.
