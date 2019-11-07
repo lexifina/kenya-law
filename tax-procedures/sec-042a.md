@@ -1,5 +1,6 @@
 # 42A. Appointment of Value Added Tax withholding agent
-(1) The Commissioner may appoint a person to withhold six per cent of the taxable value on purchasing taxable supplies at the time of paying for the supplies and remit the same directly to the Commissioner.
+(1) The Commissioner may appoint a person to withhold two per cent of the taxable value on purchasing taxable supplies at the time of paying for the supplies and remit the same directly to the Commissioner:
+Provided that the withholding tax shall not apply to the taxable value of zero-rated supplies.
 (2) The Commissioner may, at any time, revoke the appointment of a tax withholding agent made under subsection (1), if the Commissioner deems it appropriate to do so.
 (3) Subsection (1) shall not apply to taxable supplies for official aid-funded projects.
 (4) For the avoidance of doubt, the withholding of tax under subsection (1) shall not relieve the supplier of taxable supplies of the obligation to account for tax in accordance with this Act and the regulations.
