@@ -4,4 +4,4 @@
 (a) suspend any provision of the constitution or rules of a self-regulatory organization for a period specified in the direction;
 (b) require a self-regulatory organization, subject to the Companies Act (Cap. 486) or any other law, to amend its constitution in the manner specified in the direction so as to bring it in conformity with this Act, or any other law;
 (c) require a self-regulatory organization to amend its rules; or
-(d) require a self-regulatory organization to implement or enforce its constitution or its rules.
+(d) require a v organization to implement or enforce its constitution or its rules.
