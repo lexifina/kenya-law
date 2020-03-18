@@ -44,12 +44,14 @@ Motor cycles of tariff 87.11 other than motor cycle ambulances and locally assem
 Imported sugar confectionary of tariff heading 17.04; | Shs. 20 per kg
 Imported white chocolate, chocolate in blocs, slabs or bars of tariff Nos. 1806.31.00, 1806.32.00, 1806.90.00 | Shs. 200 per kg
 Imported gas cylinders | 35%
+Imported Glass bottles (excluding imported glass bottles for packaging of pharmaceutical products) | 25%
 2. (1) The specific rates of excise duty on excisable goods specified in this Schedule shall be adjusted for inflation at the beginning of every financial year in accordance with this paragraph.
 (2) Each rate of excise duty specified in the table in paragraph 1 shall be replaced by the rate of excise duty computed by reference to the following formula—
 A (1 + B)
 where —
 A is the rate of excise duty on the day immediately before the adjustment day; and
 B is the adjustment factor for the adjustment day, calculated as the average rate of monthly inflation of the preceding financial year.
+[Act No. 38 of 2016, s. 24(g), Act No. 15 of 2017, s. 5(a)(iii), Act No. 10 of 2018, s. 32(a)(iv) & (v).]
 Part II — EXCISABLE SERVICES
 1. Telephone and internet data services shall be charged excise duty at a rate of fifteen percent of their excisable value.
 2. Excise duty in fees charged for money transfer services by banks, money transfer agencies and other financial service providers shall be twenty percent of their excisable value.
