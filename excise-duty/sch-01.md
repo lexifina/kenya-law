@@ -39,8 +39,8 @@ Other manufactured tobacco and manufactured tobacco substitutes; "homogenous" an
 Motor vehicles of tariff heading 87.02, 87.03 and 87.04 excluding -(i) locally assembled motor vehicles;(ii) school buses for use by public schools;(iii) motor vehicles of tariff no. 8703.24.90 and 8703.33.90; and(iv) imported motor vehicles of cylinder capacity exceeding 1500cc | 20%
 Imported motor vehicles of cylinder capacity exceeding 1500 cc of tariff heading 87.02, 87.03 and 87.04 | 25%
 Motor vehicles of tariff no. 8703.24.90 and 8703.33.90 | 35%
-100% electric powered motor vehicles of tariff no. 8702.40.11, 8702.40.19, 8702.40.21, 8702.40.22, 8702.40.29, 8702.40.91, 8702,40,99 and 8703.80.00 | 10%
 Motor cycles of tariff 87.11 other than motor cycle ambulances and locally assembled motor cycles | Shs. 10,000 per unit
+100% electric powered motor vehicles of tariff no. 8702.40.11, 8702.40.19, 8702.40.21, 8702.40.22, 8702.40.29, 8702.40.91, 8702.40.99 and 8703.80.00 | 10%
 Imported sugar confectionary of tariff heading 17.04; | Shs. 20 per kg
 Imported white chocolate, chocolate in blocs, slabs or bars of tariff Nos. 1806.31.00, 1806.32.00, 1806.90.00 | Shs. 200 per kg
 Imported gas cylinders | 35%
@@ -51,7 +51,7 @@ A (1 + B)
 where —
 A is the rate of excise duty on the day immediately before the adjustment day; and
 B is the adjustment factor for the adjustment day, calculated as the average rate of monthly inflation of the preceding financial year.
-[Act No. 38 of 2016, s. 24(g), Act No. 15 of 2017, s. 5(a)(iii), Act No. 10 of 2018, s. 32(a)(iv) & (v).]
+[Act No. 38 of 2016, s. 24(g), Act No. 15 of 2017, s. 5(a)(iii), Act No. 10 of 2018, s. 32(a) (iv) & (v).]
 Part II — EXCISABLE SERVICES
 1. Telephone and internet data services shall be charged excise duty at a rate of fifteen percent of their excisable value.
 2. Excise duty in fees charged for money transfer services by banks, money transfer agencies and other financial service providers shall be twenty percent of their excisable value.
@@ -83,7 +83,7 @@ In this Schedule—
 (b) a Sacco society registered under the Sacco Societies Act, 2008; or
 (c) the Kenya Post Office Savings Bank established the Kenya Post Office Savings Bank Act;
 "financial year" means the period of twelve months ending on the 30th June of every year;
-"other fees" includes any fees, charges or commissions charged by financial institutions relating to their licensed financial institutions, but does not include interest on loan or return on loan or fees or commissions earned in respect of a loan or any share of profit or an insurance premium or premium based or related commissions specified in the Insurance Act or regulations made thereunder;
+"other fees" includes any fees, charges or commissions charged by financial institutions relating to their licensed activities, but does not include interest on loan or return on loan or fees or commissions earned in respect of a loan or any share of profit or an insurance premium or premium based or related commissions specified in the Insurance Act or regulations made thereunder;
 "inflation" means the average annual inflation rate in a financial year;
 "money transfer services" includes services of sending and withdrawal of money;
 "powdered beer" means any powder, crystals or any other dry substance which, after being mixed with water or any other nonalcoholic beverage, ferments to, or otherwise becomes an alcoholic beverage;
