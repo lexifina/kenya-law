@@ -7,7 +7,8 @@ The Authority may, if it appears to it that—
 (e) a listed company has furnished the Authority with false, inaccurate or misleading information;
 (f) there is a breach of the listing agreement in respect of any other securities;
 (g) an issuer or other obligated party has furnished the Authority with false, inaccurate or misleading information; or
-(h) an issuer or offeror has contravened or is about to contravene a provision of this Act, issue directions to an issuer or offeror of an approved offer or in the case of other listed securities to the responsible or relevant party—
+(h) an issuer or offeror has contravened or is about to contravene a provision of this Act,
+issue directions to an issuer or offeror of an approved offer or in the case of other listed securities to the responsible or relevant party—
 (i) to cease and desist from the breach;
 (ii) to do or not to do any matter as specified; or
 (iii) with regard to any other matter that the Authority may consider necessary.
