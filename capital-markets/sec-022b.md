@@ -3,7 +3,8 @@
 (a) there is in place, an act of Government affecting securities or commodities;
 (b) there is a major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for such securities or commodities;
 (c) there is a threatened or actual manipulation of the market;
-(d) the Authority considers it necessary or expedient in the interest of the public or for the protection of the interests of the investors, direct, by notice in writing, a securities exchange or a derivatives exchange to take such action as the Authority considers necessary to—
+(d) the Authority considers it necessary or expedient in the interest of the public or for the protection of the interests of the investors,
+direct, by notice in writing, a securities exchange or a derivatives exchange to take such action as the Authority considers necessary to—
 (i) maintain or restore the fair, efficient and transparent trading in securities or any class of securities or exchange-traded derivatives contracts or any class of exchange-traded derivatives contracts; or
 (ii) liquidate any position in respect of any securities or any class of securities or exchange-traded derivatives contracts or any class of exchange-traded derivatives contracts.
 (2) A notice issued under subsection (1) may include a directive—
