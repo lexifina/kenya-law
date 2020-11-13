@@ -1,14 +1,15 @@
 # FIRST SCHEDULE
 PROCEDURE FOR APPOINTMENT OF CHAIRPERSON AND MEMBERS OF THE COMMISSION
-1. (1) At least six months before the lapse of the term of the chairperson or member of the Commission or within fourteen days of the declaration of a vacancy in the office of the chairperson or member of the Commission under the Constitution or this Act, the President shall appoint a selection panel consisting of such persons as Parliament shall determine for the purposes of appointment of the chairperson or member of the Commission.
-(2) For the purpose of the first appointment of commissioners upon the commencement of section 5, the selection panel shall consist of —
-(a) four persons, being two men and two women, nominated by the Parliamentary Service Commission;
-(b) one person nominated by the Kenya Conference of Catholic Bishops;
-(c) one person nominated by the National Council of Churches of Kenya;
-(d) one person nominated by the Supreme Council of Kenya Muslims, the National Muslim Leaders Forum and the Council of Imams and Preachers of Kenya;
-(e) one person nominated by the Evangelical Alliance of Kenya; and
-(f) one person nominated by the Hindu Council of Kenya.
-(3) The respective nominating bodies under sub-paragraphs (2)(b) to (f) shall submit the names of their nominees to the Parliamentary Service Commission for transmission to the President for appointment.
+1. (1) At least six months before the lapse of the term of the chairperson or member of the Commission or within fourteen days of the declaration of a vacancy in the office of the chairperson or member of the Commission under the Constitution or this Act, the President shall appoint a selection panel consisting of seven persons for the purposes of appointment of the chairperson or member of the Commission.
+(2) The selection panel shall consist of —
+(a) two men and two women nominated by the Parliamentary Service Commission;
+(b) one person nominated by the Law Society of Kenya; and
+(c) two persons nominated by the Inter-religious Council of Kenya.
+(2A) A person is qualified for appointment as a member of the selection panel if such person —
+(a) is a citizen of Kenya;
+(b) meets the requirements of leadership and integrity set out in Chapter Six of the Constitution; and
+(c) holds a degree from a university recognized in Kenya.
+(3) The respective nominating bodies under sub-paragraphs (2)(b) and (c) shall, within seven days of the declaration of a vacancy in the office of the chairperson or member of the Commission, submit the names of their nominees to the Parliamentary Service Commission for transmission to the President for appointment.
 (4) The selection panel shall, at its first sitting, elect a chairperson and vice-chairperson from amongst its number.
 (5) Subject to the provisions of this Schedule, the selection panel shall determine its own procedure.
 (6) The Parliamentary Service Commission shall provide the secretariat services and facilities required by the selection panel in the performance of its functions.
