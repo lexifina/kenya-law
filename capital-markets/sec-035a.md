@@ -27,7 +27,7 @@
 (a) confirm, set aside or vary the order or decision in question;
 (b) exercise any of the powers which could have been exercised by the Authority or any of its committees in the proceedings in connection with which the appeal is brought; or
 (c) make such other order, including an order, for costs, as it may deem just.
-(17) Upon any appeal to the Tribunal under this section the status quo of any matter or activity, which is the subject of the appeal, shall be maintained until the appeal is determined.
+(17) The Tribunal shall hear and determine an appeal within ninety days from the date of filing of the appeal.
 (18) The Tribunal shall have power to award the costs of any proceedings before it and to direct that costs shall be paid in accordance with any scale prescribed for suits in the High Court or to award a specific sum as costs.
 (19) Where the Tribunal awards costs in an appeal, it shall, on application by the person to whom the costs are awarded, issue to him a certificate stating the amount of the costs.
 (20) Every certificate issued under subsection (19) may be filed in the High Court by the person in whose favour the costs have been awarded and upon being so filed, shall be deemed to be a decree of the High Court and may be executed as such.
