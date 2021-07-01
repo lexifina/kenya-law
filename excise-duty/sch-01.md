@@ -40,11 +40,39 @@ Motor vehicles of tariff heading 87.02, 87.03 and 87.04 excluding -(i) locally a
 Imported motor vehicles of cylinder capacity exceeding 1500 cc of tariff heading 87.02, 87.03 and 87.04 | 25%
 Motor vehicles of tariff no. 8703.24.90 and 8703.33.90 | 35%
 Motor cycles of tariff 87.11 other than motor cycle ambulances and locally assembled motor cycles | Shs. 10,000 per unit
-100% electric powered motor vehicles of tariff no. 8702.40.11, 8702.40.19, 8702.40.21, 8702.40.22, 8702.40.29, 8702.40.91, 8702.40.99 and 8703.80.00 | 10%
-Imported sugar confectionary of tariff heading 17.04; | Shs. 20 per kg
-Imported white chocolate, chocolate in blocs, slabs or bars of tariff Nos. 1806.31.00, 1806.32.00, 1806.90.00 | Shs. 200 per kg
+100% electric powered motor vehicles of tariff no. 8702.40.11, 8702.40.19, 8702.40.21, 8702.40.22, 8702.40.29, 8702.40.91, 8702.40.99 and 87.03.80.00 | 10%
+Imported sugar confectionary of tariff heading 17.04; | Shs. 35 per kg
+White chocolate, chocolate in blocs, slabs or bars of tariff Nos. 1806.31.00, 1806.32.00, 1806.90.00 | Shs. 200 per kg
 Imported gas cylinders | 35%
-Imported Glass bottles (excluding imported glass bottles for packaging of pharmaceutical products) | 25%
+Imported Glass bottles (excluding imported glass bottles for packaging of pharmaceutical products)Provided that it shall not apply to glass bottles imported from any of the countries within the East African Community. | 25%
+Jewellery of tariff heading 7113 and imported jewellery of tariff heading 7117 | 10%
+Products containing nicotine or nicotine substitutes intended for inhalation without combustion or oral application but excluding medicinal products approved by the Cabinet Secretary responsible for matters relating to health and other manufactured tobacco and manufactured tobacco substitutes that have been homogenized and reconstituted tobacco, tobacco extracts and essences | Shs. 1,200 per kg
+Articles of plastic of tariff heading 3923.30.00 | 10%
+Imported pasta of tariff 1902 whether cooked or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni, couscous, whether or not prepared | 20%
+Imported furniture of any kind used in offices, kitchen, bedroom and other furniture of tariff number 9403 | 25%
+Imported eggs of tariff heading 04.07 | 25%
+Imported onions of tariff heading 07.03 | 25%
+Imported potatoes, potato crisps and potato chips of tariff heading 07.01 | 25%
+3907.91.00 unsaturated polyester | 10%
+3907.50.00 Alkyd | 10%
+3905.91.00 Emulsion VAM | 10%
+3903.20.00 Emulsion-styrene Acrylic | 10%
+3905.19.00 Homopolymers | 10%
+3906.90.00 Emulsion B.A.M | 10%
+Jewellery of tariff heading 7113and imported jewellery of tariffheading 7117 | 10%
+Products containing nicotine or nicotine substitutes intended for inhalation without combustion or oral application but excluding medicinal products approved by the Cabinet Secretary responsible for matters relating to health and other manufactured tobacco and manufactured tobacco substitutes that have been homogenized and reconstituted tobacco, tobacco extracts and essences | Shs. 1,200 per kg
+Articles of plastic of tariff heading 3923.30.00 | 10%
+Imported pasta of tariff 1902 whether cooked or not cooked or stuffed (with meat or othersubstances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni, couscous, whether or not prepared | 20%
+Imported furniture of any kind used in offices, kitchen, bedroom and other furniture of tariff number 9403 | 25%
+Imported eggs of tariff heading 04.07 | 25%
+Imported onions of tariff heading 07.03 | 25%
+Imported potatoes, potato crisps and potato chips of tariff heading 07.01 | 25%
+3907.91.00 unsaturated polyester | 10%
+3907.50.00 Alkyd | 10%
+3905.91.00 Emulsion VAM | 10%
+3903.20.00 Emulsion-styrene Acrylic | 10%
+3905.19.00 Homopolymers | 10%
+3906.90.00 Emulsion B . A . M | 10%
 2. (1) The specific rates of excise duty on excisable goods specified in this Schedule shall be adjusted for inflation at the beginning of every financial year in accordance with this paragraph.
 (2) Each rate of excise duty specified in the table in paragraph 1 shall be replaced by the rate of excise duty computed by reference to the following formula—
 A(1+B)
@@ -52,10 +80,14 @@ where —
 A is the rate of excise duty on the day immediately before the adjustment day; and
 B is the adjustment factor for the adjustment day, calculated as the average rate of monthly inflation of the preceding financial year.
 Part II - EXCISABLE SERVICES
-1. Telephone and internet data services shall be charged excise duty at a rate of fifteen percent of their excisable value.
+1. Telephone and internet data services shall be charged excise duty at a rate of twenty percent of their excisable value.
 2. Excise duty in fees charged for money transfer services by banks, money transfer agencies and other financial service providers shall be twenty percent of their excisable value.
 3. Excise duty on fees charged for money transfer services by cellular phone service providers, shall be twelve percent of their excisable value.
 4. Excise duty on other fees charged by financial institutions shall be twenty percent of their excisable value.
+4A. Excise duty on betting shall be seven-point five per cent of the amount wagered or staked.
+4B. Excise duty on gaming shall be seven-point five percent of the amount wagered or staked.
+4C. Excise duty on prize competition shall be seven-point five percent of the amount paid or charged to participate in a prize competition.
+4D. Excise duty on lottery (excluding charitable lotteries) shall be seven-point five percent of the amount paid or charged to buy the lottery ticket.
 5. Deleted by Act No. 8 of 2020, s. 17(b).
 Part III - INTERPRETATION OF SCHEDULE
 In this Schedule—
@@ -82,7 +114,7 @@ In this Schedule—
 (b) a Sacco society registered under the Sacco Societies Act, 2008; or
 (c) the Kenya Post Office Savings Bank established the Kenya Post Office Savings Bank Act;
 "financial year" means the period of twelve months ending on the 30th June of every year;
-"other fees" includes any fees, charges or commissions charged by financial institutions relating to their licensed activities, but does not include interest on loan or return on loan or fees or commissions earned in respect of a loan or any share of profit or an insurance premium or premium based or related commissions specified in the Insurance Act or regulations made thereunder;
+"other fees" includes any fees, charges or commissions charged by financial institutions relating to their licensed activities, but does not include interest on loan or return on loan or any share of profit or an insurance premium or premium based or related commissions specified in the Insurance Act or regulations made thereunder;
 "inflation" means the average annual inflation rate in a financial year;
 "money transfer services" includes services of sending and withdrawal of money;
 "powdered beer" means any powder, crystals or any other dry substance which, after being mixed with water or any other nonalcoholic beverage, ferments to, or otherwise becomes an alcoholic beverage;
