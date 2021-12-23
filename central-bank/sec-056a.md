@@ -1,0 +1,2 @@
+# 56A. General Penalty
+A person convicted of an offence under this Act for which no other penalty is provided shall be liable to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding three years, or to both.
