@@ -1,0 +1,3 @@
+# 13C. Qualifications for Governor and Deputy Governor
+(1) The Governor and Deputy Governors shall be fit and proper persons of recognized professional standing and over ten years' experience at senior management level in the field of economics, banking, finance, law or other fields relevant to the functions of the Central Bank.
+(2) For the purposes of this section, "fit and proper" means possessing all the attributes to be taken into account in determining the suitability of a person to be appointed as Governor, including the person's general probity, competence and soundness of judgment for the fulfillment of the responsibilities of office and the diligence with which the person is likely to fulfill those responsibilities.
