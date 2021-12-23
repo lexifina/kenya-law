@@ -1,0 +1,7 @@
+# 33G. Powers of Bank to advise and direct dealers
+(1) If at any time or upon an inspection under section 33F, the Bank has reason to believe that the business of an authorized dealer is being conducted in a manner contrary to any of the requirements of this Part or any regulations made thereunder, or in a manner detrimental to or not in the best interests of the public, the Bank may—
+(a) give advice and make recommendations to the authorized dealer with regard to the conduct of business generally;
+(b) issue directions regarding measures to be taken to improve the management business methods of or the authorized dealer, or to secure compliance with the requirements of this Part or any other written law;
+(c) appoint a person suitably qualified and competent in the opinion of the Bank, to advise and assist the authorized dealer generally, or for the purposes of implementing any directions issued under paragraph (b), and the advice of a person so appointed shall have the same force and effect as a direction issued under paragraph (b) and shall be deemed to be a direction of the Bank under this section.
+(2) No direction shall be issued under paragraph (b) or (c) of subsection (1) unless the Bank has given the authorized dealer an opportunity to present its views.
+(3) An authorized dealer shall, on receipt of any direction under this section, comply with the direction within such period as may be specified in the direction, and it so required, produce evidence to the Bank that it has done so.
