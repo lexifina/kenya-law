@@ -1,0 +1,4 @@
+# 4C. Consultations on monetary policy
+(1) There shall be regular consultations on monetary policy between the Minister and the Bank.
+(2) Where in exceptional circumstances and after consultation with the Bank, the Minister is of the opinion that the monetary policy adopted by the Bank is inconsistent with the principal object of the Bank, the Minister may, upon resolution by Cabinet, direct the Bank in writing to adopt such monetary policy as the Minister may specify for a period of six months or for such shorter period as the Minister may specify, and the Bank shall, upon receipt of a directive under this section, adopt and implement the monetary policy so directed notwithstanding any other provision of this Act.
+(3) The Minister shall cause every directive issued under subsection (2) to be published in the Gazette.
