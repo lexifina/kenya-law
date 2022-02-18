@@ -1,0 +1,28 @@
+# Text
+Kenya Gazette Supplement No. 20
+21st February, 2021
+(Legislative Supplement No. 13)
+LEGAL NOTICE NO. 26
+THE WATER ACT
+(No. 43 of 2016)
+IN EXERCISE of the powers conferred by section 23 of the
+Water Act, 2016, the Water Resources Authority makes the following
+Order–
+THE DIK DIK GARDENS WETLAND CONSERVATION AREA
+(AMENDMENT) ORDER, 2022
+1. This Order may be referred to as the Dik Dik Gardens
+Citation
+Wetland Conservation Area (Amendment) Order, 2022.
+2. The Dik Dik Gardens Wetland Conservation Area Order,
+Amendment of
+2021 is hereby amended by deleting paragraph 7 and substituting
+L. N. 206 of 2021
+therefor the following new paragraph —
+7. Any person who contravenes this Order commits an
+offence and is liable upon conviction to a fine of six
+thousand shillings and imprisonment for a term not
+exceeding six months.
+Made on the 18th February, 2022.
+MOHAMED M. SHURIE,
+Chief Executive Officer
+Water Resources Authority.
