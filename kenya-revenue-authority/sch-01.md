@@ -24,6 +24,7 @@ Part II
 8. The Stamp Duty Act (Cap. 480).
 9. The Horticultural Crops Development Authority (Imposition of Fees and Charges) Order, 1995 (L.N. 225 of 1995).
 10. The Standards Levy Order, 1990 (L.N. 267 of 1990).
+10A. The Industrial Training Act (Cap. 237).
 11. The Government Lands Act (Cap. 280).
 12. The Sugar Act (No. 10 of 2001).
 13. The National Social Security Fund Act, 2013.
