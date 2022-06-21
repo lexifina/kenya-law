@@ -1,4 +1,5 @@
 # SECOND SCHEDULE
+EXEMPT EXCISABLE GOODS AND SERVICES
 PART A — EXEMPT EXCISABLE GOODS
 The following excisable goods shall be exempt from excise duty when purchased before clearance through Customs or removal from excise control—
 1. Excisable goods that are bona fide stores for a ship or aircraft, being goods for use or consumption by passengers or crew of the ship or aircraft while on board and while the ship is in international traffic, and in such quantities as approved by the Commissioner.
@@ -22,6 +23,11 @@ In this Part, "international agreement" means an agreement between the Governmen
 12. Alcoholic or non-alcoholic beverages supplied to the Kenya Defence Forces Canteen Organization.
 13. Illuminating kerosene supplies to licenced or registered manufacturers of paint, resin or shoe polish in such quantities as the Commissioner may approve.
 14. Deleted by Act No. 2 of 2020, Sch.
+15. Neutral spirit imported or purchased locally by registered pharmaceutical manuf acturers upon approval by the Commissioner
+16. Locally manufactured passenger motor vehicles:
+Provided that in this paragraph,
+"locally manufactured passenger motor vehicle" means a motor vehicle for the transportation of passengers which is manufactured in Kenya and whose ex-factory value comprises at least thirty percent of local content;
+"local content" means parts designed and manufactured in Kenya by an original equipment manufacturer operating in Kenya.
 PART B — EXEMPT EXCISABLE SERVICES
 1. The following excisable services shall be exempt from excise duty—
 (a) Excisable services supplied in Kenya to a diplomatic or consular mission or to a diplomat or consul, or a member of the diplomat or consul's family forming part of the diplomat or consul's household in Kenya to the extent provided for under the Privileges and Immunities Act (Cap. 179).
