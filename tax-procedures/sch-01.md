@@ -14,3 +14,4 @@ TRANSACTIONS FOR WHICH A PIN IS REQUIRED
 (12) Registration and renewal of membership by professional bodies and other licensing agencies.
 (13) Registration of mobile cellular pay bill and till numbers by telecommunication operators.
 (14) Carrying out business over the internet or an electronic network including through a digital marketplace.
+(15) Registration of a trust.
