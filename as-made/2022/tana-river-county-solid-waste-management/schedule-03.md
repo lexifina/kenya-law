@@ -1,0 +1,28 @@
+# SECOND SCHEDULE
+[Nection. 24)
+CONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD Meetings of the Board
+(1) The Board shall hold such number of meetings at such places and at such times as it shall consider necessary for the proper discharge of its functions, of in the absence of such decision if the chairperson decides that a meeting is necessary, on a date and at a time determined by the chai person
+(2) Notwithstanding Subparagraph (1), the Board shall meet at least once in every three months to conduct the business of the Board
+(3) At least fourteen days’ notice shall be given prior to any meeting of the Board Special meetings
+2. The Chairperson may on his or her own motion, or upon request by a member, call a special meeting of the Board at any time, where the chairperson considers it expedient for the transaction of the business of the Board by giving not less than seven days’ notice to the members by the chairperson or where appropriate by the secretary.
+Presiding at meetings
+3. (1) The Chairperson shall preside at all meetings of the Board.
+(2) the absence of the Chairperson at a meeting, the vice-chairperson shall preside at that meeting of the Board In the absence of the Chairperson and the Vice Chairperson at a mecting, the members present shall elect a member to preside at that meeting of the Board Quorum
+4. The quorum at a meeting of the Board shall be at least two thirds of the members of the Board.
+Decision making 5, (1) The matters of the Board shall be decided by a majority of the members present and voting
+(2) In the event of equality of votes, the person presiding shall have a casting vote OW No.? Hana River County Solid Waste Management Validity of proceedings
+6. The proceedings of the Board shall not be invalidated by reason of a vacancy among the members or a defect in the appointment or qualification of a member.
+Minutes 7, (1) Minutes of the proceedings at meetings of the Board shall be kept in such a manner, as the County Executive Committee Member shall direct,
+(2) The minutes of the meetings of the Board shall be available to the County Executive Committee Member or to a person nominated by the County Executive Committee Member, on the request of the County Executive Committee Member, Committees of the Board
+8. The Board may establish such committees as may be necessary for the performance of its functions.
+Self-regulation 9, Subject to the provisions of this Schedule, the Board shall regulate its own procedure.
+Attendance by non-members
+10. The Board may invite any person to attend any of its meetings and to participate in its deliberations, but that person shall not vote on any matter requiring decision of the Board.
+Code of conduct
+11. Within six months of the commencement of this Act, the Board shall establish a code of conduct, applicable to all members of staff of the Board and justifiable for purposes of disciplinary proceedings, to ensure— compliance with applicable law, efficient and economical use of the Board's resources; the effective, efficient and economical use of funds; the promotion and maintenance of a high standard of professional ethics; the prevention of conflicts of interest, and the assistance of confidential information held by the Board.
+PUPRT IAN? Commiy ‘ Solid Winnie Ad LL Na ] Contlicl ob interest CU) Nanenber oy euyplovee of the He
+(1 shall be considered to have Peontlet of ritenest fay PEpases OF thin Ag Lf the member on employee A HHEES AL PeCUEY OL other interne AU that could eonthet with the proper perlormanee of the members’ or employees’ duties as a member or emplovee of the Board
+(2) Tatany time amember or emplovee of the Hoard has a conthet of raterest i relation to any matter before the Hoard for consideration ot determination Or any matter the Hoard could reasonably expect mipht come before 1 for consideration or determination, the member or employee shall immediately disclose the conflict of interest to the other members of the Board and refiain Crom taking part, or any further part, in the consideration or determination of the matter
+(3) Where the Board becomes aware that a member or employee has a contlict of interest in relation to any matter before the Board, the Hoard shall direct the member or employee to retrain from taking part, or taking: any further part in the consideration or determination of the matter Upon the Board becoming aware of any conflict of interest, it shall make a determination as to whether in future the conflict is likely to interfere significantly with the proper and effective performance of the functions and duties of the member or employee or the Board and the member with the conflict of interest shall not vote on this determination
+(8) Where the Board determines that the conflict ts likely to interfere significantly with the member's proper and effective performance as provided for in paragraph (5), the member shall vacate office as a member of the Board unless the member has eliminated the conflict to the satisfaction of the Board within thirty days of the declaration of the contlict € The Board shall report to the County Executive Committee Member any determination by the Board that a contlict is likely to interfere significantly with performance as above and whether or not the contlict has been eliminated to the satisfaction of the Board
+(7) The annual report of the Board shall disclose details of all contlicts of interest and determinations arising during the period covered by the report The Board shall cause minutes of all resolution and proceedings of meetings of the Board to be entered in books kept for that purpose
