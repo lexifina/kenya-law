@@ -1,0 +1,3 @@
+# 43A. Authority to enter premises.
+(1) When conducting investigations, inspections, assessments and reviews relating to contracts, procurement and asset disposal proceedings, anyone authorized by the Authority may enter any premises of a procuring entity, at a reasonable time and inspect the premises to make any inquiries that may be necessary for the collection of information.
+(2) Where an authorized person is refused entry or is prevented from entering premises, a magistrate may, on application by the Authority, issue a warrant authorizing the Police to enter the premises, using such force as may be reasonably necessary and to conduct the search and obtain the required information.
