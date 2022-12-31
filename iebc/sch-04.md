@@ -52,6 +52,6 @@ A member or employee shall-
 (a) not act for foreigners in a manner detrimental to the security interest of Kenya; and
 (b) safeguard privileged information that comes into their possession and protect it from improper or inadvertent disclosure.
 10. Application of the Public Officers Ethics Act
-This Code is in addition to the provisions of the Public Officers Ethics Act, (Act No. 4 of 2003) and where there is a conflict between the Code and the Act, the provisions of the Act shall prevail.
+This Code is in addition to the provisions of the Public Officers Ethics Act (Cap. 185B) and where there is a conflict between the Code and the Act, the provisions of the Act shall prevail.
 11. Breach of code
 Any breach of the Code by a member or an officer of the Commission shall be treated as misbehaviour for a member and misconduct for an officer.
