@@ -4,7 +4,7 @@ PART A — EXEMPT EXCISABLE GOODS
 The following excisable goods shall be exempt from excise duty when purchased before clearance through Customs or removal from excise control—
 1. Excisable goods that are bona fide stores for a ship or aircraft, being goods for use or consumption by passengers or crew of the ship or aircraft while on board and while the ship is in international traffic, and in such quantities as approved by the Commissioner.
 2. Excisable goods imported into Kenya or purchased in Kenya by a diplomatic or consular mission, or by a diplomat or consul, or a member of the diplomat or consul's family forming part of the diplomat or consul's household in Kenya to the extent provided for under the Privileges and Immunities Act (Cap. 179).
-3. Excisable goods imported into Kenya or purchased in Kenya by a foreign government, international organisation, or aid agency to the extent provided for under an international agreement or the Privileges and Immunities Act, 1970.
+3. Excisable goods imported into Kenya or purchased in Kenya by a foreign government, international organisation, or aid agency to the extent provided for under an international agreement or the Privileges and Immunities Act (Cap. 179).
 4. One motor vehicle for use by persons with disability:
 Provided that exemption under this paragraph shall only apply once in every four years and upon payment of taxes on the previous vehicle.
 5. Excisable Goods imported or Purchased locally by the Kenya Red Cross or St John Ambulance for official use in the provision of relief services in Kenya.
