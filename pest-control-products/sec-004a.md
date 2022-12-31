@@ -1,0 +1,2 @@
+# 4A. Control of counterfeit products
+Any person who adulterates or counterfeits, or is found in possession of adulterated or counterfeit pest control products, labels or packages, shall be guilty of an offence and shall, on conviction, be liable to a fine of not less than two hundred and fifty thousand shillings, and not exceeding one million shillings, or to imprisonment for a term not exceeding two years, or to both.
