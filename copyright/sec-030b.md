@@ -1,0 +1,5 @@
+# 30B. Collection and payment of royalty
+(1) Subject to the provisions of sections 28 and 30 of this Act, the Kenya Revenue Authority or any other designated entity by the Board shall collect royalties on behalf of collective management organizations licensed to represent performers and owners of sound recordings.
+(2) All claims for compensation under this section shall be made through the collective management organizations representative of performers and producers of sound recordings.
+(3) The level of the royalty payable shall be agreed between the collective management organization representative of performers and producers of sound recordings and the organization representative of manufacturers and importers of audio recording equipment, audio blank tape and media intended for recording or failing such agreement by the Board.
+(4) The Board shall determine and, by notice in the Gazette, publish the share of the private copying remuneration applicable to the respective rights holders.

@@ -1,0 +1,6 @@
+# 38A. Offence by body corporate
+(1) Where a body corporate is convicted of an offence under this Act, every person who at the time the offence was committed was in charge of or was responsible to the body corporate for the conduct of its business and affairs is also deemed to have committed the offence and shall be liable to prosecution.
+(2) Where it is proven that a body corporate committed an offence under this Act with the consent, connivance or willful lack of due diligence by a person in charge of or responsible to the body corporate for the conduct of its business and affairs, the person shall be guilty of the offence.
+(3) For the purposes of this section—
+(a) "body corporate" includes a firm or other association of persons; and
+(b) "director" in relation to a firm includes the partner in the firm.
