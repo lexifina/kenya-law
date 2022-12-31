@@ -1,5 +1,5 @@
 # 33Q. Powers of the Bank
-(1) The Bank shall have the following powers with respect to the regulation of mortgage refinance companies—
+The Bank shall have the following powers with respect to the regulation of mortgage refinance companies—
 (a) to license mortgage refinance companies;
 (b) to determine the capital adequacy standards and requirements for mortgage refinance companies;
 (c) to prescribe the minimum liquidity requirements and permissible investments for mortgage refinance companies;
