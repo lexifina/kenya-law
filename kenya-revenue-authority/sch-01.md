@@ -2,20 +2,20 @@
 WRITTEN LAWS RELATING TO REVENUE
 Part I
 1. The Income Tax Act (Cap. 470).
-2. The Customs and Excise Act (Cap. 472).
+2. Spent.
 3. The Value Added Tax Act (Cap. 476).
-4. The Road Maintenance Levy Fund Act, 1993 (No. 9 of 1993).
+4. The Road Maintenance Levy Fund Act (Cap. 427).
 5. The Air Passenger Service Charge Act (Cap. 475).
 6. The Entertainment Tax Act (Cap. 479).
 7. The East African Community Customs Management Act, 2004.
 8. The Annexes to the Protocol on the Establishment of the East African Community Customs Union.
-9. Value Added Tax Act, 2013.
-10. Excise Duty Act, 2015.
-11. Tax Procedures Act, 2015.
-12. Miscellaneous Fees and Levies Act, 2016.
+9. Spent.
+10. Excise Duty Act (Cap. 472).
+11. Tax Procedures Act (Cap. 469B).
+12. Miscellaneous Fees and Levies Act (Cap. 469C)
 Part II
 1. The Traffic Act (Cap. 403).
-2. The Transport Licensing Act (Cap. 404).
+2. Spent.
 3. The Second-Hand Motor Vehicles Purchase Tax Act (Cap. 484).
 4. The Civil Aviation Act (Cap. 394).
 5. The Widows' and Children's Pensions Act (Cap. 195).
@@ -26,14 +26,8 @@ Part II
 10. The Standards Levy Order, 1990 (L.N. 267 of 1990).
 10A. The Industrial Training Act (Cap. 237).
 11. The Government Lands Act (Cap. 280).
-12. The Sugar Act (No. 10 of 2001).
-13. The National Social Security Fund Act, 2013.
-14. Public Finance Management Act, 2012.
+12. The Sugar Act (No. 10 of 2001) (Repealed).
+13. The National Social Security Fund Act (Cap. 258).
+14. Public Finance Management Act (Cap. 412A).
 Part III
-1. The Income Tax Act (Cap. 470).
-2. The Customs and Excise Act (Cap. 472).
-3. The Value Added Tax Act (Cap. 476).
-4. The Entertainment Tax Act (Cap. 479).
-5. The East African Community Customs Management Act, 2004.
-6. The Annexes to the Protocol on the Establishment of the East African Community Customs Union.
-12. The Sugar (Imposition of Levy) Order, 2002 (L.N. 385/2002).
+Spent
