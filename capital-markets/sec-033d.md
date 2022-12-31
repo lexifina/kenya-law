@@ -19,5 +19,5 @@ requiring it, at the time and place specified in the direction, to produce recor
 (a) take copies or extracts;
 (b) demand an explanation from that person, or any other person who is a present or past officer of the company, or is or was at any time employed by the company or other relevant person; or
 (c) require, if the records or documents are not produced, the person who was required to produce them to give an explanation for failing to produce the records or documents.
-(4) The powers in respect of any documents held by a bank shall be limited to the making of copies or extracts.
-(5) A person who contravenes this section commits an offence.
+(5) The powers in respect of any documents held by a bank shall be limited to the making of copies or extracts.
+(6) A person who contravenes this section commits an offence.

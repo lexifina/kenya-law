@@ -5,4 +5,4 @@
 (a) the derivatives exchange fails to comply with a condition or restriction imposed under subsection (2); or
 (b) the Authority considers that it would be contrary to the interests of the investing public to permit the trading in that exchange-traded derivatives contract to continue.
 (4) The Authority shall not withdraw its approval under subsection (3) without first giving the derivatives exchange an opportunity to be heard.
-(5) An exchange-traded derivative contract approved to trade on a derivatives market of a derivatives exchange by the Authority under this Act shall be lawful for all purposes and shall not constitute a gaming or wagering contract under the Betting, Lotteries and Gaming Act.
+(5) An exchange-traded derivative contract approved to trade on a derivatives market of a derivatives exchange by the Authority under this Act shall be lawful for all purposes and shall not constitute a gaming or wagering contract under the Betting, Lotteries and Gaming Act (Cap. 131).
