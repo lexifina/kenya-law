@@ -10,5 +10,5 @@ Provided that the withholding tax shall not apply to the taxable value of zero-r
 (a) fails to withhold the whole amount of the tax which should have been withheld; or
 (b) fails to remit the amount of the withheld tax to the Commissioner by the twentieth day of the month following that in which the deduction was made.
 (4D) A person who commits an offence under subsection (4C) is liable on conviction to a penalty of ten per cent of the amount involved.
-(5) A person who, prior to the commencement of this section, was appointed to withhold tax under section 25A of the Value Added Tax Act, 2013 shall, notwithstanding the repeal of that section, be deemed to be a person appointed under subsection (1),
+(5) A person who, prior to the commencement of this section, was appointed to withhold tax under section 25A of the Value Added Tax Act (Cap. 476) shall, notwithstanding the repeal of that section, be deemed to be a person appointed under subsection (1),
 Provided that this provision shall not be construed to impose any penalty whatsoever on any such person who ceased to withhold tax for any period following the repeal of that section upto the 8th June, 2016.
