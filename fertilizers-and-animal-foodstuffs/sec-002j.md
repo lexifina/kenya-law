@@ -1,0 +1,3 @@
+# 2J. Protection from personal liability
+(1) No act or omission by any member of the Board or by any officer, employee, agent or servant of the Board shall, if the act or omission was done bona-fide for the purposes of executing a function, power or duty under the Act render such member, officer, employee, agent or servant personally liable to any, action, claim or demand whatsoever.
+(2) The provisions of subsection (1) shall not relieve the Board of the liability to pay compensation to any person for any injury to him, his property or to any of his interests caused by the exercise of any power conferred by this Act or by failure, whether wholly or partially, of any works.

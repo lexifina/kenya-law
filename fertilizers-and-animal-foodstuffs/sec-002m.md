@@ -1,0 +1,2 @@
+# 2M. Financial year
+The financial year of the Board shall be the period of twelve months ending on the thirtieth June in each year.

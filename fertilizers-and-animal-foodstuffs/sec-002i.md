@@ -1,0 +1,2 @@
+# 2I. Delegation by the Board
+The Board may, by resolution either generally or in any particular case, delegate to any committee or to any member, officer, employee or agent of the Board, the exercise of any of the powers or the performance of any of the functions or duties of the Board under this Act or under any other written law.
