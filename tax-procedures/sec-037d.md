@@ -2,8 +2,7 @@
 (1) There is established a programme to be known as the Voluntary Tax Disclosure Programme which shall be for a period of three years with effect from the 1st January, 2021.
 (2) For purpose of this section, "voluntary tax disclosure programme" means a programme where a person discloses the person's tax liabilities to the Commissioner for the purpose of being granted relief of penalties and interest on the tax disclosed.
 (3) A person with a tax liability may apply to the Commissioner for relief in the prescribed form with respect to tax liabilities that accrued within a period of five years prior to the 1st July, 2020.
-(4) A person granted relief under this section-
-(a) shall not be prosecuted with respect to the tax liability disclosed under this section; and
+(4) A person granted relief under this section shall not be prosecuted with respect to the tax liability disclosed under this section and shall be granted-
 (i) where the disclosure is made and tax liability paid in the first year of the programme, a full remission of the interest and penalty;
 (ii) where the disclosure is made and tax liability paid in the second year of the programme, remission of fifty per cent of the interest and penalty; and
 (iii) where the disclosure is made and tax liability paid in the final year of the programme, remission of twenty-five percent of the interest and penalty.
