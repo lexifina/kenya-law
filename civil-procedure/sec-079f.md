@@ -1,0 +1,2 @@
+# 79F. Appeals by paupers
+A person who has been allowed to take, defend or be a party to any legal proceedings in a subordinate court as a pauper may not appeal to the High Court, or from the High Court to the Court of Appeal, except with the leave of the Court before whom the proceedings appealed against were heard or (if such leave is refused) unless special leave has been first obtained from the Court before whom the appeal is to be heard.
