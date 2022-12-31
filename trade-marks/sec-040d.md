@@ -1,0 +1,5 @@
+# 40D. Applications for registration of marks under the Banjul Protocol
+(1) A trade mark in respect of which Kenya is a designated state, registered by ARIPO by virtue of the Banjul Protocol, shall have the same effect and enjoy the same protection in Kenya, as a trade mark registered under this Act, unless the Registrar communicates to ARIPO, in respect of the application, a decision in accordance with the provisions of that Protocol, that if a mark is registered by ARIPO, that mark shall have no effect in Kenya.
+(2) The Institute shall act as a receiving office, for the purpose of filing an application under the Banjul Protocol, where a regional application is filed with it and the applicant is a national or a resident of Kenya.
+(3) Where there is a conflict between the provisions of this Act and the provisions of the Banjul Protocol on Marks, this Act shall prevail.
+(4) The provisions of this Act with respect to legal proceedings and appeals relating to registered trade marks shall apply to international trade marks.

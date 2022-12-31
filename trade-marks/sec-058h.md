@@ -1,0 +1,5 @@
+# 58H. Forfeiture of goods
+(1) On conviction of any person for an offence under this Part, the court may, in addition to any sentence passed, declare any goods in respect of or by means of which the offence was committed to be forfeited to the Government, unless the owner of the goods or any person acting in his behalf or any other person interested in the goods shows cause to the contrary.
+(2) After any goods in respect of or by means of which it is suspected an offence under this Part has been committed are seized by a police officer and no prosecution is instituted following that seizure —
+(a) the magistrate shall, on application by a police officer, cause a notice to be published in the Gazette and in a newspaper circulating in the area stating that unless cause is shown to the contrary at the time and place specified in the notice such goods will be declared forfeited; and
+(b) at the time and place referred to in paragraph (a) the magistrate may, unless the owner of the goods or any person on his behalf or other person interested in the goods shows cause to the contrary declare such goods to be forfeited to the Government.

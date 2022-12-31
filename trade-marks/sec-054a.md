@@ -1,0 +1,2 @@
+# 54A. Nice Agreement receivable in evidence
+The Nice Agreement concerning the International Classification of Goods and Services for the purpose of the Registration of Trade Marks of 15 June, 1957 and all revisions thereof together with the publications of the World Intellectual Property Organization of Geneva relating to the Agreement may be received in evidence before any court or Registrar and shall be taken into account by the Registrar in relation to his duties under this Act.
