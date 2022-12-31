@@ -1,5 +1,5 @@
 # 25A. Imposition of additional sanctions and penalties
-(1) Without prejudice to any other provision of this Act, the Authority may impose the following sanctions or levy financial penalties in accordance with this Act, for the breach of any provisions of this Act, the regulations, rules, guidelines, notices or directions made thereunder, or the rules of procedure of a securities, commodities or derivatives exchange, by a licensed or approved person, issuer, employee or a director of a licensed or approved person or employee director of a issuer as provided under section 11 (3)(cc)—
+(1) Without prejudice to any other provision of this Act, the Authority may impose the following sanctions or levy financial penalties in accordance with this Act, for the breach of any provisions of this Act, the regulations, rules, guidelines, notices or directions made thereunder, or the rules of procedure of a securities, commodities or derivatives exchange, by a licensed or approved person, issuer, employee or a director of a licensed or approved person or employee director of a issuer as provided under section 11(3)(cc)—
 (a) with respect to a licensed person, issuer, securities, commodities or derivatives exchange or other approved person—
 (i) a public reprimand;
 (ii) suspension in the trading of an issuer's securities, commodities or derivatives for a specified period;
@@ -17,7 +17,7 @@
 (i) disqualification of such person from appointment as a director of an issuer or licensed or approved person including, a securities, commodities or derivatives exchange;
 (ii) the recovery from such person of the benefit accrued from the breach an amount equivalent to two times the amount of the benefit accruing to the person by reason of the breach;
 (iii) the levying of financial penalties in such amounts as may be prescribed.
-(1A) The financial penalties and recoveries set out under paragraphs (1)(a) (v) and (vii), (1)(b) (iii) and (iv), (1)(c) (ii) and (iii), (2) and (6) shall be recoverable summarily by the Authority as civil debts.
+(1A) The financial penalties and recoveries set out under paragraphs (1)(a)(v) and (vii), (1)(b)(iii) and (iv), (1)(c)(ii) and (iii), (2) and (6) shall be recoverable summarily by the Authority as civil debts.
 (2) In addition to any other sanction or penalty that may be imposed under this section, the Authority may make orders for restitution, subject to the provisions of subsection (3).
 (3) The Authority shall make orders under subsection (2) where the breach of the provisions of this Act or the regulations made under the Act results in a loss to one or more aggrieved persons, but subject to the following conditions—
 (a) that the amount of the loss is quantified and proved to the Authority by the person making the claim; and

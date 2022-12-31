@@ -5,4 +5,4 @@
 commits an offence.
 (2) Without prejudice to the generality of subsection (1), a false or misleading impression of active trading in securities is created for the purpose of this section if a person—
 (a) enters into or carries out, directly or indirectly, any transaction for the sale or purchase of securities which does not involve a change in the beneficial ownership of the securities, or offers to do so; or
-(b) offers to sell securities at a price which is substantially the same as the price at which he has made or proposes to make, or knows that an associate of his has made or proposes to make an offer to buy the same or substantially the same number of securities.
+(b) offers to sell securities at a price which is substantially the same as the price at which he or she has made or proposes to make, or knows that an associate of his has made or proposes to make an offer to buy the same or substantially the same number of securities.

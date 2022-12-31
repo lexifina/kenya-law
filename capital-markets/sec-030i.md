@@ -6,5 +6,5 @@
 (5) A person shall not issue an asset backed security unless it is made in accordance with a prospectus or an offering memorandum.
 (6) The Authority may prescribe the contents of a prospectus or offering memorandum taking into consideration on the classification of the issue or offer and the nature of the assets backing the securities or such other factors that the Authority may consider appropriate.
 (7) Where a limited restricted offer is made, the issuer shall file an information notice with the Authority.
-(8) For the purposes of this Act, a person offers asset backed securities if that person invites another person to enter into an agreement for or with the view to subscribing for or otherwise acquiring or underwriting any asset backed securities, or if he invites another person to make such an offer.
+(8) For the purposes of this Act, a person offers asset backed securities if that person invites another person to enter into an agreement for or with the view to subscribing for or otherwise acquiring or underwriting any asset backed securities, or if he or she invites another person to make such an offer.
 (9) A person who contravenes any provisions of this section commits an offence.
