@@ -2,10 +2,12 @@
 PROCEDURE FOR APPOINTMENT OF CHAIRPERSON AND MEMBERS OF THE COMMISSION
 1. (1) At least six months before the lapse of the term of the chairperson or member of the Commission or within fourteen days of the declaration of a vacancy in the office of the chairperson or member of the Commission under the Constitution or this Act, the President shall appoint a selection panel consisting of seven persons for the purposes of appointment of the chairperson or member of the Commission.
 (2) The selection panel shall consist of—
-(a) two men and two women nominated by the Parliamentary Service Commission;
-(b) one person nominated by the Law Society of Kenya; and
-(c) two persons nominated by the Inter-religious Council of Kenya.
-(2A) A person is qualified for appointment as a member of the selection panel if such person —
+(a) one man and one woman, nominated by the Parliamentary Service Commission;
+(b) one person nominated by the Public Service Commission;
+(c) one person nominated by the Political Parties Liaison Committee;
+(d) one person nominated by the Law Society of Kenya; and
+(e) two persons nominated by the Inter-religious Council of Kenya.
+(2A) A person is qualified for appointment as a member of the selection panel if such person—
 (a) is a citizen of Kenya;
 (b) meets the requirements of leadership and integrity set out in Chapter Six of the Constitution; and
 (c) holds a degree from a university recognized in Kenya.

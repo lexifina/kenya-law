@@ -6,7 +6,7 @@ The Commission shall resolve all issues arising from the first review relating t
 (1) The Commission shall, in addressing the issues arising out of the first review-
 (a) use as its primary material the report of the former Boundaries Commission on the first review as adopted by the National Assembly; and
 (b) use as its secondary reference material the report of the Parliamentary Committee on the report of the former Boundaries Commission on the first review.
-(2) The issues arising out of the first review are -
+(2) The issues arising out of the first review are—
 (a) re-distribution of such wards or administrative units in the affected constituencies as may be appropriate;
 (b) subject to the Constitution, addressing issues of new constituencies falling outside the population quota as provided for by Article 89(6) of the Constitution but at the same time ensuring that such a process shall -
 (i) take into account the provisions of Article 89(7)(b) of the Constitution that requires progressive efforts and not instant demographic equality of all towards attaining the population quota in each constituency and ward for the purposes of the first review;
@@ -14,7 +14,7 @@ The Commission shall resolve all issues arising from the first review relating t
 (iii) be subject to the use of enumerated national census figures and not projected figures.
 (c) addressing the issue of progressively advancing towards the population quota in protected constituencies in relation to neighbouring constituencies where appropriate.
 3. Delimitation of electoral units
-(1) The Commission shall prepare and publish a preliminary report outlining -
+(1) The Commission shall prepare and publish a preliminary report outlining—
 (a) the proposed delimitation of boundaries for constituencies and wards; and
 (b) the specific geographical and demographical details relating to such delimitation.
 (2) The Commission shall ensure that the preliminary report is made available to the public for a period of twenty-one days and invite representations from the public on the proposals contained in the report during that period.
