@@ -28,6 +28,7 @@ In this Part, "international agreement" means an agreement between the Governmen
 Provided that in this paragraph,
 "locally manufactured passenger motor vehicle" means a motor vehicle for the transportation of passengers which is manufactured in Kenya and whose ex-factory value comprises at least thirty percent of local content;
 "local content" means parts designed and manufactured in Kenya by an original equipment manufacturer operating in Kenya.
+17. Disassembled or unassembled kits for local assembly or manufacture mobile phones.
 PART B — EXEMPT EXCISABLE SERVICES
 1. The following excisable services shall be exempt from excise duty—
 (a) Excisable services supplied in Kenya to a diplomatic or consular mission or to a diplomat or consul, or a member of the diplomat or consul's family forming part of the diplomat or consul's household in Kenya to the extent provided for under the Privileges and Immunities Act (Cap. 179).

@@ -3,7 +3,6 @@ RATES OF EXCISE DUTY
 1. Subject to paragraph 2, the rates of excise duty on excisable goods are as set out in the following table:
 Part I - EXCISABLE GOODS
 Tariff No. | Tariff Description | Rate (Ksh.)
-2709.00.10 | Condensates per 1000 litres @ 20degC | 6,868.94
 2710.12.10 | Motor Spirit (gasoline) regular per 1000 litres @ 20degC | 21, 522.68
 2710.12.20 | Motor Spirit (gasoline) premium per 1000 litres @ 20degC | 21,953.02
 2710.12.30 | Aviation Spirit per 1000 litres @ 20degC | 21,953.02
@@ -37,12 +36,12 @@ Other manufactured tobacco and manufactured tobacco substitutes; "homogenous" an
 Motor vehicles of tariff heading 87.02, 87.03 and 87.04 excluding -(i) locally assembled motor vehicles;(ii) school buses for use by public schools;(iii) motor vehicles of tariff no. 8703.24.90 and 8703.33.90; and(iv) imported motor vehicles of cylinder capacity exceeding 1500cc | 20%
 Imported motor vehicles of cylinder capacity exceeding 1500 cc of tariff heading 87.02, 87.03 and 87.04 | 25%
 Motor vehicles of tariff no. 8703.24.90 and 8703.33.90 | 35%
-Motor cycles of tariff 87.11 other than motor cycle ambulances and locally assembled motor cycles | Shs. 12,952.83 per unit
+Motorcycles of tariff 87.11 other than motorcycle ambulances, locally assembled motor cycles and electric motorcycles | Shs. 12,952.83 per unit
 100% electric powered motor vehicles of tariff no. 8702.40.11, 8702.40.19, 8702.40.21, 8702.40.22, 8702.40.29, 8702.40.91, 8702.40.99 and 87.03.80.00 | 10%
 Imported sugar confectionary of tariff heading 17.04; | Shs. 42.91 per kg
-Imported White chocolate including chocolate in blocks, slabs or bars of tariff nos. 1806.31.00 , 1806.32.00, and 1806.90.00 | Shs. 257.55 per kg
+Imported White chocolate of heading 1704;Imported chocolate and other food preparations containing cocoa of tariff nos. 1806.31.00, 1806.32.00 and 1806.90.00; | Shs. 257.55 per kg
 Imported gas cylinders | 35%
-Imported Glass bottles (excluding imported glass bottles for packaging of pharmaceutical products) Provided that it shall not apply to glass bottles imported from any of the countries within the East African Community | 25%
+Imported Glass bottles (excluding imported glass bottles for packaging of pharmaceutical products) Provided that it shall not apply to glass bottles imported from any of the countries within the East African Community | 35%
 Jewellery of tariff heading 7113 and imported jewellery of tariff heading 7117 | 15%
 Products containing nicotine or nicotine substitutes intended for inhalation without combustion or oral application but excluding medicinal products approved by the Cabinet Secretary responsible for matters relating to health and other manufactured tobacco and manufactured tobacco substitutes that have been homogenized and reconstituted tobacco, tobacco extracts and essences | Shs. 1,595.00 per kg
 Imported Articles of plastic of tariff heading 3923.30.00 and 3923.90.90 | 10%
@@ -57,13 +56,25 @@ Imported potatoes, potato crisps and potato chips of tariff heading 07.01 | 25%
 Electronic cigarettes and other nicotine delivery devices | 40%
 Liquid nicotine for electronic cigarettes | Shs. 70 per millilitre
 Imported ready to use SIM cards | Shs. 50 per SIM card
+Imported fish | 10%
+Powdered juice | Shs. 25 per kg
+Imported sugar excluding imported sugar purchased by a registered pharmaceutical manufacturer | Shs. 5 per kg
+Imported cement | 10% of the value or shs. 1.50 per kg, whichever is higher
+Imported furniture of tariff heading 9403 excluding furniture originating from East African Community Partner States that meet the East African Community Rules of Origin | 30%
+Imported cellular phones | 10%
+Imported paints, varnishes and lacquers of heading 3208, 3209 and 3210 | 15%
+Imported non- virgin test liner of heading 4805.24.00 | 25%
+Imported non-virgin fluting medium of heading 4805.19.00 | 25%
+Imported cartons, boxes and cases of corrugated paper or paper board and imported folding cartons, boxes and case of non-corrugated paper or paper board and imported skillets, free-hinge lid packets of tariff heading 4819.10.00, 4819.20.10 and 4819.20.90; | 25%
+Imported plates of plastic of tariff heading 3919.90.90, 3920.10.90, 3920.43.90, 3920.62.90 and 3921.19.90 | 25%
+Imported paper or paper board, labels of all kinds whether or not printed of tariff heading 4821.10.00 and 4821.90.00 | 25%
 Commodity Code | Raw Materials | Excise duty
-3907.91.00 | Imported Unsaturated polyster | 10%
-3907.50.00 | Imported Alkyd | 10%
-3905.91.00 | Imported Emulsion VAM | 10%
-3903.20.00 | Imported Emulsion - styrene Acrylic | 10%
-3905.19.00 | Imported Homopolymers | 10%
-3906.90.00 | Imported Emulsion B.A.M | 10%
+3907.91.00 | Imported Unsaturated polyster | 20%
+3907.50.00 | Imported Alkyd | 20%
+3905.91.00 | Imported Emulsion VAM | 20%
+3903.20.00 | Imported Emulsion - styrene Acrylic | 20%
+3905.19.00 | Imported Homopolymers | 20%
+3906.90.00 | Imported Emulsion B.A.M | 20%
 2. (1) The specific rates of excise duty on excisable goods specified in this Schedule shall be adjusted for inflation at the beginning of every financial year in accordance with this paragraph.
 (2) Each rate of excise duty specified in the table in paragraph 1 shall be replaced by the rate of excise duty computed by reference to the following formula—
 A(1+B)
@@ -71,22 +82,23 @@ where—
 A is the rate of excise duty on the day immediately before the adjustment day; and
 B is the adjustment factor for the adjustment day, calculated as the average rate of monthly inflation of the preceding financial year.
 Part II - EXCISABLE SERVICES
-1. Telephone and internet data services shall be charged excise duty at a rate of twenty percent of their excisable value.
-2. Excise duty in fees charged for money transfer services by banks, money transfer agencies and other financial service providers shall be twenty percent of their excisable value.
-3. Excise duty on fees charged for money transfer services by cellular phone service providers, shall be twelve percent of their excisable value.
+1. Telephone and internet data services shall be charged excise duty at a rate of fifteen percent of their excisable value.
+2. Excise duty in fees charged for money transfer services by banks, money transfer agencies and other financial service providers shall be fifteen percent of their excisable value.
+3. Excise duty on fees charged for money transfer services by cellular phone service providers, or payment service providers licensed under the National Payment System Act (Cap. 491A), shall be fifteen percent of their excisable value.
 4. Excise duty on other fees charged by financial institutions shall be twenty percent of their excisable value.
-4A. Excise duty on betting shall be seven-point five per cent of the amount wagered or staked.
+4A. Excise duty on betting shall be twelve point five per cent of the amount wagered or staked.
 Provided that this paragraph shall not apply to horse racing.
-4B. Excise duty on gaming shall be seven-point five percent of the amount wagered or staked.
-4C. Excise duty on prize competition shall be seven-point five percent of the amount paid or charged to participate in a prize competition.
-4D. Excise duty on lottery (excluding charitable lotteries) shall be seven-point five percent of the amount paid or charged to buy the lottery ticket.
+4B. Excise duty on gaming shall be twelve point five percent of the amount wagered or staked.
+4C. Excise duty on prize competition shall be twelve point five percent of the amount paid or charged to participate in a prize competition.
+4D. Excise duty on lottery (excluding charitable lotteries) shall be twelve point five percent of the amount paid or charged to buy the lottery ticket.
 5. Deleted by Act No. 8 of 2020, s. 17(b).
 6. Excise duty on fees charged by digital lenders at a rate of twenty percent.
-7. Excise duty on importation of cellular phones, shall be at ten per cent of the excisable vaLue.
+7. Deleted by Act No. 4 of 2023, s. 47(b)(viii)
+8. Excise duty on fees charged on advertisement on television, print media, billboards and radio stations on alcoholic beverages, betting, gaming, lotteries and prize competitions shall be at the rate of fifteen per cent.
 Part III - INTERPRETATION OF SCHEDULE
 In this Schedule—
 "Adjustment day" means 1st day of October of every year;
-"amount wagered or staked" means the amount of money placed by a person for an outcome in a betting transaction;
+"amount wagered or staked" means the amount of money placed by a person for an outcome in a betting or gaming transaction;
 "beer" includes ale, porter, and any other description of beer and any liquor, including beer substitute, which is produced as a result of the alcoholic fermentation of an extract derived from barley, malt, a cereal grain, starch or saccharine matter and hops or hops substitute, in potable water with other substitute ingredients and which contains more than two per centum of proof spirit, but does not include—
 (a) any beer brewed by any person for personal consumption and which is not offered for sale; or
 (b) any kind of beer that, by order of the Cabinet Secretary, is excluded from the provisions of this Act;

@@ -13,6 +13,7 @@ Part I
 10. Excise Duty Act (Cap. 472).
 11. Tax Procedures Act (Cap. 469B).
 12. Miscellaneous Fees and Levies Act (Cap. 469C)
+13. The Alcoholic Drinks Act (Cap. 121).
 Part II
 1. The Traffic Act (Cap. 403).
 2. Spent.
