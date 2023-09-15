@@ -1,0 +1,3 @@
+# 23D. Environmental impact assessment
+(1) Every carbon trading project authorized under this Act shall be required to undergo an environmental and social impact assessment in accordance with the Environmental Management and Coordination Act (Cap. 387).
+(2) Notwithstanding subsection (1), reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries projects shall be required to undergo a Reduced Emissions from Deforestation and Forest Degradation safeguard standards assessment.
