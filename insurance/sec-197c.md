@@ -1,0 +1,4 @@
+# 197C. Offences and penalties
+(1) Any insurer who fails to pay any levy or penalty due from him on or before the day upon which the same are payable shall be guilty of an offence and liable to a fine not exceeding five hundred thousand shillings and, if the offence is a continuing one, to a further fine of one thousand shillings for every day during which the offence continues.
+(2) Where an insurer is guilty of an offence under this section, then notwithstanding the imposition of any penalty under section 197C, the commission of that offence shall constitute grounds whereby the Commissioner may apply to the Court under section 123(g) for the winding up of that insurer.
+(3) The amount of any levy or penalty payable under this Act shall not be abated by reason only of the conviction of the insurer liable for the payment, or by reason of any payment of a fine imposed by the court on the insurer for an offence under subsection (1).

@@ -1,0 +1,2 @@
+# 179A. Protection from personal liability
+No matter or thing done by a member of the Board, the secretary to the Board, or an officer, employee or agent of the Board shall, if the matter or thing is done bonafide for executing the functions, powers, or duties of the Board under this Act, render the member, secretary, officer, employee or agent, or any person acting on their direction personally liable to any action, claim, or demand whatsoever.
