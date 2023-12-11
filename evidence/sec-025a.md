@@ -1,0 +1,3 @@
+# 25A. Confessions generally inadmissible.
+(1) A confession or any admission of a fact tending to the proof of guilt made by an accused person is not admissible and shall not be proved as against such person unless it is made in court before a judge, a magistrate or before a police officer (other than the investigating officer), being an officer not below the rank of Inspector of Police, and a third party of the person’s choice.
+(2) The Attorney-General shall in consultation with the Law Society of Kenya, Kenya National Commission on Human Rights and other suitable bodies make rules governing the making of a confession in all instances where the confession is not made in court.

@@ -1,0 +1,2 @@
+# 47A. Proof of guilt.
+A final judgment of a competent court in any criminal proceedings which declares any person to be guilty of a criminal offence shall, after the expiry of the time limited for an appeal against such judgment or after the date of the decision of any appeal therein, whichever is the latest, be taken as conclusive evidence that the person so convicted was guilty of that offence as charged.
