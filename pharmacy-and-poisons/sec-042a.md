@@ -1,0 +1,2 @@
+# 42A. Proceedings on charge of selling poisons, etc
+Where a person is charged with an offence under section 26, section 29 or section 33 of this Act by reason of his having sold or been in possession of a container labelled as containing poisons, and the container appears to have been packed by the manufacturer of the contents and to be intact, the container shall be presumed to contain poisons of the description specified on the label, until the contrary is proved.
