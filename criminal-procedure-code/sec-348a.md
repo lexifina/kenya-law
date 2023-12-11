@@ -1,0 +1,3 @@
+# 348A. Right of appeal against acquittal, order of refusal or order of dismissal
+(1) When an accused person has been acquitted on a trial held by a subordinate court or High Court, or where an order refusing to admit a complaint or formal charge, or an order dismissing a charge, has been made by a subordinate court or High Court, the Director of Public Prosecutions may appeal to the High Court or the Court of Appeal as the case may be, from the acquittal or order on a matter of fact and law.
+(2) If the appeal under subsection (1) is successful, the High Court or Court of Appeal as the case may be, may substitute the acquittal with a conviction and may sentence the accused person appropriately.

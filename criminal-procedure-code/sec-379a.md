@@ -1,0 +1,3 @@
+# 379A. Appeal to the Court of Appeal on High Court's original jurisdiction
+In proceedings under section 203 or 296(2) of the Penal Code (Cap. 63), the Prevention of Terrorism Act, the Narcotic Drugs and Psychotropic Substances (Control) Act (Cap. 245), the Prevention of Organized Crimes Act (Cap. 59), the Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A) and the Counter-Trafficking in Persons Act (Cap. 61), where the High Court, in exercise of its original jurisdiction, has granted bail or bond to an accused person, the Director of Public Prosecution, may, as of right, appeal against that decision to the court of appeal and the order may be stayed for a period not exceeding fourteen days pending the filing of an appeal.
+IRREGULAR PROCEEDINGS
