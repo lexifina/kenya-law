@@ -1,0 +1,5 @@
+# 66A. Prohibited publications and broadcasts
+(1) A person who publishes, broadcasts or causes to be published or distributed, through print, digital or electronic means, insulting, threatening, or inciting material or images of dead or injured
+persons which are likely to cause fear and alarm to the general public or disturb public peace commits an offence and is liable, upon conviction, to a fine not exceeding five million shillings or imprisonment for a term not exceeding three years or both.
+(2) A person who publishes or broadcasts any information which undermines investigations or security operations by the National Police Service or the Kenya Defence Forces commits an offence and is liable, upon conviction, to a fine not exceeding five million shillings or a imprisonment for a term not exceeding three years, or both.
+(3) The freedom of expression and the freedom of the media under Articles 33 and 34 of the Constitution shall be limited as specified under this section for the purposes of limiting the publication or distribution of material likely to cause public alarm, incitement to violence or disturb public peace.
