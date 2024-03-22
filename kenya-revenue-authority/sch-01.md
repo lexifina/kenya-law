@@ -7,7 +7,7 @@ Part I
 4. The Road Maintenance Levy Fund Act (Cap. 427).
 5. The Air Passenger Service Charge Act (Cap. 475).
 6. The Entertainment Tax Act (Cap. 479).
-7. The East African Community Customs Management Act, 2004.
+7. The East African Community Customs Management Act (No. 1 of 2005).
 8. The Annexes to the Protocol on the Establishment of the East African Community Customs Union.
 9. Spent.
 10. Excise Duty Act (Cap. 472).
@@ -30,5 +30,6 @@ Part II
 12. The Sugar Act (No. 10 of 2001) (Repealed).
 13. The National Social Security Fund Act (Cap. 258).
 14. Public Finance Management Act (Cap. 412A).
+15. The Affordable Housing Act, 2024.
 Part III
 Spent
