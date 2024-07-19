@@ -1,20 +1,27 @@
 # FIRST SCHEDULE
 PROCEDURE FOR APPOINTMENT OF CHAIRPERSON AND MEMBERS OF THE COMMISSION
-1. (1) At least six months before the lapse of the term of the chairperson or member of the Commission or within fourteen days of the declaration of a vacancy in the office of the chairperson or member of the Commission under the Constitution or this Act, the President shall appoint a selection panel consisting of seven persons for the purposes of appointment of the chairperson or member of the Commission.
+1. Declaration of vacancy in the Office of Chairperson or Member of the Commission
+(1) At least six months before the lapse of the term of the chairperson or member of the Commission or within fourteen days of the declaration of a vacancy in the office of the chairperson or member of the Commission under the Constitution or this Act, the President shall appoint a selection panel consisting of nine persons for the purposes of appointment of the chairperson or member of the Commission.
 (2) The selection panel shall consist of—
-(a) one man and one woman, nominated by the Parliamentary Service Commission;
-(b) one person nominated by the Public Service Commission;
-(c) one person nominated by the Political Parties Liaison Committee;
-(d) one person nominated by the Law Society of Kenya; and
+(a) two persons nominated by the Parliamentary Service Commission, representing the majority party or coalition of parties and the minority party or coalition of parties;
+(b) three persons nominated by the Political Parties Liaison Committee of whom —
+(i) one shall be from a party other than a parliamentary party or coalition of parties;
+(ii) one shall be from the majority party or coalition of parties;
+(iii) one shall be from the minority party or coalition of parties;
+(c) one person nominated by the Law Society of Kenya;
+(d) one person nominated by the Institute of Certified Public Accountants of Kenya; and
 (e) two persons nominated by the Inter-religious Council of Kenya.
 (2A) A person is qualified for appointment as a member of the selection panel if such person—
 (a) is a citizen of Kenya;
 (b) meets the requirements of leadership and integrity set out in Chapter Six of the Constitution; and
 (c) holds a degree from a university recognized in Kenya.
-(3) The respective nominating bodies under sub-paragraphs (2)(b) and (c) shall, within seven days of the declaration of a vacancy in the office of the chairperson or member of the Commission, submit the names of their nominees to the Parliamentary Service Commission for transmission to the President for appointment.
+(2B) The respective nominating bodies shall select the nominees for appointment through a competitive and transparent process.
+(2C) In nominating, the persons under sub-paragraph (2)(a), (b) and (e), the respective nominating bodies shall ensure that not more than two-thirds of the nominees are of the same gender.
+(3) The respective nominating bodies under sub-paragraphs (2)(b), (c), (d) and (e) shall, within seven days of the declaration of a vacancy in the office of the chairperson or member of the Commission, submit the names of their nominees to the Parliamentary Service Commission for transmission to the President for appointment.
 (4) The selection panel shall, at its first sitting, elect a chairperson and vice-chairperson from amongst its number.
 (5) Subject to the provisions of this Schedule, the selection panel shall determine its own procedure.
 (6) The Parliamentary Service Commission shall provide the secretariat services and facilities required by the selection panel in the performance of its functions.
+(7) The Parliamentary Service Commission shall provide for and meet the expenditure of the selection panel.
 2. Oath or affirmation of office
 The chairperson and members of the selection panel shall, before assuming office, make and subscribe the oath or affirmation of office prescribed in the Third Schedule.
 3. Selection of nominees
@@ -28,4 +35,5 @@ The President shall, within seven days of receipt of the names approved by the N
 5. Gender equity and regional balance
 In short listing, nominating or appointing persons as chairperson and members of the Commission, the selection panel, the National Assembly and the President shall ensure that not more than two-thirds of the members are of the same gender and shall ensure regional balance.
 6. Dissolution of Selection Panel
-The selection panel shall stand dissolved upon the requisite appointments being made under paragraph 4.
+(1) The selection panel shall finalize the recruitment exercise within ninety days of its appointment and forward the names of the nominees to the President and shall thereafter stand dissolved.
+(2) Despite sub-paragraph (1), Parliament may, by resolution passed in both the National Assembly and the Senate, extend the tenure of the selection panel for a specified period.
