@@ -1,0 +1,4 @@
+# 40A. Rights of assignment
+(1) The liquidator may assign the assets or liabilities of an institution or of a customer under this Act, the Insolvency Act (Cap. 53), or under any other written law to third parties for the benefit of the creditors and depositors of the institution under liquidation.
+(2) The right of assignment conferred by this section shall override all other rights and interests of parties under contracts of employment, leases, charges, mortgages or any other agreements the institution may have entered into before going into liquidation.
+(3) Every public officer having the power or duty to accept and register or amend any entry in any register relating to an assignment of an asset or liability pursuant to subsection (1) shall, upon request made by the liquidator, customer or other person, do all such things as are by law necessary to complete the registration of the assignment.

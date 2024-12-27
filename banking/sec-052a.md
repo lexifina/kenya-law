@@ -1,0 +1,3 @@
+# 52A. Act to prevail in event of conflict
+(1) Subject to subsection (2), where there is a conflict between the provisions of this Act and the provisions of any other written law applicable to an institution licensed under this Act, the provisions of this Act shall prevail.
+(2) For the purposes of subsection (1), the expression "written law" does not include the Central Bank of Kenya Act (Cap. 491), the Income Tax Act (Cap. 470), the East African Community Customs Management Act, the Value Added Tax Act (Cap. 476) or any of the other laws set out in the First Schedule to the Kenya Revenue Authority Act (Cap. 469).
