@@ -15,3 +15,4 @@ TRANSACTIONS FOR WHICH A PIN IS REQUIRED
 (13) Registration of mobile cellular pay bill and till numbers by telecommunication operators.
 (14) Carrying out business over the internet or an electronic network including through a digital marketplace.
 (15) Registration of a trust.
+(16) Registration of an employee working remotely outside Kenya for an employer in Kenya, excluding an employee outside Kenya working for the national carrier.
