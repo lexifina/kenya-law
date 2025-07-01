@@ -19,8 +19,8 @@ Provided that where the returning resident has owned and used a left hand drive 
 In this Part, "international agreement" means an agreement between the Government of Kenya and a foreign government, international organization, or aid agency for the provision of financial, technical, humanitarian, or administrative assistance to the Government of Kenya.
 9. Excisable goods imported or purchased locally for direct and exclusive use in the implementation of an Official Aid-Funded Project, to the extent provided for under the financing agreement.
 10. Excisable goods imported or purchased locally for direct use in the manufacture of sanitary towels.
-11. All goods including materials supplies, equipment, machinery and motor vehicles for the official use by the Kenya Defence Forces and the National Police Service.
-12. Alcoholic or non-alcoholic beverages supplied to the Kenya Defence Forces Canteen Organization.
+11. All goods including materials supplies, equipment, machinery and motor vehicles for the official use by the Kenya Defence Forces, the Defence Forces Welfare Services and the National Police Service.
+12. All goods imported or purchased locally by the Defence Forces Welfare Services.
 13. Illuminating kerosene supplies to licenced or registered manufacturers of paint, resin or shoe polish in such quantities as the Commissioner may approve.
 14. Deleted by Act No. 2 of 2020, Sch.
 15. Neutral spirit imported or purchased locally by registered pharmaceutical manuf acturers upon approval by the Commissioner
@@ -33,5 +33,6 @@ PART B — EXEMPT EXCISABLE SERVICES
 1. The following excisable services shall be exempt from excise duty—
 (a) Excisable services supplied in Kenya to a diplomatic or consular mission or to a diplomat or consul, or a member of the diplomat or consul's family forming part of the diplomat or consul's household in Kenya to the extent provided for under the Privileges and Immunities Act (Cap. 179).
 (b) Excisable services supplied in Kenya to a foreign government, international organisation, or aid agency to the extent provided for under an international agreement or the Privileges and Immunities Act (Cap. 179).
+(c) Excisable services supplied to or by the Kenya Defence Forces Welfare Services;
 2. In this Part, "international agreement" means an agreement between the Government of Kenya and a foreign government, international organization, or aid agency for the provision of financial, technical, humanitarian, or administrative assistance to the Government of Kenya.
 3. Excisable services supplied in Kenya by a mobile telecommunication service provider on the sale of a ring back tune to a subscriber.

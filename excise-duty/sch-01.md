@@ -23,9 +23,8 @@ Tariff No. | Tariff Description | Rate (Ksh.)
 Description | Rate of Excise Duty
 Fruit juices (including grape must), and vegetable juice, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter | Shs. 14.14 per litre
 Food supplements | 10%
-Cosmetics and Beauty products of tariff heading No. 3303, 3304, 3305 and 3307 | 15%
 Bottled or similarly packaged waters and other non-alcoholic beverages, not including fruit or vegetable juices. | Shs. 6.41 per litre
-Beer, Cider, Perry, Mead, Opaque beer and mixtures of fermented beverages with non-alcoholic beverages and spirituous beverages of alcoholic strength not exceeding 6% | KSh. 22.50 per centilitre of pure alcohol:Provided that, Beer, cider, perry, mead, opaque beer and mixtures of fermented beverages with non-alcoholic beverages and spirituous beverages manufactured by licensed small independent brewers shall be subject to the rate of "KSh 10 per centilitre of pure alcohol;
+Beer, Cider, Perry, Mead, Opaque beer and mixtures of fermented beverages with non-alcoholic beverages and spirituous beverages of alcoholic strength not exceeding 6% | KSh. 22.50 per centilitre of pure alcohol: Provided that, Beer, cider, perry, mead, opaque beer and mixtures of fermented beverages with non-alcoholic beverages and spirituous beverages manufactured by licensed small independent brewers shall be subject to the rate of "KSh 10 per centilitre of pure alcohol;
 Powdered beer | Shs. 129.53 per kg
 Wines including fortified wines, and other alcoholic beverages obtained by fermentation of fruits | KSh. 22.50 per centilitre of pure alcohol
 Spirits of undenatured ethyl alcohol; spirits liqueurs and other spirituous beverages of alcoholic strength exceeding 6% | KSh. 10 per centilitre of pure alcohol
@@ -39,19 +38,16 @@ Motor vehicles of tariff no. 8703.24.90 and 8703.33.90 | 35%
 Motorcycles of tariff 87.11 other than motorcycle ambulances, locally assembled motor cycles and electric motorcycles | Shs. 12,952.83 per unit
 100% electric powered motor vehicles of tariff no. 8702.40.11, 8702.40.19, 8702.40.21, 8702.40.22, 8702.40.29, 8702.40.91, 8702.40.99 and 87.03.80.00 | 10%
 Imported sugar confectionary of tariff heading 17.04; | KSh. 85.82 per kg
-Imported White chocolate of heading 1704;Imported chocolate and other food preparations containing cocoa of tariff nos. 1806.31.00, 1806.32.00 and 1806.90.00; | Shs. 257.55 per kg
+Imported White chocolate of heading 1704; Imported chocolate and other food preparations containing cocoa of tariff nos. 1806.31.00, 1806.32.00 and 1806.90.00; | Shs. 257.55 per kg
 Imported gas cylinders | 35%
-Imported Glass bottles (excluding imported glass bottles for packaging of pharmaceutical products)Provided that it shall not apply to glass bottles imported from any of the countries within the East African Community | 35%
+Imported Glass bottles (excluding imported glass bottles for packaging of pharmaceutical products) Provided that it shall not apply to glass bottles imported from any of the countries within the East African Community | 35% or Ksh.40 per kg whichever is higher
 Jewellery of tariff heading 7113 and imported jewellery of tariff heading 7117 | 15%
 Products containing nicotine or nicotine substitutes intended for inhalation without combustion or oral application but excluding medicinal products approved by the Cabinet Secretary responsible for matters relating to health and other manufactured tobacco and manufactured tobacco substitutes that have been homogenized and reconstituted tobacco, tobacco extracts and essences | KSh. 2,000.00 per kg
-Articles of plastic of tariff heading 3923.30.00 and 3923.90.90 | 10%
+Imported Articles of plastic of tariff heading 3923.30.00 and 3923.90.90 | 10%
 Imported eggs of tariff heading 04.07 excluding fertilized eggs for incubation imported by licenced incubators | 25%
 Imported onions of tariff heading 07.03 | 25%
 Imported potatoes, potato crisps and potato chips of tariff heading 07.01 and imported potatoes of tariff numbers 0710.10.00, 2004.10.00 and 2005.20.00 | 25%
-Articles of plastic of tariff heading 3923.30.00 | 10%
-Imported eggs of tariff heading 04.07 | 25%
-Imported onions of tariff heading 07.03 | 25%
-Imported potatoes, potato crisps and potato chips of tariff heading 07.01 | 25%
+Imported Articles of plastic of tariff heading 3923.30.00 | 10%
 Electronic cigarettes and other nicotine delivery devices | 40%
 Liquid nicotine for electronic cigarettes | KSh. 100 per millilitre
 Imported ready to use SIM cards | Shs. 50 per SIM card
@@ -64,18 +60,32 @@ Imported cellular phones | 10%
 Imported paints, varnishes and lacquers of heading 3208, 3209 and 3210 | 15%
 Imported non-virgin test liner of heading 4805.24.00 | 25%
 Imported non-virgin fluting medium of heading 4805.19.00 | 25%
-Imported cartons, boxes and cases of corrugated paper or paper board and imported folding cartons, boxes and case of non-corrugated paper or paper board and imported skillets, free-hinge lid packets of tariff heading 4819.10.00, 4819.20.10 and 4819.20.90; | 25%
-Printed paper or paperboard of tariff heading 4811.41.90 or 4811.49.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin | 25% or KSh. 150 per kilogramme, whichever is higher
+Imported cartons, boxes and cases of corrugated paper or paper board and imported folding cartons, boxes and case of non-corrugated paper or paper board and imported skillets, free-hinge lid packets of tariff heading 4819.10.00, 4819.20.10 and 4819.20.90; | 25% or KSh. 200 per kilogramme, whichever is higher
 Imported plates of plastic of tariff heading 3919.90.90, 3920.10.90, 3920.43.90, 3920.62.90 and 3921.19.90 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin | 25% or KSh. 200 per kilogramme, whichever is higher
-Imported Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls of tariff number 3919.90.90, 3920.10.90, 3920.43.90, 3920.62.90 and 3921.19.90 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin | 25% or sh. 75 per Kilogramme, whichever is higher
-Imported paper or paper board, labels of all kinds whether or not printed of tariff heading 4821.10.00 and 4821.90.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin | 25% or sh. 150 per kilogramme, whichever is higher
-Printed paper or paperboard of tariff heading 4811.41.90 or 4811.49.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin | 25% or KSh. 200 per kilogramme, whichever is higher
-Imported Fully Assembled Electric transformers and parts of tariff codes 8504.10.00, 8504.21.00, 8504.22.00, 8504.23.00, 8504 .31.00, 8504.32.00, 8504.34.00 | 25%
+Imported paper or paper board, labels of all kinds whether or not printed of tariff heading 4821.10.00 and 4821.90.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin | 25% or Ksh 200 per kilogramme, whichever is higher
 Imported printing ink of tariff 3215.11.00 and 3215.19.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin | 15%
 Imported Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures of tariff heading 6910 | 5% of custom value or KSh. 50 per kg
-Imported Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked of tariff 7007 | 35% of custom value or KSh. 200 per kg
-Imported ceramic flags and paving, hearth or wall tiles;unglazed ceramic mosaic cubes and the like, whether or not on a backing;finishing ceramics of tariff 6907 | 5% of custom value or KSh. 200 per square meter
-Coal | 2.5% of the custom value
+Imported Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked of tariff 7005 but excluding those imported by a registered processor upon the recommendation by the Cabinet Secretary responsible for matter relating to industry and those originating from East African Community Partner States that meet the East African Community Rules of Origin | 35% of excisable value or Ksh 500 per square meter whichever is higher.
+Imported ceramic flags and paving, hearth or wall tiles; unglazed ceramic mosaic cubes and the like, whether or not on a backing; finishing ceramics of tariff 6907 | 5% or Ksh 300 per square metre,whichever is higher
+Imported other self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls of tariff number 3919.90.90, but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin. | 25% of excisable value or Kshs. 200 per Kilogramme, whichever is higher.
+Imported printed polymers of ethylene of other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly combined with other materials of tariff number 3920.10.90, but excluding those originating from East African Community Partner States that meet the EastAfrican Community Rules of Origin. | 25% of excisable value or Kshs. 200 per Kilogramme, whicheveris higher.
+Imported printed polymers of vinyl chloride containing by weight not less than 6% of other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly combined with other materials of tariff number 3920.43.90, but excluding those originating from East African Community Partner States that meet the EastAfrican Community Rules of Origin. | 25% of excisable value or Kshs. 200 per Kilogramme, whicheveris higher.
+Imported printed poly (ethylene terephthalate) of polycarbonates, alkyd resins, polyallylesters or other polyesters of other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly of tariff number 3920.62.90, but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin. | 25% of excisable value or Ksh. 200 per Kilogramme, whichever is higher.
+Imported printed cellular of other plastics of other plates, sheets, film, foil and strip of tariff number 3921.19.90, but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin. | 25% of excisable value or Kshs. 200 per Kilogramme, whichever is higher.
+Printed self-adhesive paper of tariff number 4811.41.90, but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin. | 25% of excisable value or Ksh. 200 per Kilogramme, whichever is higher.
+Gummed paper and paperboard of tariff number 4811.49.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin. | 25% of excisable value or Ksh. 200 per Kilogramme, whichever is higher.
+Imported tea whether or not flavored. | 25% of excisable value
+Imported Uncoated kraft paper and paperboard, in rolls or sheets; kraftliner; unbleached of tariff number 4804.11.00 but excluding those originating from East African Community Partner States that meet the EastAfrican Community Rules of Origin | 25% of excisable value or kshs.50 per kilogramme, whichever is higher.
+Imported other kraft paper or paperboard weighing 150g/m2 or less, in rolls or sheets; unbleached of tariff number 4804.31.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin | 25% of excisable value or kshs.50 per Kilogram,whichever is higher.
+Imported other kraft paper or paperboard weighing more than 150g/m2 but less than 225g/m2, in rolls or sheets; unbleached of tariff number 4804.41.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin | 25% of excisable value or kshs.50 per Kilogram,whichever is higher.
+Imported other kraft paper or paperboard weighing 225 g/m2 or more others in rolls or sheets; unbleached of tariff number 4804.51.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin | 25% of excisable value or kshs.50 per Kilogram,whichever is higher.
+Imported Glass of heading 70.03, 70.04 or 70.05, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials of Tariff Heading 70.06, but excluding those from East Africa Community Partner States that meet the East Africa Community Rules of Origin. | 35% of excisable value or Kshs. 500 per square metre, whichever is higher
+Imported safety glass of tariff numbers 7007.19.00 and 7007.29.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin. | 35% of excisable value or Kshs. 500 per squaremetre, whichever is higher
+Imported Multiple-walled insulating units of glass of Tariff Heading 70.08, but excluding those from East Africa Community Partner States that meet the East Africa Community Rules of Origin | 35% of excisable value or Kshs. 500 per squaremetre, whichever is higher
+Imported fully built and semi-built direct air capture machines | 25% of excisable value
+Imported aluminium profiles, fabricated doors and fabricated windows of tariff numbers 76.04, 7608.20 and 7610.10 | 25% of excisable value or Ksh.400 per kilogramme, whichever is higher.
+Non-refillable lighters of tariff number 9613.10.00 | 25% of excisable value or Ksh 500 per kilogramme
+Spirits of undenatured extra neutral alcohol of alcoholic strength exceeding 90% purchased by licensed manufacturers of spirituous beverages. | Ksh. 500 per litre
 Commodity Code | Raw Materials | Excise duty
 3907.91.00 | Imported Unsaturated polyster | 20%
 3907.50.00 | Imported Alkyd | 20%
@@ -97,19 +107,20 @@ Part II — EXCISABLE SERVICES
 2. Excise duty in fees charged for money transfer services by banks, money transfer agencies and other financial service providers shall be fifteen percent of their excisable value.
 3. Excise duty on fees charged for money transfer services by cellular phone service providers, or payment service providers licensed under the National Payment System Act (Cap. 491A), shall be fifteen percent of their excisable value.
 4. Excise duty on other fees charged by financial institutions shall be twenty percent of their excisable value.
-4A. Excise duty on betting shall be fifteen per cent of the amount wagered or staked.
+4A. Excise duty on betting shall be five percent on the amount deposited into a customer's betting wallet:
 Provided that this paragraph shall not apply to horse racing.
-4B. Excise duty on gaming shall be fifteen per cent of the amount wagered or staked.
-4C. Excise duty on prize competition shall be fifteen per cent of the amount paid or charged to participate in a prize competition.
-4D. Excise duty on lottery (excluding charitable lotteries) shall be fifteen per cent of the amount paid or charged to buy the lottery ticket.
+4B. Excise duty on gaming shall be five per cent on the amount deposited into a customer's gaming wallet.
+4C. Excise duty on prize competition shall be five per cent of the amount paid or charged to participate in a prize competition.
+4D. Excise duty on lottery (excluding charitable lotteries) shall be five per cent of the amount paid or charged to buy the lottery ticket.
 5. Deleted by Act No. 8 of 2020, s. 17(b).
 6. Excise duty on fees charged by digital lenders at a rate of twenty percent.
 7. Deleted by Act No. 4 of 2023, s. 47(b)(viii).
 8. Excise duty on fees charged on advertisement on the internet, social media, television, print media, billboards and radio stations on alcoholic beverages, betting, gaming, lotteries and prize competitions shall be at the rate of fifteen per cent.
+9. Excise duty on fees charged on virtual assets transactions by virtual asset providers shall be ten percent of the excisable value.
 Part III — INTERPRETATION OF SCHEDULE
 In this Schedule—
 "Adjustment day" means 1st day of October of every year;
-"amount wagered or staked" means the amount of money placed by a person for an outcome in a betting or gaming transaction;
+"amount deposited into a customer's betting wallet" means the amount of money transferred by a customer into the customer wallet maintained by a licensed betting and gaming operator for betting and gaming purposes;
 "beer" includes ale, porter, and any other description of beer and any liquor, including beer substitute, which is produced as a result of the alcoholic fermentation of an extract derived from barley, malt, a cereal grain, starch or saccharine matter and hops or hops substitute, in potable water with other substitute ingredients and which contains more than two per centum of proof spirit, but does not include—
 (a) any beer brewed by any person for personal consumption and which is not offered for sale; or
 (b) any kind of beer that, by order of the Cabinet Secretary, is excluded from the provisions of this Act;
