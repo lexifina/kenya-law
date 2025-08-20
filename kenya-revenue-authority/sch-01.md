@@ -21,7 +21,7 @@ Part II
 4. The Civil Aviation Act (Cap. 394).
 5. The Widows' and Children's Pensions Act (Cap. 195).
 6. The Parliamentary Pensions Act (Cap. 196).
-7. The Betting, Lotteries and Gaming Act (Cap. 131).
+7. The Gambling Control Act (No. 14 of 2025).
 8. The Stamp Duty Act (Cap. 480).
 9. The Horticultural Crops Development Authority (Imposition of Fees and Charges) Order, 1995 (L.N. 225 of 1995).
 10. The Standards Levy Order, 1990 (L.N. 267 of 1990).
