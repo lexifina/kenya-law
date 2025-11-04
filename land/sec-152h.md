@@ -1,0 +1,2 @@
+# 152H. Disposal of property left after eviction.
+The competent officer of the Commission or County Government, community owning a registered community land or owner of private land shall at least seven days from the date of the eviction, remove or cause to be removed or disposed by public auction, any unclaimed property that was left behind after an eviction from private, community or public land.
