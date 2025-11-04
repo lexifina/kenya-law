@@ -6,10 +6,11 @@
 (d) formulate and implement such policies as best promote the establishment, regulation and supervision of efficient and effective payment, clearing and settlement systems;
 (da) license and supervise non-deposit-taking credit providers not regulated under any other written law;
 (db) license and supervise credit guarantee companies not regulated under any other written law;
+(dc) license and supervise virtual asset service providers;
 (e) act as banker and advisor to, and as fiscal agent of the Government;
 (f) issue currency notes and coins; and
 (g) license and supervise mortgage refinance companies.
-(h) pursuant to sections 2A, 36A, 36B and 36C of the Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A), regulate and supervise, for anti-money laundering and combating the financing of terrorism and countering proliferation financing purposes, the following institutions—
+(h) pursuant to sections 2A, 36A, 36B and 36C of the Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A) and section 6 of the Virtual Asset Service Providers Act, regulate and supervise, for anti-money laundering and combating the financing of terrorism and countering proliferation financing purposes, the following institutions—
 (i) banks and their agents;
 (ii) mortgage finance companies and their agents;
 (iii) mortgage refinance companies and their agents;
@@ -17,6 +18,7 @@
 (v) money remittance providers and their agents;
 (vi) foreign exchange bureaus and their agents;
 (vii) non-deposit taking credit providers and their agents;
+(viia) virtual asset service providers;
 (viii) payment service providers;
 (viiia) credit guarantee companies; and
 (ix) any other entity licensed by the Central Bank under any written law.
