@@ -1,0 +1,8 @@
+# SECOND SCHEDULE
+CATEGORY OF MARKETS / ECONOMIC ZONES PART I Under this part are markets /economic zones described as Category A which comprise County Headquarter (Kitui Town)-Kitui town Centre, town streets (CBD), Kunda Kindu, Ginneries, Hospital Road, AP line, Kalundu B.A.T, Mosquito, Mjini, Stadium area, Mwembe Tayari, Site, Nzeeu River, Ngiini, Kaveta, Kitui School.
+PART II Under this part are markets /economic zones described as Category B which comprise Mwingi Town-Mwingi Town Centre streets (CBD), Mwingi Cottage, Tyaa-Kwa kasamba beach, Mwingi General Hospital, Garissa road-Kwa Ben, Slaughter, Mwingi Stock yard
+PART III Under this part are markets /economic zones described as Category C which comprise Sub County Headquarter-Mutomo, Kyusyani, Kabati, Migwani, Zombe and Kyuso
+PART IV Under this part are markets /economic zones described as Category D:
+Upcoming Commercial Centre-Tseikuru, Ikutha,Mutha,Ikanga, Nguni, Katse, Kisasi, Kwa Vonza, Mutito, Mbitini, Nuu, Wikililye, Majengo, Chuluni, Matinyani, Katulani, Kwa-Ngindu, Mulutu, Syongila, Site and Service, Katutu, Kanyonyoo, Kamuwongo, Ngutani, Mbondoni, Ngomeni, Kanyangi, Athi, Kavisuni,Tulia PART V Unsader this part are markets /economic zones described as Category E;
+All Other Towns-All other towns, trading centers and market within the county not listed in category A, B, C and D
+PART VI All markets in Kitui County have been exempted from paying barter market fee except in the following markets for market days only-Kalundu, Mwingi Town, Ikutha, Athi, Mutha, Mutomo, Ikanga, Kanyangi, Kavisuni, Kamutei, Kisasi, Kwa-Vonza, Mbitini, Zombe, Mutito, Kabati, Migwani, Kamuwongo, Tseikuru, Katse, Nguni, Ngomeni and Nuu
