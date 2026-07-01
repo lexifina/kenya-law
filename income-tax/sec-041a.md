@@ -1,0 +1,2 @@
+# 41A. Agreements for exchange of information
+The Cabinet Secretary may, by notice in the Gazette, from time to time declare that arrangements made with the government of any country with the view of exchanging information relating to income tax or other taxes of a similar character imposed by the laws of that country, shall, notwithstanding anything to the contrary in this Act or any other written law, have effect in relation to income tax, and that notice shall, subject to the provisions of this section, have effect accordingly.

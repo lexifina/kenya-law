@@ -1,0 +1,4 @@
+# 74A. Instalment assessment
+(1) Without prejudice to his powers under section 73, Commissioner may proceed to make an instalment assessment for tax under section 12 in respect of any person after the expiry of the time allowed to that person under this Act for the payment of instalment tax; and
+(2) When a person has paid instalment tax under section 12 he shall thereupon be deemed to have been assessed for the purpose of instalment tax under this section on the basis of the amount of instalment tax paid; and
+(3) Where a person has not paid instalment tax for a year of income and the Commissioner considers that the person has or will have income chargeable to tax for that year, he may, according to the best of his judgment, estimate the income of that person and make an instalment assessment upon him accordingly.
