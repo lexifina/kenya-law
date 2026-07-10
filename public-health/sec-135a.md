@@ -1,0 +1,12 @@
+# 135A. Powers of certain municipal councils respecting milk, etc.
+(1) Every municipal council may with the approval of the Cabinet Secretary make by-laws applicable to its area for all or any of the following purposes—
+(a) for regulating, supervising and licensing purveyors of milk and ice-cream makers and vendors;
+(b) for regulating, inspecting, supervising and licensing dairies and milk-shops;
+(c) for regulating the conveyance and distribution and securing the identification of the source of milk or milk products distributed, offered for sale or sold within its area of jurisdiction;
+(d) for prescribing the conditions subject to which any milk or milk products, wherever produced or prepared, may be introduced, distributed, stored, sold or used within its area of jurisdiction;
+(e) for enabling such municipal council to certify the quality of any milk and prohibiting the unauthorized use of any terms employed by the municipal council in denoting such quality; and
+(f) for prohibiting the introduction, distribution, storage, sale or use within its area of jurisdiction of any milk or milk products from any source within or without such area where it appears to such municipal council or a committee thereof, on the certificate of its medical officer of health or such other person as the municipal council may authorize in that behalf, that the consumption of such milk or milk products is likely to cause the outbreak or spread of any infectious or contagious diseases;
+but no such by-law or rule shall be inconsistent with or repugnant to any rule or order under section 134 or section 135 in force in the area of jurisdiction of such municipal council.
+(2) The procedure for the making, approval and publication of by-laws or rules made under this section shall be that prescribed in the Local Government Act (Cap. 265) and for the purpose of the enforcement thereof, and the disposal of fines imposed for contravention thereof, such by-laws or rules, as the case may be, shall be deemed to be by-laws or rules made by the same municipal council under this Act.
+(3) Rules may be made under section 134 and orders may be made under section 135 notwithstanding that they may be inconsistent with or repugnant to any by-law or rule of a municipal council and in force in the area to which such rules or orders shall prevail over such By-law or rules of the municipal council.
+(L.N. 256/1963, 4th Sch., L.N. 41/1970, Sch., Act No. 17 of 2006, s. 16)
