@@ -1,0 +1,8 @@
+# SECOND SCHEDULE [s. 8(6)] CONDUCT OF THE BUSINESS AND AFFAIRS OF THE BOARD
+1. The Board shall meet at least four times in every financial year and not more than two months shall elapse between the date of one meeting and the date of the next meeting.
+2. Notwithstanding paragraph 1, the chairperson may at any time, and shall, within twenty-one days of the receipt by him of a written request signed by at least seven members of the Board, convene a special meeting of the Board.
+3. The quorum for the conduct of the business of the Board shall be five members.
+4. The Chairperson shall preside at every meeting of the Board at which he is present, but in the absence of the chairperson the members present shall elect one among their number to preside, and such member shall, for the purposes of that meeting have all the powers of the chairperson.
+5. The decisions of the Board shall be carried by the votes of a majority of the members present, but in the case of an equality of votes the chairperson or person presiding shall have a casting vote.
+6. Any member who has a direct or indirect interest in any decision to be taken on any specific matter by the Board, shall disclose the nature of such interest at the meeting of the Board where such decision is being taken, and the disclosure shall be recorded in the minutes of the meeting, and if a majority of the members of the Board believe that such member’s interest in the matter is such as to influence his judgment, the member shall not participate in the deliberation or the decision of the Board on such matter.
+7. Except as provided in this Schedule, the Board may regulate its own procedure.
