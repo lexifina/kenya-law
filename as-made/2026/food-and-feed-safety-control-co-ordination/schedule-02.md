@@ -1,0 +1,97 @@
+# SECOND SCHEDULE
+(s.34)
+CONSEQUENTIAL AMENDMENTS Written law Provision Amendment Public Health s. 2 Delete the definition of the term "food".
+Act (Cap. 242) s. 2 inserting the following new definitions in proper alphabetical sequence-"Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; "food" means a processed, semi-processed or raw substance which is consumed by a human being and includes drinking water and a substance which has been used in the production, manufacture, preparation or treatment of food but does not include a cosmetic, tobacco or a substance used as drugs;and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act. s. 10 Insert the following new subsection immediately after subsection (2)-
+(2A) The function of the Medical Department shall include the-
+(a) conduct of audits on the traceability mechanisms established by persons who sell food or expose food for sale; and
+(b) implementation of the multi-annual control plan in the performance of its functions.
+New.
+Insert the following new section immediately after section 10-Food and Feed Safety Control Co-ordination Role of the lOA. (1) Where the Director-Controller.
+General for Health determines that there is an overlap between his or her functions and the function of any other public institution in relation to food safety, the Director-General for Health may request the Controller to advise.
+(2) Where a conflict arises between the Director-General for Health and any other public institution in the execution of his or her functions in relation to food safety, the Director-General for Health may request the Controller to advise.
+(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Director­ General for Health to verify that the Director-General for Health has established a system for the effective official control for food safety.
+The Food, s. 2 Delete the definition of the term "food".
+Drugs and Chemical Substances Act (Cap. 254) Insert the following new definitions in proper alphabetical sequence-"Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; "food" means a processed, semi-processed or raw substance which is consumed by a human being and includes drinking water and a substance which has been used in the Food and Feed Sqfety Control Co-ordination No.21 production, manufacture, preparation or treatment of food but does not include a cosmetic, tobacco or a substance used as drugs;and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.
+New.
+Insert the following new sections immediately after section 27-Functions of 27 A. The functions of the the Boant.
+Board shall be to-( a) conduct audits of the traceability mechanisms established by a person who labels, packages, sells or advertises any food; and
+(b) implement the multi­ annual control plan in the performance of its functions.
+Role of the 27B. (1) Where the Board Controller. determines that there is an overlap in its functions and the function of any other public institution in relation to food safety, the Board may request the Controller to advise.
+(2) Where a conflict arises between the Board and any other public institution in the execution of its functions in relation to food safety, the Board may request the Controller to advise.
+(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Board to verify that the Board has Food and Feed Safety Control Co-orclination established a system for the effective official control for food safety.
+The Dairy s. 3 Insert the following new definitions in Industry Act proper alphabetical sequence-(Cap. 336) "Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act. s. 17 Insert the following new paragraphs immediately after paragraph (e)-
+(ea) to conduct audits of the traceability mechanisms established by a person who engages in the production, marketing, distribution and supply of dairy produce;
+(eh) to implement the multi-annual control plan in the performance of its functions.
+New.
+Insert the following new section immediately after section 1 7 - Role of the 17 A. (1) Where the Board Controller. determines that there is an overlap in its functions and the functions of any other public institution in relation to food safety, the Board may request the Controller to advise.
+(2) Where a conflict arises between the Board and any other public institution in the execution of its functions in relation to food safety, the Board may request the Controller to advise.
+Food and Feed Safety Control Co-ordination No.21
+(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Board to verify that the Board has established a system for the effective official control for food safety.
+The s. 2 Insert the following new definitions in Fertilizers proper alphabetical sequence-and Animal Foodstuffs Act (Cap. 345) "Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act. s. 2B Insert the following new paragraphs immediately after paragraph (t)-
+(fa) conduct audits of the traceability mechanisms established by a person who engages in the production, manufacture, packaging, importation and marketing of animal foodstuffs;
+(tb) implement the multi-annual control plan in the performance of its functions.
+New.
+Insert the following new section immediately after section 2B-Roleoflhe 2BA. (1) Where the Board Controller. determines that there is an overlap in its functions and the functions of any other public institution in relation to food safety or feed safety, the Board may request the Controller to advise.
+Food and Feed Safety Control Co-ordination
+(2) Where a conflict arises between the Board and any other public institution in the execution of its functions in relation to food safety or feed safety, the Board may request the Controller to advise.
+(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Board to verify that the Board has established a system for the effective official control for food safety or feed safety.
+The Pest s. 2 Insert the following new definitions in Control proper alphabetical sequence-Products Act (Cap. 346) "Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act. s. 6 Insert the following new paragraphs immediately after paragraph (b)-
+(ba) to conduct audits of the traceability mechanisms established by a person who deals in pest control products;
+(bb) to implement the multi-annual control plan in the performance of its functions.
+New.
+Insert the following new section immediately after section 6-Rote of the 6A. (1) Where the Board Controller. determines that there is an overlap in its functions and the Food and Feed Safety Comrol Co-ordination No.21 functions of any public institution in relation to food safety or feed safety, the Board may request the Controller to advise.
+(2) Where a conflict arises between the Board and any other public institution in the execution of its functions in relation to food safety or feed safety, the Board may request the Controller to advise.
+(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Board to verify that the Board has established a system for the effective official control for food safety or feed safety.
+The Meat s.2 Insert the following new definitions m Control Act proper alphabetical sequence-(Cap. 356) "Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; "multi-annual control plan" has the meaning assigned to it in section 2 of the Food and Feed Safety Control Co-ordination Act. s. 3 (1) Insert the following new paragraphs immediately after paragraph (h)-
+(ha) conduct of audits of the traceability mechanisms established by a person who operates a slaughterhouses or who engages in the production, manufacture, packaging, importation, exportation or marketing of meat products; and Food and Feed Safety Control Co-ordination
+(hb) implementation of the multi-annual control plan in the performance of its functions.
+The s. 2 Insert the following new definitions in Standards proper alphabetical sequence-Act (Cap. 496) "Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act. s. 4 (1) Insert the following new paragraphs immediately after paragraph (d)-
+(da) conduct audits of the traceability mechanisms established by persons who use of standardization marks and distinctive marks for foods or feeds; and
+(db) implement the multi-annual control plan in the performance of its functions.
+New.
+Insert the following new section immediately after section 4-Role of the 4A. (1) Where the Bureau Controller. determines that there is an overlap in its functions and the functions of any other public institution in relation to food safety or feed safety, the Bureau may request the Controller to advise.
+(2) Where a conflict arises between the Bureau and any public institution in the execution of its functions in relation to food safety or feed safety, the Bureau Food and Feed Safety Con1rol Co-ordination No.21 may request the Controller to advise.
+(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Bureau to verify that the Bureau has established a system for the effective official control for food safety or feed safety.
+The s. 2 Insert the following new definitions m Biosafety proper alphabetical sequence-Act, 2009 (Cap. 320) "Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act. s. 7 (2) Insert the following new paragraphs immediately after paragraph (b )-
+(ha) conduct audits of the traceability mechanisms established by a person who engages in the transfer, handling and use of genetically modified organisms;
+(bb) implement the multi-annual control plan in the performance of its functions.
+New.
+Insert the following new section immediately after section 7 - Role of the 7 A. (I) Where the Authority Controller. determines that there is an overlap in its functions and the function of any other institution in relation food safety or feed safety, the Authority may request the Controller to advise.
+Food and Feed Safety Control Co-ordination
+(2) Where a conflict arises between the Authority and any other public institution in the execution of its functions in relation to food safety or feed safety, the Authority may request the Controller to advise.
+(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Authority to verify that the Authority has established a system for the effective official control for food safety or feed safety.
+The Kenya s. 2 Inserting the following new definitions in Plant Health proper alphabetical sequence-Inspectorate Service Act, (Cap. 349) "Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act. s. 5 Insert the following new paragraphs immediately after paragraph (m)-
+(ma) conduct audits of the traceability mechanisms established by seed merchants, seed growers, agents and any other person who may be required to be registered under the provisions of this Act or any of the laws specified in the First Schedule;
+(mb) implement the multi-annual control plan in the performance of its functions.
+Food and Feed Safety Control Co-orditultion No.21 New.
+Insert the following new section immediately after section 5-Role of lhe SA. (1) Where the Service Controller. determines that there is an overlap in its functions and the function of any other public institution in relation to food safety, the Service may request the Controller to ad vise.
+(2) Where a conflict arises between the Service and any other public institution in the execution of its functions in relation to food safety or feed safety, the Service may request the Controller to advise.
+(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Service to verify that the Service has established a system for the effective official control for food safety or feed safety.
+The s. 2 Insert the following new definitions in Agriculture proper alphabetical sequence-and Food Authority Act, (Cap. 317) "Controller'' means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act. s. 4 Insert the following new paragraphs immediately after paragraph ( e )-( ea) conduct audits of the traceability mechanisms established by persons Food and Feed Safety Control Co-ordination who engage in the production, processing, marketing, grading, storage, collection, transportation or warehousing of agricultural products excluding livestock products as may be provided for under the Crops Act; and
+(eb) implement the multi-annual control plan in the performance of its functions.
+New.
+Insert the following new section immediately after section 4-Rote of the 4A. (1) Where the Authority Controller. determines that there is an overlap in its functions and the function of any other institution in relation food safety, the Authority may request the Controller to advise.
+(2) Where a conflict arises between the Authority and any other institution in the execution of its functions in relation to food safety, the Authority may request the Controller to advise.
+(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Authority to verify that the Authority has established a system for the effective official control for food safety.
+The Fisheries s. 2 Insert the following new definitions in Management proper alphabetical sequence-and Development Act (Cap. 378) Food and Feed Safety Control Co-ordination No.21 "Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act. s. 58 Insert the following new paragraphs immediately after paragraph (h)-
+(ha) conduct audits of the traceability mechanisms established by a person who engages in the handling, landing, transportation, processing or marketing of fish or fish products;
+(hb) implement the multi-annual control plan in the performance of its functions.
+New.
+Insert the following new section immediately after section 58-SSA. ( l) Where the Role of the Controller. Committee established under section 58 determines that there is an overlap in its functions and the function of any other public institution in relation food safety, the Committee may request the Controller to advise.
+(2) Where a conflict arises between the Committee established under section 58 and any other public institution in the execution of functions of the Committee in relation to food safety, it may request the Controller to advise.
+(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Committee established under section 58 to verify that the Committee has Food and Feed Safety Control Co-ordination established a system for the effective official control for food safety.
+The Water s. 2 Insert the following new definitions m Act proper alphabetical sequence-(Cap. 372) "Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act. s. 12 Insert the following new paragraphs immediately after paragraph (f)-
+(fa) conduct audits of the traceability mechanisms established by water services providers;
+(fb) implement the multi-annual control plan in the performance of its functions.
+New.
+Insert the following new section immediately after section 72-Role of the 72A. ( l) Where the Controller.
+Regulatory Board determines that there is an overlap in its functions and the function of any other public institution in relation to food safety, the Regulatory Board may request the Controller to advise.
+(2) Where a conflict arises between the Regulatory Board and any other public institution in the execution of the functions of the Regulatory Board in relation to food safety, it may request the Controller to advise.
+(3) The Controller shall conduct an audit on the Food and Feed Safety Control Co-ordination No.21 mechanisms for food safety established by the Regulatory Board to verify that the Regulatory Board has established a system for the effective official control for food safety.
+The Health s. 2 Insert the following new definitions in Act proper alphabetical sequence-(Cap. 241) "Controller" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and "multi-annual control plan" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act. s. 17 Insert the following new paragraphs immediately after paragraph (k)-
+(ka) conduct audits of the traceability mechanisms established in exercising stewardship in setting policy guidelines and standards for human food consumption, dietetic services and healthy lifestyle;
+(kb) implement the multi-annual control plan in the performance of his or her functions.
+New.
+Insert the following new section immediately after section 17 - Roleofthe 17A. (1) Where the Director-Controller. General determines that there is an overlap in his or her functions and the function of any other public institution in relation to food safety, the Director-General may request the Controller to advise.
+(2) Where a conflict arises between the Director-General Food and Feed Safety Control Co-ordination and any other public institution in the execution of his or her functions in relation to food safety, he or she may request the Controller to advise.
+(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Director-General to verify that the Director-General has established a system for the effective official control for food safety.
