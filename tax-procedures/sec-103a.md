@@ -6,3 +6,4 @@
 (2) A person convicted of an offence under subsection (1) shall be liable—
 (a) in the case of a natural person, to imprisonment for a term not exceeding two years, or to a fine not exceeding four hundred thousand shillings, or to both; or
 (b) in the case of a body corporate, to a fine not exceeding one million shillings.
+(Act No. 10 of 2018, s. 47)

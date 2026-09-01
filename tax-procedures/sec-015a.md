@@ -4,3 +4,4 @@
 (3) The registration of the tax representative shall be in the name of the non-resident person being represented.
 (4) A person may be a tax representative for more than one non-resident person, in which case the person shall have a separate registration for each non-resident person.
 (5) The Commissioner shall issue a PIN to the tax representative.
+(Act No. 38 of 2016, s. 33, Act No. 15 of 2017, s. 23.)

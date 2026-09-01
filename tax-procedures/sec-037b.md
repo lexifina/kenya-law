@@ -8,3 +8,4 @@
 (b) is under audit, investigation or is a party to ongoing litigation in respect of the undisclosed income or any matter relating to the undisclosed income.
 (3) Where no funds have been transferred within the period of the amnesty, there shall be a five year period for remittance but a penalty of ten percent shall be levied on the remittance.
 (4) The funds transferred under the amnesty shall be exempt from the provisions of Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A) or any other Act relating to reporting and investigation of financial transactions, to the extent of the source of the funds excluding funds derived from proceeds of terrorism, poaching and drug trafficking.
+(Act No. 38 of 2016, s. 39(b), Act No. 15 of 2017, s. 27, Act No. 10 of 2018, s. 39)

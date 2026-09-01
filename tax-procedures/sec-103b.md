@@ -5,3 +5,4 @@
 (c) damages or impairs any duplicate tape or disc or other medium on which any information obtained from a computerized tax system is held or stored otherwise than with the permission of the Commissioner,
 commits an offence.
 (2) A person convicted of an offence under subsection (1) shall be liable to imprisonment for a term not exceeding three years, or to a fine not exceeding eight hundred thousand shillings, or to both.
+(Act No. 10 of 2018, s. 47)

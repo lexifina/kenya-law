@@ -6,3 +6,4 @@ Provided that the principal tax shall be paid in full.
 (b) is under audit or investigation in respect of the undisclosed income or any matter relating to the undisclosed income.
 (3) Notwithstanding subsection (1), a company that delists from the exchange in which it is listed before the expiry of five years from the date of listing shall be assessed for all taxes, penalties or interest for the years it was in operation prior to listing.
 (4) The provisions of subsection (1) shall cease to apply after three years from the commencement of this section.
+(Act No. 23 of 2019, s. 28)

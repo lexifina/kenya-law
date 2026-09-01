@@ -12,3 +12,4 @@
 (4) The date by which and the manner in which an information return or a 'nil' return shall be filed with the Commissioner shall be as set out in the common reporting standard Regulations prescribed under subsection (6).
 (5) Where a financial institution, intermediary, service provider, or any other person enters into any arrangements or engages in a practice the main purpose or one of the main purposes of which can reasonably be considered to be to avoid an obligation imposed under this section or under Regulations made under this Act, the arrangement or practice shall be deemed not have been entered into or engaged in and this section shall apply as if the arrangement or practice had not been entered into or engaged in.
 (6) The Cabinet Secretary may, by Regulations, prescribe common reporting standards for the purposes of this Act.
+(Act No. 8 of 2021, s. 35.)

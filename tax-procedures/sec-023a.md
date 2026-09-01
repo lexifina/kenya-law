@@ -1,10 +1,10 @@
 # 23A. Electronic tax invoices
 (1) The Commissioner may establish an electronic system through which electronic tax invoices may be issued and records of stocks kept for the purposes of this Act.
-(2) A person who carries on business shall —
+(2) A person who carries on business shall—
 (a) issue an electronic tax invoice through the system established under subsection (1); and
 (b) maintain a record of stocks in the system established under subsection (1).
 (2A) An electronic tax invoice issued under subsection (2) shall contain the following information—
-(a) the words "TAX INVOICE";
+(a) the words “TAX INVOICE”;
 (b) the name, address and Personal Identification Number of the supplier;
 (c) the name, address and Personal Identification Number, if any, of the purchaser;
 (d) the serial number of the tax invoice;

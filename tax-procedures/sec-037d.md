@@ -21,3 +21,4 @@ Provided that the relief shall not result in the payment of a refund to the pers
 (a) is under audit, investigation or is a party to ongoing litigation in respect of the tax liability or any matter relating to the tax liability; or
 (b) has been notified of a pending audit or investigation by the Commissioner.
 (13) The disclosure of a tax liability under this section shall be confidential.
+(Act No. 8 of 2020, s. 18)

@@ -1,0 +1,30 @@
+# 18A. Tax avoidance schemes
+(1) Where the Commissioner determines in accordance with the information obtained under subsection (2) that—
+(a) a person has entered into or carried out a tax avoidance scheme;
+(b) a person has obtained a tax benefit in connection with the scheme; and
+(c) the purpose of enabling the person referred to in paragraph (b) is to obtain a tax benefit;
+the Commissioner may determine the tax liability of the person who obtained the tax benefit as if the scheme had not been entered into or carried out.
+(2) The Commissioner shall rely on—
+(a) information submitted to the Commissioner under section 35(5) of the Income Tax Act (Cap. 470);
+(b) the accounting of tax deducted under section 37(1) of the Income Tax Act (Cap. 470);
+(c) information submitted to the Commissioner under section 5A of the Kenya Revenue Authority Act (Cap. 469);
+(d) information submitted through the electronic system established under section 23A;
+(e) information submitted to the Commissioner under section 24A;
+(f) information obtained from the inspection of goods and records conducted under section 58;
+(g) information obtained from the auditing of the records produced under section 59;
+(h) information submitted to the data management and reporting system established under section 59A; or
+(i) information submitted to the Commissioner under any other written law, to make a determination under subsection (1).
+(3) The Commissioner shall issue to the person referred to in subsection (1) (b) an assessment of the tax liability determined under subsection (1) within five years from the last day of the tax period to which the tax liability relates.
+(4) The Commissioner shall issue to the person referred to in subsection (1) written reasons for the determination made under subsection (1) within thirty days of the determination.
+(5) A taxpayer may apply to the Commissioner for a private ruling for complex transactions and sections 65, 66, 67 and 68 of this Act shall apply.
+(6) In this section—
+"scheme" includes a course of action, and an agreement, arrangement, promise, plan, proposal, or undertaking, whether express or implied, and whether or not legally enforceable; and
+"tax benefit" means—
+(a) a reduction in the liability of a person to pay tax;
+(b) an increase in the entitlement of a person to a deduction for input tax;
+(c) an entitlement to a refund;
+(d) a postponement of a liability for the payment of tax;
+(e) an acceleration of an entitlement to a deduction for input tax;
+(f) any other advantage arising because of a delay in payment of tax or an acceleration of the entitlement to a deduction for input tax;
+(g) anything that causes a taxable supply or taxable import not to be a taxable supply or taxable import, as the case may be; or
+(h) anything that gives rise to a deduction for input tax for an acquisition or import that is used or is intended to be used other than in making taxable supplies.

@@ -1,0 +1,15 @@
+# 29A. Commissioner to issue an assessment
+(1) The Commissioner may, in accordance with the information obtained in accordance with subsection (2), issue an assessment on the income of a person as he may deem necessary.
+(2) The Commissioner shall rely on—
+(a) the information submitted to the Commissioner under section 35(5) of the Income Tax Act (Cap. 470);
+(b) the accounting of tax deducted under section 37(1) of the Income Tax Act (Cap. 470);
+(c) the information submitted to the Commissioner under section 5A of the Kenya Revenue Authority Act (Cap. 469);
+(d) the information submitted to the electronic system established under section 23A of the Tax Procedures Act (Cap. 469);
+(e) the information submitted to the Commissioner under section 24A;
+(f) the information obtained from the inspection of goods and records conducted under section 58;
+(g) the information obtained from the auditing of the records produced under section 59;
+(h) the information submitted to the data management and reporting system established under section 59A; or
+(i) the information submitted to the Commissioner under written law,
+to issue an assessment under subsection (1).
+(3) The Commissioner may request the taxpayer to provide the relevant information in writing at least thirty days before issuance of an assessment under subsection (1).
+(4) The taxpayer may object to an assessment under this section in accordance with section 51 of this Act.
