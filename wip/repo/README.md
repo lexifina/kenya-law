@@ -8,48 +8,75 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
-| `constitution/` | [CONSTITUTION OF KENYA](https://new.kenyalaw.org/akn/ke/act/2010/constitution) | 1 | 2010-09-03 to 2010-09-03 |
-| `companies/` | [COMPANIES ACT](https://new.kenyalaw.org/akn/ke/act/2015/17) | 12 | 2015-09-18 to 2024-12-27 |
-| `employment/` | [EMPLOYMENT ACT](https://new.kenyalaw.org/akn/ke/act/2007/11) | 11 | 2008-06-02 to 2024-04-26 |
+| `constitution/` | [CONSTITUTION OF KENYA](https://new.kenyalaw.org/akn/ke/act/2010/constitution) | 1 | 2010-08-27 to 2010-08-27 |
+| `capital-markets/` | [CAPITAL MARKETS ACT](https://new.kenyalaw.org/akn/ke/act/1989/17) | 30 | 1989-12-15 to 2025-12-11 |
+| `tax-procedures/` | [TAX PROCEDURES ACT](https://new.kenyalaw.org/akn/ke/act/2015/29) | 20 | 2015-12-24 to 2025-07-01 |
 
 **CONSTITUTION OF KENYA**
 
 | In force | Author |
 | --- | --- |
-| 2010-09-03 | Constitution of Kenya, 2010 (as enacted) |
+| 2010-08-27 | Constitution of Kenya, 2010 (as enacted) |
 
-**COMPANIES ACT**
-
-| In force | Author |
-| --- | --- |
-| 2015-09-18 | Act 17 of 2015 (as enacted) |
-| 2017-01-01 | Act No. 38 of 2016; publisher (Kenya Law (National Council for Law Reporting)): 68 provision(s) unexplained |
-| 2017-05-04 | Act No. 11 of 2017 |
-| 2017-05-16 | Cap. 499A |
-| 2017-08-16 | Act No. 28 of 2017 |
-| 2019-01-18 | Act No. 18 of 2018 |
-| 2019-07-23 | Act No. 12 of 2019 |
-| 2020-03-18 | Act No. 1 of 2020 |
-| 2021-03-30 | Act No. 1 of 2021 |
-| 2022-12-31 | publisher (Kenya Law (National Council for Law Reporting)): 188 provision(s) unexplained |
-| 2023-09-15 | Act No. 10 of 2023 |
-| 2024-12-27 | Act No. 20 of 2024 |
-
-**EMPLOYMENT ACT**
+**CAPITAL MARKETS ACT**
 
 | In force | Author |
 | --- | --- |
-| 2008-06-02 | Act 11 of 2007 (as enacted) |
-| 2014-12-08 | publisher (Kenya Law (National Council for Law Reporting)): 2 provision(s) unexplained |
-| 2018-07-01 | Act No. 10 of 2018, Act No. 19 of 2015; publisher (Kenya Law (National Council for Law Reporting)): 1 provision(s) unexplained |
+| 1989-12-15 | Act 17 of 1989 (as enacted) |
+| 1991-12-27 | Act No. 14 of 1991 |
+| 1995-01-27 | Act No. 10 of 1994 |
+| 2000-08-22 | Act No. 3 of 2000 |
+| 2002-06-07 | Act No. 2 of 2002 |
+| 2003-06-13 | Act No. 15 of 2003 |
+| 2005-01-01 | Act No. 4 of 2004 |
+| 2005-01-07 | Act No. 4 of 2004 |
+| 2006-01-01 | Act No. 10 of 2006 |
+| 2008-01-01 | Act No. 9 of 2007 |
+| 2009-01-01 | Act No. 8 of 2008 |
+| 2010-01-01 | Act No. 8 of 2009 |
+| 2011-01-01 | Act No. 10 of 2010 |
+| 2011-12-16 | Act No. 37 of 2011 |
+| 2012-01-01 | Act No. 4 of 2012 |
+| 2012-10-26 | Act No. 35 of 2012 |
+| 2013-01-09 | Act No. 57 of 2012 |
+| 2014-01-10 | Act No. 48 of 2013 |
+| 2017-01-01 | Act No. 38 of 2016 |
+| 2019-01-18 | Act No. 15 of 2018 |
 | 2019-11-07 | Act No. 23 of 2019 |
-| 2020-12-11 | Act No. 20 of 2020, Cap. 411C; publisher (Kenya Law (National Council for Law Reporting)): 1 provision(s) unexplained |
-| 2021-04-15 | Act No. 2 of 2021 |
-| 2022-04-22 | Act No. 15 of 2022 |
-| 2022-12-31 | publisher (Kenya Law (National Council for Law Reporting)): 42 provision(s) unexplained |
+| 2019-11-25 | Act 24 of 2019 |
+| 2020-06-30 | Act No. 8 of 2020 |
+| 2021-07-01 | Act No. 8 of 2021 |
+| 2022-07-01 | Act No. 22 of 2022 |
+| 2022-12-31 | publisher (Kenya Law (National Council for Law Reporting)): 36 provision(s) unexplained |
+| 2023-09-15 | Act No. 10 of 2023 |
+| 2023-12-11 | Act No. 19 of 2023 |
+| 2025-11-04 | Act 20 of 2025 |
+| 2025-12-11 | Act No. 26 of 2025 |
+
+**TAX PROCEDURES ACT**
+
+| In force | Author |
+| --- | --- |
+| 2015-12-24 | Act 29 of 2015 (as enacted) |
+| 2016-01-19 | Act No. 38 of 2016 |
+| 2016-06-09 | Act No. 38 of 2016 |
+| 2016-07-01 | Act No. 38 of 2016 |
+| 2017-01-01 | Act No. 38 of 2016 |
+| 2017-04-03 | Act No. 15 of 2017 |
+| 2018-01-01 | Act No. 15 of 2017 |
+| 2018-07-01 | Act No. 10 of 2018 |
+| 2018-10-01 | Act No. 10 of 2018 |
+| 2019-11-07 | Act No. 23 of 2019 |
+| 2020-04-25 | Act No. 2 of 2020 |
+| 2021-01-01 | Act No. 8 of 2020 |
+| 2021-07-01 | no change in words |
+| 2022-01-01 | Act No. 8 of 2021 |
+| 2022-07-01 | Act No. 22 of 2022 |
+| 2022-12-31 | publisher (Kenya Law (National Council for Law Reporting)): 28 provision(s) unexplained |
 | 2023-07-01 | Act No. 4 of 2023 |
-| 2024-03-22 | Cap. 117A |
-| 2024-04-26 | Act No. 3 of 2024 |
+| 2023-09-01 | Act No. 4 of 2023 |
+| 2024-12-27 | Act No. 21 of 2024 |
+| 2025-07-01 | Act No. 9 of 2025 |
 
 Each folder's `README.md` lists every provision, how often it changed and when.
 
@@ -57,15 +84,15 @@ Each folder's `README.md` lists every provision, how often it changed and when.
 
 | Question | Command |
 | --- | --- |
-| What did sec-001 say on 2010-09-03? | `python tools/on.py 2010-09-03 constitution sec-001` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2010-09-03T23:59:59Z" main -- constitution/sec-001.md):constitution/sec-001.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2010-09-03T23:59:59Z" main -- constitution/sec-001.md; git show "$($r):constitution/sec-001.md"` |
+| What did sec-001 say on 2010-08-27? | `python tools/on.py 2010-08-27 constitution sec-001` |
+| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2010-08-27T23:59:59Z" main -- constitution/sec-001.md):constitution/sec-001.md` |
+| The same, in PowerShell | `$r = git rev-list -1 --before="2010-08-27T23:59:59Z" main -- constitution/sec-001.md; git show "$($r):constitution/sec-001.md"` |
 | Which law wrote each line? | `git blame constitution/sec-001.md` |
 | Every change, word by word | `git log -p --word-diff constitution/sec-001.md` |
 | Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
 | Everything one law changed | `git show law/<key>` (tags `law/<key>` mark each law's commit) |
-| The whole act on a date | `python tools/on.py 2010-09-03 constitution` |
-| Which law gave a provision its wording on a date | `python tools/on.py --law 2010-09-03 constitution sec-001` |
+| The whole act on a date | `python tools/on.py 2010-08-27 constitution` |
+| Which law gave a provision its wording on a date | `python tools/on.py --law 2010-08-27 constitution sec-001` |
 
 After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
 
