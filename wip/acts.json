@@ -57,22 +57,23 @@
    "label": "Constitution of Kenya, 2010"
   },
   {
-   "work": "2015/17",
-   "slug": "companies",
-   "short": "Companies Act",
-   "title": "Companies Act, 2015",
-   "label": "Act 17 of 2015"
-  },
-  {
    "work": "2007/11",
    "slug": "employment",
    "short": "Employment Act",
    "title": "Employment Act, 2007",
    "label": "Act 11 of 2007"
+  },
+  {
+   "work": "1989/17",
+   "slug": "capital-markets",
+   "short": "Capital Markets Act",
+   "title": "Capital Markets Act (Cap. 485A)",
+   "label": "Act 17 of 1989"
   }
  ],
  "decisions": [
-  "Acts were chosen by what the Internet Archive holds: the Constitution of Kenya 2010, the Companies Act 2015 (12 archived expressions) and the Employment Act 2007 (11). The Penal Code (Cap. 63) has only 3 archived expressions and the Data Protection Act 2019 2, so they were not taken.",
+  "Acts were chosen by what the archives hold: the Constitution of Kenya 2010 (1 expression), the Employment Act 2007 (9 of its 11 expressions) and the Capital Markets Act (all 30 expressions). The Penal Code (Cap. 63) has only 3 archived expressions and the Data Protection Act 2019 2, so they were not taken.",
+  "The Companies Act 2015 was tried and dropped: Kenya Law gives no single commencement date (\"Commenced\"; \"Note: 6th November 2015— Parts 1 to 14, 23, 31, 32, 38, 40, 42, 1st Schedule and 6th Schedule; 15th June 2016—All other parts\"), and lists the two commencement notices as amendments without versions of their own, so its first version could not be dated by when each Part took effect.",
   "Licence and terms: Kenya Law's terms of use (s. 9) make only raw, unannotated source documents CC BY-NC 4.0, and prohibit automated data scraping, bulk extraction, commercial redistribution and AI training without an explicit Licensing Agreement from NCLR; its robots.txt sends Content-Signal ai-train=no, ai-input=no and Crawl-delay 5, and its pages answer automated clients with an AWS WAF challenge. No Kenya Law page was fetched for law text: every version is read from the Internet Archive's copy, at most one archive.org request per 3 seconds, for the configured acts only. The user decided on 2026-10-28 that reading these archived copies is acceptable (relayed by the coordinator: \"scraping wayback is fair game, dont overdo it, we need this data and it is legal\"). The repository stays private. No legal text was given to a model."
  ],
  "ai_use": [
