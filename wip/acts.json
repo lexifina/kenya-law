@@ -1,12 +1,17 @@
 {
- "retrieved": null,
+ "retrieved": "2026-10-28",
  "lii": {
   "name": "Kenya Law",
-  "hosts": ["new.kenyalaw.org", "kenyalaw.org"],
+  "hosts": [
+   "new.kenyalaw.org",
+   "kenyalaw.org"
+  ],
   "cc": "ke",
-  "path_prefixes": [""],
+  "path_prefixes": [
+   ""
+  ],
   "listing_prefix": "",
-  "blocked": "Kenya Law's terms of use (https://kenyalaw.org/terms-of-use/, s. 9) prohibit automated data scraping, bulk extraction and commercial redistribution without an explicit Licensing Agreement from NCLR; only raw, unannotated source documents are CC BY-NC 4.0, and the consolidated point-in-time Acts are NCLR's revised work. Nothing is fetched until the user has a licence or decides otherwise (contact: info@kenyalaw.org). Remove this key to enable fetch.py."
+  "listing": false
  },
  "country": {
   "code": "KE",
@@ -15,21 +20,62 @@
   "lang": "en",
   "tz": "Africa/Nairobi",
   "future_branch": "future",
-  "publisher": {"name": "Kenya Law (National Council for Law Reporting)", "email": "kenyalaw@kenyalaw.invalid"},
+  "publisher": {
+   "name": "Kenya Law (National Council for Law Reporting)",
+   "email": "kenyalaw@kenyalaw.invalid"
+  },
   "default_in_force_rule": {
    "text": "Not applied: every version is dated by Kenya Law's own expression date, the day the amendment it incorporates took effect as Laws.Africa records it. No date is computed from a default rule.",
    "source": "https://kenyalaw.org/legislation/"
   },
-  "licence_note": "To be set from the licence agreement with NCLR."
+  "licence_note": "Source: Kenya Law, the National Council for Law Reporting (https://kenyalaw.org). Raw source documents are made available under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0); NCLR's terms of use require an explicit Licensing Agreement for automated extraction and commercial redistribution."
  },
- "sources": [],
+ "sources": [
+  {
+   "name": "Kenya Law (National Council for Law Reporting, on the Laws.Africa Peachjam platform)",
+   "url": "https://kenyalaw.org",
+   "retrieved": "2026-10-28",
+   "requests": "count",
+   "licence": "Kenya Law terms of use s. 9 (https://kenyalaw.org/terms-of-use/): raw, unannotated source documents CC BY-NC 4.0 crediting NCLR; automated scraping, bulk extraction, commercial redistribution and AI training need an explicit Licensing Agreement from NCLR",
+   "notes": "Point-in-time expressions of each act, /akn/ke/act/<year>/<num>/eng@<date>, formerly at new.kenyalaw.org. Kenya Law's pages answer automated clients with an AWS WAF challenge, so each expression page is read from its latest Internet Archive capture (raw id_ form); the capture timestamps and sha256s are pinned in sources.json. No request was made to kenyalaw.org for law text (its listing page is not read either). Request count covers the Internet Archive."
+  },
+  {
+   "name": "Internet Archive Wayback Machine",
+   "url": "https://web.archive.org",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Archived copies of Kenya Law pages; the content's terms are NCLR's",
+   "notes": "CDX API for discovery, then https://web.archive.org/web/<timestamp>id_/<original url> for the page bytes."
+  }
+ ],
  "acts": [
-  {"work": "2010/constitution", "slug": "constitution", "short": "Constitution", "title": "Constitution of Kenya, 2010", "label": "Constitution of 2010"},
-  {"work": "1930/10", "slug": "penal-code", "short": "Penal Code", "title": "Penal Code (Cap. 63)", "label": "Ordinance 10 of 1930"},
-  {"work": "2019/24", "slug": "data-protection", "short": "DPA 2019", "title": "Data Protection Act, 2019", "label": "Act 24 of 2019"}
+  {
+   "work": "2010/constitution",
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of Kenya, 2010",
+   "label": "Constitution of Kenya, 2010"
+  },
+  {
+   "work": "2015/17",
+   "slug": "companies",
+   "short": "Companies Act",
+   "title": "Companies Act, 2015",
+   "label": "Act 17 of 2015"
+  },
+  {
+   "work": "2007/11",
+   "slug": "employment",
+   "short": "Employment Act",
+   "title": "Employment Act, 2007",
+   "label": "Act 11 of 2007"
+  }
  ],
  "decisions": [
-  "Acts proposed for Phase 1, not yet checked against the archive: the Constitution of Kenya 2010 (few amendments), the Penal Code (Cap. 63) and the Data Protection Act 2019. The Wayback CDX index (one request, 2026-10-28) holds 2,941 Kenyan act works under new.kenyalaw.org with up to 38 archived expressions each, so Kenya's history is well archived once a licence allows its use."
+  "Acts were chosen by what the Internet Archive holds: the Constitution of Kenya 2010, the Companies Act 2015 (12 archived expressions) and the Employment Act 2007 (11). The Penal Code (Cap. 63) has only 3 archived expressions and the Data Protection Act 2019 2, so they were not taken.",
+  "Licence and terms: Kenya Law's terms of use (s. 9) make only raw, unannotated source documents CC BY-NC 4.0, and prohibit automated data scraping, bulk extraction, commercial redistribution and AI training without an explicit Licensing Agreement from NCLR; its robots.txt sends Content-Signal ai-train=no, ai-input=no and Crawl-delay 5, and its pages answer automated clients with an AWS WAF challenge. No Kenya Law page was fetched for law text: every version is read from the Internet Archive's copy, at most one archive.org request per 3 seconds, for the configured acts only. The user decided on 2026-10-28 that reading these archived copies is acceptable (relayed by the coordinator: \"scraping wayback is fair game, dont overdo it, we need this data and it is legal\"). The repository stays private. No legal text was given to a model."
  ],
- "ai_use": ["none yet"]
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the adapter and configuration and chose the acts. No model wrote, summarised or transformed legal text: parse.py is deterministic code."
+ ]
 }
