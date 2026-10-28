@@ -4,7 +4,8 @@
   "name": "Kenya",
   "level": "country",
   "repo": "https://github.com/lexifina/kenya-law",
-  "build": "blocked: Kenya Law terms of use (s. 9) require a licence agreement from NCLR for automated extraction and redistribution; nothing fetched",
+  "build": "built: CONSTITUTION OF KENYA (1 version, 2010-09-03 to 2010-09-03); COMPANIES ACT (12 versions, 2015-09-18 to 2024-12-27); EMPLOYMENT ACT (11 versions, 2008-06-02 to 2024-04-26)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
-  "register_date": "2026-10-28"
+  "register_date": "2026-10-28",
+  "sources": 2
 }

@@ -1,0 +1,452 @@
+{
+ "acts": {
+  "constitution": [
+   {
+    "from": "2010-09-03",
+    "units": 271,
+    "changed": 0,
+    "credited": 0
+   }
+  ],
+  "companies": [
+   {
+    "from": "2015-09-18",
+    "units": 1133,
+    "changed": 0,
+    "credited": 0
+   },
+   {
+    "from": "2017-01-01",
+    "units": 1135,
+    "changed": 69,
+    "credited": 1
+   },
+   {
+    "from": "2017-05-04",
+    "units": 1133,
+    "changed": 58,
+    "credited": 58
+   },
+   {
+    "from": "2017-05-16",
+    "units": 1135,
+    "changed": 34,
+    "credited": 34
+   },
+   {
+    "from": "2017-08-16",
+    "units": 1133,
+    "changed": 94,
+    "credited": 94
+   },
+   {
+    "from": "2019-01-18",
+    "units": 1033,
+    "changed": 117,
+    "credited": 117
+   },
+   {
+    "from": "2019-07-23",
+    "units": 1035,
+    "changed": 12,
+    "credited": 12
+   },
+   {
+    "from": "2020-03-18",
+    "units": 1035,
+    "changed": 14,
+    "credited": 14
+   },
+   {
+    "from": "2021-03-30",
+    "units": 1035,
+    "changed": 5,
+    "credited": 5
+   },
+   {
+    "from": "2022-12-31",
+    "units": 1035,
+    "changed": 188,
+    "credited": 0
+   },
+   {
+    "from": "2023-09-15",
+    "units": 818,
+    "changed": 232,
+    "credited": 232
+   },
+   {
+    "from": "2024-12-27",
+    "units": 1042,
+    "changed": 227,
+    "credited": 227
+   }
+  ],
+  "employment": [
+   {
+    "from": "2007-11-09",
+    "units": 93,
+    "changed": 0,
+    "credited": 0
+   },
+   {
+    "from": "2014-12-08",
+    "units": 93,
+    "changed": 2,
+    "credited": 0
+   },
+   {
+    "from": "2018-07-01",
+    "units": 94,
+    "changed": 22,
+    "credited": 21
+   },
+   {
+    "from": "2019-11-07",
+    "units": 94,
+    "changed": 1,
+    "credited": 1
+   },
+   {
+    "from": "2020-12-11",
+    "units": 94,
+    "changed": 4,
+    "credited": 3
+   },
+   {
+    "from": "2021-04-15",
+    "units": 95,
+    "changed": 20,
+    "credited": 20
+   },
+   {
+    "from": "2022-04-22",
+    "units": 95,
+    "changed": 4,
+    "credited": 4
+   },
+   {
+    "from": "2022-12-31",
+    "units": 95,
+    "changed": 42,
+    "credited": 0
+   },
+   {
+    "from": "2023-07-01",
+    "units": 97,
+    "changed": 2,
+    "credited": 2
+   },
+   {
+    "from": "2024-03-22",
+    "units": 97,
+    "changed": 2,
+    "credited": 2
+   },
+   {
+    "from": "2024-04-26",
+    "units": 97,
+    "changed": 2,
+    "credited": 2
+   }
+  ]
+ },
+ "fidelity": {
+  "constitution@2010-09-03": {
+   "units": 271,
+   "units_differing": [
+    "sch-02"
+   ],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2015-09-18": {
+   "units": 1133,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2017-01-01": {
+   "units": 1135,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2017-05-04": {
+   "units": 1133,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2017-05-16": {
+   "units": 1135,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2017-08-16": {
+   "units": 1133,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2019-01-18": {
+   "units": 1033,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2019-07-23": {
+   "units": 1035,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2020-03-18": {
+   "units": 1035,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2021-03-30": {
+   "units": 1035,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2022-12-31": {
+   "units": 1035,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2023-09-15": {
+   "units": 818,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "companies@2024-12-27": {
+   "units": 1042,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "employment@2007-11-09": {
+   "units": 93,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "employment@2014-12-08": {
+   "units": 93,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "employment@2018-07-01": {
+   "units": 94,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "employment@2019-11-07": {
+   "units": 94,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "employment@2020-12-11": {
+   "units": 94,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "employment@2021-04-15": {
+   "units": 95,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "employment@2022-04-22": {
+   "units": 95,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "employment@2022-12-31": {
+   "units": 95,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "employment@2023-07-01": {
+   "units": 97,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "employment@2024-03-22": {
+   "units": 97,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "employment@2024-04-26": {
+   "units": 97,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  }
+ },
+ "law_dates": {
+  "act-2007-11": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2010-constitution": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2014-18": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2015-17": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2015-19": {
+   "commenced": null,
+   "dated": [
+    "2018-07-01"
+   ]
+  },
+  "act-2016-38": {
+   "commenced": null,
+   "dated": [
+    "2017-01-01"
+   ]
+  },
+  "act-2017-11": {
+   "commenced": null,
+   "dated": [
+    "2017-05-04"
+   ]
+  },
+  "act-2017-13": {
+   "commenced": null,
+   "dated": [
+    "2017-05-16"
+   ]
+  },
+  "act-2017-28": {
+   "commenced": null,
+   "dated": [
+    "2017-08-16"
+   ]
+  },
+  "act-2018-10": {
+   "commenced": null,
+   "dated": [
+    "2018-07-01"
+   ]
+  },
+  "act-2018-18": {
+   "commenced": null,
+   "dated": [
+    "2019-01-18"
+   ]
+  },
+  "act-2019-12": {
+   "commenced": null,
+   "dated": [
+    "2019-07-23"
+   ]
+  },
+  "act-2019-23": {
+   "commenced": null,
+   "dated": [
+    "2019-11-07"
+   ]
+  },
+  "act-2019-24": {
+   "commenced": null,
+   "dated": [
+    "2020-12-11"
+   ]
+  },
+  "act-2020-1": {
+   "commenced": null,
+   "dated": [
+    "2020-03-18"
+   ]
+  },
+  "act-2020-20": {
+   "commenced": null,
+   "dated": [
+    "2020-12-11"
+   ]
+  },
+  "act-2021-1": {
+   "commenced": null,
+   "dated": [
+    "2021-03-30"
+   ]
+  },
+  "act-2021-2": {
+   "commenced": null,
+   "dated": [
+    "2021-04-15"
+   ]
+  },
+  "act-2022-15": {
+   "commenced": null,
+   "dated": [
+    "2022-04-22"
+   ]
+  },
+  "act-2023-10": {
+   "commenced": null,
+   "dated": [
+    "2023-09-15"
+   ]
+  },
+  "act-2023-4": {
+   "commenced": null,
+   "dated": [
+    "2023-07-01"
+   ]
+  },
+  "act-2024-2": {
+   "commenced": null,
+   "dated": [
+    "2024-03-22"
+   ]
+  },
+  "act-2024-20": {
+   "commenced": null,
+   "dated": [
+    "2024-12-27"
+   ]
+  },
+  "act-2024-3": {
+   "commenced": null,
+   "dated": [
+    "2024-04-26"
+   ]
+  },
+  "corr-2008-1": {
+   "commenced": null,
+   "dated": []
+  },
+  "ln-2015-233": {
+   "commenced": null,
+   "dated": []
+  },
+  "ln-2016-109": {
+   "commenced": null,
+   "dated": []
+  }
+ }
+}
