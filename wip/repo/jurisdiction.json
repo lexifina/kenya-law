@@ -1,0 +1,10 @@
+{
+  "path": "ke",
+  "code": "KE",
+  "name": "Kenya",
+  "level": "country",
+  "repo": "https://github.com/lexifina/kenya-law",
+  "build": "blocked: Kenya Law terms of use (s. 9) require a licence agreement from NCLR for automated extraction and redistribution; nothing fetched",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}

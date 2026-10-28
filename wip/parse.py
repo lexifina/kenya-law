@@ -20,5 +20,6 @@ import peachjam  # noqa: E402
 
 corpus, report = peachjam.parse(HERE)
 peachjam.write_corpus(HERE, corpus)
+peachjam.write_docs(HERE, corpus)
 (HERE / "verification.json").write_text(json.dumps(report, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 print(json.dumps(peachjam.summary(corpus, report), indent=1))
