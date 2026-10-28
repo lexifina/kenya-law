@@ -1779,7 +1779,7 @@
       "sch-02": {
        "label": "SECOND SCHEDULE",
        "kind": "schedule",
-       "text": "# SECOND SCHEDULE\nNATIONAL SYMBOLS\n(Article 9(2))\n(a) The National Flag\n[image]\nNote - All dimensions given do not necessarily represent any particular measurement and are merely proportional.\n|\nDescription—\nThree major strips of equal width coloured from top to bottom black, red and green and separated by narrow white strips, with a symmetrical shield and white spears superimposed centrally.\n(b) The National Anthem\n| 1 | 1 |\n|  |  |\n| Ee Mungu nguvu yetuIlete baraka kwetu | O God of all creationBless this our land and nation |\n|  |  |\n| Haki iwe ngao na mlinziNatukae na undugu | Justice be our shield and defenderMay we dwell in unity |\n|  |  |\n| Amani na uhuruRaha tupate na ustawi | Peace and libertyPlenty be found within our borders |\n|  |  |\n| 2 | 2 |\n|  |  |\n| Amkeni ndugu zetuTufanye sote bidii | Let one and all ariseWith hearts both strong and true |\n|  |  |\n| Nasi tujitoe kwa nguvuNchi yetu ya Kenya, | Service be our earnest endeavour,And our Homeland of Kenya |\n|  |  |\n| TunayoipendaTuwe tayari kuilinda. | Heritage of splendour,Firm may we stand to defend. |\n|  |  |\n| 3 | 3 |\n| Natujenge taifa letuEe, ndio wajibu wetu | Let all with one accordIn common bond united, |\n|  |  |\n| Kenya istahili heshimaTuungane mikono | Build this our nation togetherAnd the glory of Kenya |\n|  |  |\n| Pamoja kaziniKila siku tuwe na shukrani. | The fruit of our labourFill every heart with thanksgiving. |\n|\n(c) The Coat of Arms\n[image]\n(d) The Public Seal\n[image]\n"
+       "text": "# SECOND SCHEDULE\nNATIONAL SYMBOLS\n(Article 9(2))\n(a) The National Flag\n[image]\nNote - All dimensions given do not necessarily represent any particular measurement and are merely proportional.\nDescription—\nThree major strips of equal width coloured from top to bottom black, red and green and separated by narrow white strips, with a symmetrical shield and white spears superimposed centrally.\n(b) The National Anthem\n1 | 1\nEe Mungu nguvu yetuIlete baraka kwetu | O God of all creationBless this our land and nation\nHaki iwe ngao na mlinziNatukae na undugu | Justice be our shield and defenderMay we dwell in unity\nAmani na uhuruRaha tupate na ustawi | Peace and libertyPlenty be found within our borders\n2 | 2\nAmkeni ndugu zetuTufanye sote bidii | Let one and all ariseWith hearts both strong and true\nNasi tujitoe kwa nguvuNchi yetu ya Kenya, | Service be our earnest endeavour,And our Homeland of Kenya\nTunayoipendaTuwe tayari kuilinda. | Heritage of splendour,Firm may we stand to defend.\n3 | 3\nNatujenge taifa letuEe, ndio wajibu wetu | Let all with one accordIn common bond united,\nKenya istahili heshimaTuungane mikono | Build this our nation togetherAnd the glory of Kenya\nPamoja kaziniKila siku tuwe na shukrani. | The fruit of our labourFill every heart with thanksgiving.\n(c) The Coat of Arms\n[image]\n(d) The Public Seal\n[image]\n"
       },
       "sch-03": {
        "label": "THIRD SCHEDULE",
@@ -5391,7 +5391,7 @@
    "earlier_laws": [],
    "versions": [
     {
-     "from": "2015-12-24",
+     "from": "2016-01-19",
      "source_url": "https://web.archive.org/web/20260309053454id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2015-12-24",
      "sha256": "bb3fe1ae7d287dbba1e34984135a1dc283f684d61ea9d7f536b4e60b66deeb04",
      "units": {
@@ -5976,7 +5976,7 @@
        "text": "# SECOND SCHEDULE\nCONSEQUENTIAL AMENDMENTS\n1. This Schedule amends the Income Tax Act, the Kenya Revenue Authority Act, 1995, and the Value Added Tax Act, 2013.\n2. The Income Tax is amended in Part VI by deleting sections 51A (a).\n3. The Income Tax Act is amended in Part VII by deleting section 56.\n4. The Income Tax Act is amended in Part VIII by deleting sections 69, 70, 71, 72A, 74B, 75, 75B, 77, 78, 79, 80, and 81.\n5. The Income Tax Act is amended in Part X by deleting sections 84 to 91A.\n6. The Income Tax Act is amended in Part XI by deleting sections, 92(6), 92(7), 92(8), 93 to 96A, and 100 to 103.\n7. The Income tax Act is amended in Part XII by deleting sections 110 to 121.\n8. The Income Tax Act is amended in Part XIII by deleting sections 122 to 126.\n9. The Income Tax Act is amended in Part XIV by deleting sections 127 to 129 and section 132.\n10. The Kenya Revenue Authority Act, 1995, is amended by deleting sections 24, 24A and 25.\n11. The Value Added Tax Act, 2013, is amended in Part II by deleting sections 3 and 4.\n12. The Value Added Tax Act, 2013, is amended in Part IV by deleting section 9.\n13. The Value Added Tax Act, 2013, is amended in Part VII by deleting sections 20, 21, and 23 to 29.\n14. The Value Added Tax Act, 2013, is amended in Part VIII by deleting section 32.\n15. The Value Added Tax Act, 2013, is amended in Part X by deleting sections 38 and 39.\n16. The Value Added Tax Act, 2013, is amended in Part XI by deleting sections 45 and 46.\n17. The Value Added Tax Act, 2013, is amended in Part XII by deleting sections 47, 48 and 49.\n18. The Value Added Tax Act, 2013, is amended in Part XIII by deleting section 50.\n19. The Value Added Tax Act, 2013, is amended in Part XIV by deleting section 51.\n20. The Value Added Tax Act, 2013, is amended in Part XV by deleting sections 52 to 59.\n21. The Value Added Tax Act, 2013, is amended in Part XVI by deleting sections 60 and 61.\n"
       }
      },
-     "note": "The Kenya Law version of 2015-12-24: the act as published."
+     "note": "The Kenya Law expression of 2015-12-24 (the act as published); in force from 2016-01-19: \"Commenced on 19 January 2016 by Tax Procedures Act Commencement\"."
     },
     {
      "from": "2016-01-19",
@@ -6617,7 +6617,8 @@
       "sec-113": [
        "act-2016-38"
       ]
-     }
+     },
+     "same_day": true
     },
     {
      "from": "2016-06-09",
@@ -7716,11 +7717,6 @@
        "label": "Section 110",
        "kind": "sec",
        "text": "# 110.\n"
-      },
-      "sec-113": {
-       "label": "Section 113",
-       "kind": "sec",
-       "text": "# 113. Transitional and saving\n(1) Subject to this section, this Act shall apply to any act or omission that occurred or is occurring for which no prosecution has been commenced, or any assessment made against which no appeal has been made, before the commencement date.\n(2) Any appeal or prosecution commenced before the commencement date may be continued and disposed of as if this Act had not come into force.\n(3) If the period for any application, appeal or prosecution had expired before the commencement date, nothing in this Act shall be treated as having enabled the application, appeal, or prosecution to be made under this Act by reason only that a longer period is specified in this Act.\n(4) Any tax liability that arose before the commencement date may be recovered under this Act despite any action already taken for the recovery of the tax.\n|\n|\n|\n|\n"
       }
      },
      "credits": {},
@@ -8112,7 +8108,7 @@
   "Editorial notes (akn-remark) are left out of the text and used only as credit evidence, except where a provision has no other text (repealed or spent), where the note is the provision's whole printed content.",
   "Part, Chapter and Division headings are left out; each provision file starts with its own number and heading. Every other text of each version is in a provision file: parse.py checks this per version (verification.json, fidelity).",
   "Constitution: the first version is dated 2010-08-27, the commencement date Kenya Law states (\"Commenced on 27 August 2010 by Promulgation\"), not 2010-09-03, the date of its expression (Gazette publication).",
-  "Tax Procedures Act: Kenya Law gives the commencement as \"Commenced on 19 January 2016 by Tax Procedures Act Commencement\", after the next version; the first version keeps its expression date 2015-12-24."
+  "Tax Procedures Act: the first version is dated 2016-01-19, the commencement date Kenya Law states (\"Commenced on 19 January 2016 by Tax Procedures Act Commencement\"), not 2015-12-24, the date of its expression (Gazette publication)."
  ],
  "ai_use": [
   "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the adapter and configuration and chose the acts. No model wrote, summarised or transformed legal text: parse.py is deterministic code."

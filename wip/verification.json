@@ -282,7 +282,7 @@
     "units": 134
    },
    {
-    "changed": 28,
+    "changed": 27,
     "credited": 0,
     "from": "2022-12-31",
     "units": 134
@@ -508,9 +508,7 @@
    "text_outside_units_chars": 0,
    "text_outside_units_sample": "",
    "units": 271,
-   "units_differing": [
-    "sch-02"
-   ]
+   "units_differing": []
   },
   "tax-procedures@2015-12-24": {
    "text_outside_units_chars": 0,

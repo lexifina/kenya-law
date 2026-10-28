@@ -10,7 +10,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | --- | --- | ---: | --- |
 | `constitution/` | [CONSTITUTION OF KENYA](https://new.kenyalaw.org/akn/ke/act/2010/constitution) | 1 | 2010-08-27 to 2010-08-27 |
 | `capital-markets/` | [CAPITAL MARKETS ACT](https://new.kenyalaw.org/akn/ke/act/1989/17) | 30 | 1989-12-15 to 2025-12-11 |
-| `tax-procedures/` | [TAX PROCEDURES ACT](https://new.kenyalaw.org/akn/ke/act/2015/29) | 20 | 2015-12-24 to 2025-07-01 |
+| `tax-procedures/` | [TAX PROCEDURES ACT](https://new.kenyalaw.org/akn/ke/act/2015/29) | 20 | 2016-01-19 to 2025-07-01 |
 
 **CONSTITUTION OF KENYA**
 
@@ -57,7 +57,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 | In force | Author |
 | --- | --- |
-| 2015-12-24 | Act 29 of 2015 (as enacted) |
+| 2016-01-19 | Act 29 of 2015 (as enacted) |
 | 2016-01-19 | Act No. 38 of 2016 |
 | 2016-06-09 | Act No. 38 of 2016 |
 | 2016-07-01 | Act No. 38 of 2016 |
@@ -72,7 +72,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | 2021-07-01 | no change in words |
 | 2022-01-01 | Act No. 8 of 2021 |
 | 2022-07-01 | Act No. 22 of 2022 |
-| 2022-12-31 | publisher (Kenya Law (National Council for Law Reporting)): 28 provision(s) unexplained |
+| 2022-12-31 | publisher (Kenya Law (National Council for Law Reporting)): 27 provision(s) unexplained |
 | 2023-07-01 | Act No. 4 of 2023 |
 | 2023-09-01 | Act No. 4 of 2023 |
 | 2024-12-27 | Act No. 21 of 2024 |
