@@ -1,0 +1,35 @@
+{
+ "retrieved": null,
+ "lii": {
+  "name": "Kenya Law",
+  "hosts": ["new.kenyalaw.org", "kenyalaw.org"],
+  "cc": "ke",
+  "path_prefixes": [""],
+  "listing_prefix": "",
+  "blocked": "Kenya Law's terms of use (https://kenyalaw.org/terms-of-use/, s. 9) prohibit automated data scraping, bulk extraction and commercial redistribution without an explicit Licensing Agreement from NCLR; only raw, unannotated source documents are CC BY-NC 4.0, and the consolidated point-in-time Acts are NCLR's revised work. Nothing is fetched until the user has a licence or decides otherwise (contact: info@kenyalaw.org). Remove this key to enable fetch.py."
+ },
+ "country": {
+  "code": "KE",
+  "name": "Kenya",
+  "slug": "kenya",
+  "lang": "en",
+  "tz": "Africa/Nairobi",
+  "future_branch": "future",
+  "publisher": {"name": "Kenya Law (National Council for Law Reporting)", "email": "kenyalaw@kenyalaw.invalid"},
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by Kenya Law's own expression date, the day the amendment it incorporates took effect as Laws.Africa records it. No date is computed from a default rule.",
+   "source": "https://kenyalaw.org/legislation/"
+  },
+  "licence_note": "To be set from the licence agreement with NCLR."
+ },
+ "sources": [],
+ "acts": [
+  {"work": "2010/constitution", "slug": "constitution", "short": "Constitution", "title": "Constitution of Kenya, 2010", "label": "Constitution of 2010"},
+  {"work": "1930/10", "slug": "penal-code", "short": "Penal Code", "title": "Penal Code (Cap. 63)", "label": "Ordinance 10 of 1930"},
+  {"work": "2019/24", "slug": "data-protection", "short": "DPA 2019", "title": "Data Protection Act, 2019", "label": "Act 24 of 2019"}
+ ],
+ "decisions": [
+  "Acts proposed for Phase 1, not yet checked against the archive: the Constitution of Kenya 2010 (few amendments), the Penal Code (Cap. 63) and the Data Protection Act 2019. The Wayback CDX index (one request, 2026-10-28) holds 2,941 Kenyan act works under new.kenyalaw.org with up to 38 archived expressions each, so Kenya's history is well archived once a licence allows its use."
+ ],
+ "ai_use": ["none yet"]
+}
