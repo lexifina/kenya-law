@@ -1,0 +1,83 @@
+{
+ "retrieved": "2026-10-28",
+ "lii": {
+  "name": "Kenya Law",
+  "hosts": [
+   "new.kenyalaw.org",
+   "kenyalaw.org"
+  ],
+  "cc": "ke",
+  "path_prefixes": [
+   ""
+  ],
+  "listing_prefix": "",
+  "listing": false
+ },
+ "country": {
+  "code": "KE",
+  "name": "Kenya",
+  "slug": "kenya",
+  "lang": "en",
+  "tz": "Africa/Nairobi",
+  "future_branch": "future",
+  "publisher": {
+   "name": "Kenya Law (National Council for Law Reporting)",
+   "email": "kenyalaw@kenyalaw.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by Kenya Law's own expression date, the day the amendment it incorporates took effect as Laws.Africa records it. No date is computed from a default rule.",
+   "source": "https://kenyalaw.org/legislation/"
+  },
+  "licence_note": "Source: Kenya Law, the National Council for Law Reporting (https://kenyalaw.org). Raw source documents are made available under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0); NCLR's terms of use require an explicit Licensing Agreement for automated extraction and commercial redistribution."
+ },
+ "sources": [
+  {
+   "name": "Kenya Law (National Council for Law Reporting, on the Laws.Africa Peachjam platform)",
+   "url": "https://kenyalaw.org",
+   "retrieved": "2026-10-28",
+   "requests": "count",
+   "licence": "Kenya Law terms of use s. 9 (https://kenyalaw.org/terms-of-use/): raw, unannotated source documents CC BY-NC 4.0 crediting NCLR; automated scraping, bulk extraction, commercial redistribution and AI training need an explicit Licensing Agreement from NCLR",
+   "notes": "Point-in-time expressions of each act, /akn/ke/act/<year>/<num>/eng@<date>, formerly at new.kenyalaw.org. Kenya Law's pages answer automated clients with an AWS WAF challenge, so each expression page is read from its latest Internet Archive capture (raw id_ form); the capture timestamps and sha256s are pinned in sources.json. No request was made to kenyalaw.org for law text (its listing page is not read either). Request count covers the Internet Archive."
+  },
+  {
+   "name": "Internet Archive Wayback Machine",
+   "url": "https://web.archive.org",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Archived copies of Kenya Law pages; the content's terms are NCLR's",
+   "notes": "CDX API for discovery, then https://web.archive.org/web/<timestamp>id_/<original url> for the page bytes."
+  }
+ ],
+ "acts": [
+  {
+   "work": "2010/constitution",
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of Kenya, 2010",
+   "label": "Constitution of Kenya, 2010"
+  },
+  {
+   "work": "1989/17",
+   "slug": "capital-markets",
+   "short": "Capital Markets Act",
+   "title": "Capital Markets Act (Cap. 485A)",
+   "label": "Act 17 of 1989"
+  },
+  {
+   "work": "2015/29",
+   "slug": "tax-procedures",
+   "short": "Tax Procedures Act",
+   "title": "Tax Procedures Act, 2015",
+   "label": "Act 29 of 2015"
+  }
+ ],
+ "decisions": [
+  "Acts were chosen by what the archives hold: the Constitution of Kenya 2010 (1 expression), the Capital Markets Act (all 30 expressions) and the Tax Procedures Act 2015 (all 20). The Penal Code (Cap. 63) has only 3 archived expressions and the Data Protection Act 2019 2, so they were not taken.",
+  "The Companies Act 2015 was tried and dropped: Kenya Law gives no single commencement date (\"Commenced\"; \"Note: 6th November 2015— Parts 1 to 14, 23, 31, 32, 38, 40, 42, 1st Schedule and 6th Schedule; 15th June 2016—All other parts\"), and lists the two commencement notices as amendments without versions of their own, so its first version could not be dated by when each Part took effect.",
+  "The Employment Act 2007 was tried and dropped: 2 of its 11 expressions (2017-07-03, 2019-11-25) have no archived copy, so the changes of Act No. 19 of 2015 (in force 2017-07-03, as Kenya Law dates it) could only be dated a year late.",
+  "Licence and terms: Kenya Law's terms of use (s. 9) make only raw, unannotated source documents CC BY-NC 4.0, and prohibit automated data scraping, bulk extraction, commercial redistribution and AI training without an explicit Licensing Agreement from NCLR; its robots.txt sends Content-Signal ai-train=no, ai-input=no and Crawl-delay 5, and its pages answer automated clients with an AWS WAF challenge. No Kenya Law page was fetched for law text: every version is read from the Internet Archive's copy, at most one archive.org request per 3 seconds, for the configured acts only. The user decided on 2026-10-28 that reading these archived copies is acceptable (relayed by the coordinator: \"scraping wayback is fair game, dont overdo it, we need this data and it is legal\"). The repository stays private. No legal text was given to a model."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the adapter and configuration and chose the acts. No model wrote, summarised or transformed legal text: parse.py is deterministic code."
+ ]
+}

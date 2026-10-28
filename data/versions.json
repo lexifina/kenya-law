@@ -1,0 +1,335 @@
+{
+ "country": "KE",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "CONSTITUTION OF KENYA",
+   "url": "https://new.kenyalaw.org/akn/ke/act/2010/constitution",
+   "versions": [
+    {
+     "from": "2010-08-27",
+     "units": 271,
+     "source_url": "https://web.archive.org/web/20261017045610id_/https://new.kenyalaw.org/akn/ke/act/2010/constitution/eng@2010-09-03",
+     "sha256": "a5d7a3613dc067d96e0522637ab77c1ccfe7420ad59e0e38b80276624984329e"
+    }
+   ]
+  },
+  {
+   "slug": "capital-markets",
+   "short": "Capital Markets Act",
+   "title": "CAPITAL MARKETS ACT",
+   "url": "https://new.kenyalaw.org/akn/ke/act/1989/17",
+   "versions": [
+    {
+     "from": "1989-12-15",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20251027165631id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@1989-12-15",
+     "sha256": "fcb35efeb16324eebef48f2a33341b840ee4f706c407c3da3d24d94ea37ea904"
+    },
+    {
+     "from": "1991-12-27",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20251027163110id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@1991-12-27",
+     "sha256": "d7a62373ffec773420b7045355311d633bd5e73e38bacb302a04d6aece4920d5"
+    },
+    {
+     "from": "1995-01-27",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20251027163658id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@1995-01-27",
+     "sha256": "d267ba2923a3608be5f676da98caae2a8ca1e1ba5969f72adf95ee6f954ffc7f"
+    },
+    {
+     "from": "2000-08-22",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20251028205548id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2000-08-22",
+     "sha256": "e434a096c520a9e0c36d960b47e37ef2433d0ac18c9b37014c76afe1070d9a15"
+    },
+    {
+     "from": "2002-06-07",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20251027163136id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2002-06-07",
+     "sha256": "698a881aa483ce843e0663d64f3c88ed0c1c09539bfc514a00c659c08de5080d"
+    },
+    {
+     "from": "2003-06-13",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20251028003112id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2003-06-13",
+     "sha256": "1b6d202a2bb894e7a96574f48e4e137348095eb4a9dc8b48aa306bab81a42048"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20250712072855id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2005-01-01",
+     "sha256": "892d8931545c0cc3aeca3fe90548c8a5ebb7baf1f7d02ecf5accc3a7e330f5b8"
+    },
+    {
+     "from": "2005-01-07",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20251027163040id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2005-01-07",
+     "sha256": "78a1e922c6692f3979a7ea25cb962b0c7520182e2e1b369d7c760eb18b376921"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20251027161932id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2006-01-01",
+     "sha256": "0e491abc4813a3e3139dda0116b68c86a967acf928ad509cf6208c8b6e9bf19a"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20251027174150id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2008-01-01",
+     "sha256": "98b4c98d3c3376a5abd0fdf65dd37333b7008e8632bcbebe09b842961af45543"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20251027173010id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2009-01-01",
+     "sha256": "2c662ffd4f8409e75770aca0a823d4ea818cd82c1ff35354fb782c6aa47451b2"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20251027163518id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2010-01-01",
+     "sha256": "e6aed11cb7d02cd17c8ce903e25c263e55ea60682045c12c23fa765169164195"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20251027201927id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2011-01-01",
+     "sha256": "c3a88a861ab91f7d68d927a88fd9d16d9d7eef925f32f05655a6c750d1a142fa"
+    },
+    {
+     "from": "2011-12-16",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20251027165219id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2011-12-16",
+     "sha256": "abda107ed27fd48e3578ffbc62dad7a4ae46f40bf86b92d8a05a30600851cc76"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20251027170549id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2012-01-01",
+     "sha256": "800e8f68bfb60b44e758b7a8694d4151da1cf011ad0ae007f9ced78c75bde0e8"
+    },
+    {
+     "from": "2012-10-26",
+     "units": 63,
+     "source_url": "https://web.archive.org/web/20251028151910id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2012-10-26",
+     "sha256": "e78b1998a0db637e132676afcfcc5de607482ea2c8a37c14f7ea30dacbf5fad2"
+    },
+    {
+     "from": "2013-01-09",
+     "units": 63,
+     "source_url": "https://web.archive.org/web/20251028180830id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2013-01-09",
+     "sha256": "9e11bd8fb67b7304b125407c1a1f18291002a8df429afe0b74613d1e163ea0d4"
+    },
+    {
+     "from": "2014-01-10",
+     "units": 112,
+     "source_url": "https://web.archive.org/web/20251028022331id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2014-01-10",
+     "sha256": "50852dfc552209128c0d030d38933d9587f091cbb9766c858b5063816d7fb2bb"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 112,
+     "source_url": "https://web.archive.org/web/20251027164547id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2017-01-01",
+     "sha256": "d4cd5ac8b673afe7dc4d4f9c1fade55732e559e1e396a602a1a6a7cbd9470df0"
+    },
+    {
+     "from": "2019-01-18",
+     "units": 115,
+     "source_url": "https://web.archive.org/web/20251027170726id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2019-01-18",
+     "sha256": "c4614109fda3c2a7d85f30e5c4519207d5a808f9ef32ec8b584dffa084f75d55"
+    },
+    {
+     "from": "2019-11-07",
+     "units": 115,
+     "source_url": "https://web.archive.org/web/20251027163905id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2019-11-07",
+     "sha256": "6d0533c72f825d1dbd62a1229c8b7a18e8645b761fa48af9ff8b53755d5c77dc"
+    },
+    {
+     "from": "2019-11-25",
+     "units": 116,
+     "source_url": "https://web.archive.org/web/20251027162825id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2019-11-25",
+     "sha256": "c9046da6f6b9819a80fda6720316cb362ad92fc08c50d112d05c63e7a9320ec1"
+    },
+    {
+     "from": "2020-06-30",
+     "units": 116,
+     "source_url": "https://web.archive.org/web/20251027162855id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2020-06-30",
+     "sha256": "00a1b3c3b1c61a2ce760a60803b12d28ba794f37a362cb9a6b94d14439becbcf"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 116,
+     "source_url": "https://web.archive.org/web/20251027171454id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2021-07-01",
+     "sha256": "bc0dcf8b2b74a19823325d26c586ad9f8cc96ffd638e11107867bbf64e7cfc72"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 116,
+     "source_url": "https://web.archive.org/web/20251027165037id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2022-07-01",
+     "sha256": "f44c81a7317da731bbf53f2d0849b39752be5540bdc1d5fa7c991915c9d3a721"
+    },
+    {
+     "from": "2022-12-31",
+     "units": 116,
+     "source_url": "https://web.archive.org/web/20251027170055id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2022-12-31",
+     "sha256": "6c1b5a6431ca1257561eee3e6583315bf6d5b04c9dced0dfa44aeeae66cca18e"
+    },
+    {
+     "from": "2023-09-15",
+     "units": 119,
+     "source_url": "https://web.archive.org/web/20251027164411id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2023-09-15",
+     "sha256": "13972d41328df0e86bb7f72b239bd27df94a48bc6533da42394cb6fbfdb84cb3"
+    },
+    {
+     "from": "2023-12-11",
+     "units": 119,
+     "source_url": "https://web.archive.org/web/20260306091435id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2023-12-11",
+     "sha256": "8b43e2fc9baf00dbf18f0a838623e9c62d8d9f7f4899afb208413a897a625510"
+    },
+    {
+     "from": "2025-11-04",
+     "units": 119,
+     "source_url": "https://web.archive.org/web/20260107100045id_/https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2025-11-04",
+     "sha256": "0000cd56117b241bd6cac0bf2da1f3af9e10ddef8fdf0a5a5344db80311d3467"
+    },
+    {
+     "from": "2025-12-11",
+     "units": 120,
+     "source_url": "https://web.archive.org/web/20261008013350id_/https://kenyalaw.org/akn/ke/act/1989/17/eng@2025-12-11",
+     "sha256": "18977e1ef952feefe3da5a8ee89995a74a4be4a9562f581c9ade4e94bc383379"
+    }
+   ]
+  },
+  {
+   "slug": "tax-procedures",
+   "short": "Tax Procedures Act",
+   "title": "TAX PROCEDURES ACT",
+   "url": "https://new.kenyalaw.org/akn/ke/act/2015/29",
+   "versions": [
+    {
+     "from": "2016-01-19",
+     "units": 116,
+     "source_url": "https://web.archive.org/web/20260309053454id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2015-12-24",
+     "sha256": "bb3fe1ae7d287dbba1e34984135a1dc283f684d61ea9d7f536b4e60b66deeb04"
+    },
+    {
+     "from": "2016-01-19",
+     "units": 118,
+     "source_url": "https://web.archive.org/web/20251104024745id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2016-01-19",
+     "sha256": "a9ef1801de7cade9faa799e243567ff0f19785b56e6137082b75cfc6c28acec0"
+    },
+    {
+     "from": "2016-06-09",
+     "units": 119,
+     "source_url": "https://web.archive.org/web/20251116115855id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2016-06-09",
+     "sha256": "aef3d0c45d9f73bd71387f9024b146a7039e9c7c201ee2a300ff67b375123802"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 120,
+     "source_url": "https://web.archive.org/web/20251104174251id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2016-07-01",
+     "sha256": "f8b9cb658a8683b310fcdbab61cde82b4c6ae950227894adae3d6f2c1200909a"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 121,
+     "source_url": "https://web.archive.org/web/20251104045535id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2017-01-01",
+     "sha256": "279eb8dbcdb5e8070b0673309f73bfe9032b9253be4a852e84ee2e8c96d1360c"
+    },
+    {
+     "from": "2017-04-03",
+     "units": 121,
+     "source_url": "https://web.archive.org/web/20251118001938id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2017-04-03",
+     "sha256": "c98f8ec8a4742b06eda1143f01ca93c9aed72ca29e2cfe7ea6e3903b307965bd"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 121,
+     "source_url": "https://web.archive.org/web/20251104025149id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2018-01-01",
+     "sha256": "790fd79158211963a231fa7121aee79c75051873521a847316fd5b56131b9f90"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 124,
+     "source_url": "https://web.archive.org/web/20251104174513id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2018-07-01",
+     "sha256": "5a515b0fba4dea1e8c582603ce42ee329c28e16ee106e881494de6d5b204d36f"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 124,
+     "source_url": "https://web.archive.org/web/20251117040947id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2018-10-01",
+     "sha256": "4110dab8b35f7f75805f1db023875cf32b69b96312d6830c66128860b29e188d"
+    },
+    {
+     "from": "2019-11-07",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20251104061815id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2019-11-07",
+     "sha256": "82adab12edc4f3802d27b890a0bd23dcc5dff788b5cedc4eaa6cbb23f171088c"
+    },
+    {
+     "from": "2020-04-25",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20251104024324id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2020-04-25",
+     "sha256": "0d4b4b5b2480b28e64419e33fa320e3fa2974e410cc38322ecb676cf8024b4f1"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 128,
+     "source_url": "https://web.archive.org/web/20251116134001id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2021-01-01",
+     "sha256": "08927e2df0feed3aba624ffb7c81bfda60192e1f04956fcf3577fcd76345860c"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 128,
+     "source_url": "https://web.archive.org/web/20251104035404id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2021-07-01",
+     "sha256": "26a872e8d6e957b3397805c40aa09e9ec4866841f0386470e097096ff5443562"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 132,
+     "source_url": "https://web.archive.org/web/20251117070908id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2022-01-01",
+     "sha256": "b9b6b10933c7033aae84976fbf5706eed598ffb687e340e0f0163c83ccf7dcb9"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 134,
+     "source_url": "https://web.archive.org/web/20251116175401id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2022-07-01",
+     "sha256": "e312bea6dd95f51915bc23c4db171a7cb7b75371f5b30c5aa398cb0e8c065952"
+    },
+    {
+     "from": "2022-12-31",
+     "units": 134,
+     "source_url": "https://web.archive.org/web/20251104031657id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2022-12-31",
+     "sha256": "e6051bc8fc4c3ee5e712e434bbfa1d7164a30d3e3a3ba530f347244876409283"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 137,
+     "source_url": "https://web.archive.org/web/20251104024150id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2023-07-01",
+     "sha256": "316e5622c551514e1f471968158dc8cf85882de5eb37bb8ea1e899d8856a36e3"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 140,
+     "source_url": "https://web.archive.org/web/20251104173832id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2023-09-01",
+     "sha256": "af9190b526a7e6779a35bf32e6b612f5045891dc4dfbaab5323d3b3cba3a0c7d"
+    },
+    {
+     "from": "2024-12-27",
+     "units": 141,
+     "source_url": "https://web.archive.org/web/20260415171314id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2024-12-27",
+     "sha256": "cd53d72ceb52caeaf7cf31f6c610ec694e7744d295834849ce82808837f7fcc7"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 142,
+     "source_url": "https://web.archive.org/web/20260419084521id_/https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2025-07-01",
+     "sha256": "00d7a9bd9b7c88c9245d9815cc12532d828016ec1d92e3cd516c39c60595a68a"
+    }
+   ]
+  }
+ ]
+}
