@@ -1,0 +1,129 @@
+day,kind,law,acts,files,branch
+1963-06-12,start,act-1963-15,estate-duty,61,main
+1968-01-01,law,act-1967-20,estate-duty,2,main
+1969-06-03,start,,central-bank,63,main
+1969-06-27,law,act-1969-10,estate-duty,1,main
+1972-07-16,law,act-1972-10,estate-duty,1,main
+1972-11-17,law,act-1972-13,central-bank,1,main
+1976-06-04,law,act-1976-6,estate-duty,1,main
+1978-11-10,law,act-1978-13,estate-duty central-bank,5,main
+1980-06-20,law,act-1980-10,estate-duty,1,main
+1980-08-15,law,act-1980-10,central-bank,14,main
+1981-11-13,law,act-1981-10,estate-duty,1,main
+1982-06-18,law,act-1982-14,central-bank,1,main
+1982-06-28,law,act-1982-10,estate-duty,1,main
+1989-12-15,start,act-1989-17,capital-markets,37,main
+1991-12-27,law,act-1991-14,capital-markets estate-duty,16,main
+1995-01-27,law,act-1994-10,capital-markets,9,main
+1995-07-01,start,act-1995-2,kenya-revenue-authority,30,main
+1996-06-14,law,ln-1996-119,kenya-revenue-authority,2,main
+1996-06-18,law,act-1996-8,kenya-revenue-authority,1,main
+1997-06-19,law,act-1997-8,kenya-revenue-authority,2,main
+1997-08-08,law,ln-1997-143,kenya-revenue-authority,1,main
+1998-04-24,law,ln-1998-56,kenya-revenue-authority,1,main
+1998-06-11,law,act-1998-5,kenya-revenue-authority,8,main
+1999-06-10,law,act-1999-4,kenya-revenue-authority,1,main
+1999-10-01,law,act-1999-4,kenya-revenue-authority,1,main
+1999-11-18,law,act-1999-4,kenya-revenue-authority,1,main
+2000-06-15,law,act-2000-9,kenya-revenue-authority,2,main
+2000-07-01,law,act-2000-9,kenya-revenue-authority,1,main
+2000-08-22,law,act-2000-3,capital-markets,34,main
+2001-06-14,law,act-2001-6,kenya-revenue-authority,1,main
+2001-09-01,law,act-2001-6,kenya-revenue-authority,1,main
+2001-12-24,law,act-2001-6,kenya-revenue-authority,1,main
+2002-06-07,law,act-2002-2,capital-markets,11,main
+2003-06-13,law,act-2003-15,capital-markets,1,main
+2004-07-02,law,ln-2004-56,kenya-revenue-authority,1,main
+2005-01-01,law,act-2004-4,capital-markets,2,main
+2005-01-07,law,act-2004-4,capital-markets kenya-revenue-authority,7,main
+2006-01-01,law,act-2006-10,capital-markets,2,main
+2007-01-01,law,act-2006-10,kenya-revenue-authority,2,main
+2007-06-15,law,act-2007-9,kenya-revenue-authority,1,main
+2008-01-01,law,act-2007-9,capital-markets,11,main
+2009-01-01,law,act-2008-8,capital-markets kenya-revenue-authority,16,main
+2010-01-01,law,act-2009-8,capital-markets,2,main
+2010-08-27,start,act-2010-constitution,constitution,271,main
+2010-11-22,start,act-2010-4,alcoholic-drinks-control,73,main
+2011-01-01,law,act-2010-10,capital-markets,8,main
+2011-07-05,start,act-2011-9,iebc,42,main
+2011-12-16,law,act-2011-37,capital-markets,22,main
+2012-01-01,law,act-2012-4,capital-markets,19,main
+2012-07-12,law,act-2012-12,iebc,3,main
+2012-10-26,law,act-2012-35,capital-markets,23,main
+2013-01-01,law,act-2012-57,kenya-revenue-authority,2,main
+2013-01-09,law,act-2012-57,capital-markets,9,main
+2013-01-25,law,act-2013-10,alcoholic-drinks-control,1,main
+2014-01-01,law,act-2013-38,alcoholic-drinks-control,2,main
+2014-01-10,law,act-2013-48,capital-markets,85,main
+2014-09-19,law,act-2014-16,kenya-revenue-authority,1,main
+2015-06-04,law,act-2015-3,alcoholic-drinks-control,3,main
+2015-10-01,law,act-2015-14,kenya-revenue-authority,1,main
+2015-12-01,start,act-2015-23,excise-duty,49,main
+2016-01-19,start,act-2015-29,tax-procedures,116,main
+2016-01-19,law,act-2015-29,kenya-revenue-authority,3,main
+2016-01-19,law,act-2016-38,tax-procedures,79,main
+2016-06-09,law,act-2016-38,tax-procedures excise-duty alcoholic-drinks-control,19,main
+2016-07-01,law,act-2016-38,tax-procedures excise-duty,13,main
+2016-10-04,law,act-2016-36,iebc,10,main
+2017-01-01,law,act-2016-38,capital-markets tax-procedures kenya-revenue-authority,29,main
+2017-01-13,law,act-2017-11,excise-duty,4,main
+2017-01-30,law,act-2017-1,iebc,6,main
+2017-04-03,law,act-2017-15,tax-procedures excise-duty,14,main
+2017-11-02,law,act-2017-34,iebc,4,main
+2018-01-01,law,act-2017-15,tax-procedures kenya-revenue-authority excise-duty,6,main
+2018-07-01,law,act-2018-10,tax-procedures kenya-revenue-authority excise-duty,30,main
+2018-10-01,law,act-2018-10,tax-procedures,2,main
+2019-01-18,law,act-2018-15,capital-markets,13,main
+2019-01-18,law,act-2018-18,alcoholic-drinks-control,2,main
+2019-07-23,law,act-2019-12,alcoholic-drinks-control,1,main
+2019-11-07,law,act-2019-23,capital-markets tax-procedures,20,main
+2019-11-15,law,act-2019-23,excise-duty,7,main
+2019-11-25,law,act-2019-24,capital-markets iebc,27,main
+2020-03-18,law,act-2020-1,excise-duty,3,main
+2020-04-25,law,act-2020-2,tax-procedures kenya-revenue-authority excise-duty,10,main
+2020-06-30,law,act-2020-8,capital-markets kenya-revenue-authority excise-duty,29,main
+2020-11-13,law,act-2020-18,iebc,2,main
+2021-01-01,law,act-2020-8,tax-procedures excise-duty,7,main
+2021-07-01,law,act-2021-8,capital-markets kenya-revenue-authority excise-duty,9,main
+2021-12-23,law,act-1995-10,central-bank,10,main
+2021-12-23,law,act-1996-9,central-bank,11,main
+2021-12-23,law,act-2003-15,central-bank,2,main
+2021-12-23,law,act-2006-10,central-bank,1,main
+2021-12-23,law,act-2007-9,central-bank,2,main
+2021-12-23,law,act-2008-8,central-bank,1,main
+2021-12-23,law,act-2009-8,central-bank,3,main
+2021-12-23,law,act-2010-10,central-bank,3,main
+2021-12-23,law,act-2012-36,central-bank,2,main
+2021-12-23,law,act-2012-4,central-bank,5,main
+2021-12-23,law,act-2013-41,central-bank,4,main
+2021-12-23,law,act-2015-14,central-bank,2,main
+2021-12-23,law,act-2018-10,central-bank,2,main
+2021-12-23,law,act-2021-15,central-bank,9,main
+2021-12-23,unexplained,,central-bank,30,main
+2022-01-01,law,act-2021-8,tax-procedures,16,main
+2022-04-22,law,act-2022-13,kenya-revenue-authority,4,main
+2022-06-21,law,act-2022-22,excise-duty,6,main
+2022-07-01,law,act-2022-22,capital-markets tax-procedures,14,main
+2022-07-11,law,act-2022-25,alcoholic-drinks-control,6,main
+2022-12-31,unexplained,,alcoholic-drinks-control,18,main
+2022-12-31,unexplained,,capital-markets,36,main
+2022-12-31,unexplained,,central-bank,45,main
+2022-12-31,unexplained,,excise-duty,20,main
+2022-12-31,unexplained,,iebc,24,main
+2022-12-31,unexplained,,kenya-revenue-authority,22,main
+2022-12-31,unexplained,,tax-procedures,27,main
+2023-02-06,law,act-2023-1,iebc,21,main
+2023-07-01,law,act-2023-4,tax-procedures kenya-revenue-authority excise-duty alcoholic-drinks-control,30,main
+2023-09-01,law,act-2023-4,tax-procedures,4,main
+2023-09-15,law,act-2023-10,capital-markets central-bank,10,main
+2023-12-11,law,act-2023-19,capital-markets iebc,2,main
+2024-03-22,law,act-2024-2,kenya-revenue-authority,9,main
+2024-07-19,law,act-2024-9,iebc,15,main
+2024-12-27,law,act-2024-12,excise-duty,5,main
+2024-12-27,law,act-2024-16,kenya-revenue-authority,3,main
+2024-12-27,law,act-2024-20,central-bank,23,main
+2024-12-27,law,act-2024-21,tax-procedures,10,main
+2025-07-01,law,act-2025-9,tax-procedures excise-duty,21,main
+2025-08-20,unexplained,,kenya-revenue-authority,1,main
+2025-11-04,law,act-2025-20,capital-markets central-bank,4,main
+2025-12-11,law,act-2025-26,capital-markets,2,main

@@ -1,0 +1,52 @@
+{
+ "retrieved": "2026-10-29",
+ "acts": [
+  {
+   "work": "1995/2",
+   "slug": "kenya-revenue-authority",
+   "short": "Kenya Revenue Authority Act",
+   "title": "Kenya Revenue Authority Act",
+   "label": "Act 2 of 1995"
+  },
+  {
+   "work": "2015/23",
+   "slug": "excise-duty",
+   "short": "Excise Duty Act",
+   "title": "Excise Duty Act, 2015",
+   "label": "Act 23 of 2015"
+  },
+  {
+   "work": "1963/15",
+   "slug": "estate-duty",
+   "short": "Estate Duty Act",
+   "title": "Estate Duty Act",
+   "label": "Act 15 of 1963"
+  },
+  {
+   "work": "2011/9",
+   "slug": "iebc",
+   "short": "Independent Electoral and Boundaries Commission Act",
+   "title": "Independent Electoral and Boundaries Commission Act, 2011",
+   "label": "Act 9 of 2011"
+  },
+  {
+   "work": "1966/15",
+   "slug": "central-bank",
+   "short": "Central Bank of Kenya Act",
+   "title": "Central Bank of Kenya Act",
+   "label": "Act 15 of 1966"
+  },
+  {
+   "work": "2010/4",
+   "slug": "alcoholic-drinks-control",
+   "short": "Alcoholic Drinks Control Act",
+   "title": "Alcoholic Drinks Control Act, 2010",
+   "label": "Act 4 of 2010"
+  }
+ ],
+ "decisions": [
+  "Batch 2 acts were chosen among the most-used national Acts for which every point-in-time version Kenya Law lists is available: the Kenya Revenue Authority Act, the Excise Duty Act 2015, the Estate Duty Act, the Independent Electoral and Boundaries Commission Act 2011, the Central Bank of Kenya Act and the Alcoholic Drinks Control Act 2010.",
+  "Batch 2 left out, because one or more of the versions Kenya Law lists was not available (their changes could only be dated late): the Value Added Tax Act 2013 (11 versions), the Retirement Benefits Act (7), the Proceeds of Crime and Anti-Money Laundering Act (3), the Employment Act 2007 (2017-07-03, 2019-11-25), the Public Finance Management Act 2012 (2), the Income Tax Act (2021-07-01, 2026-05-15) and the Export Processing Zones Act (2001-06-14).",
+  "The Law of Succession Act was left out of batch 2: Kenya Law dates its first version 1972-11-17 (publication) but states it commenced on 1 July 1981, after six amending versions, so its versions before 1981 would not be in-force dates."
+ ]
+}
