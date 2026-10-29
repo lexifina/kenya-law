@@ -1,0 +1,16 @@
+{
+ "parts": {
+  "20-batch2.json": {
+   "acts": [
+    "alcoholic-drinks-control",
+    "central-bank",
+    "estate-duty",
+    "excise-duty",
+    "iebc",
+    "kenya-revenue-authority"
+   ],
+   "sha256": "21f51095e81151fb8ded23dcc3687cae51752eb6325fa4d271aa035c059e4819"
+  }
+ },
+ "schema": 1
+}
