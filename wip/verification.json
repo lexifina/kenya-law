@@ -1,634 +1,642 @@
 {
  "acts": {
-  "capital-markets": [
-   {
-    "changed": 0,
-    "credited": 0,
-    "from": "1989-12-15",
-    "units": 37
-   },
-   {
-    "changed": 15,
-    "credited": 15,
-    "from": "1991-12-27",
-    "units": 37
-   },
-   {
-    "changed": 9,
-    "credited": 9,
-    "from": "1995-01-27",
-    "units": 37
-   },
-   {
-    "changed": 34,
-    "credited": 34,
-    "from": "2000-08-22",
-    "units": 45
-   },
-   {
-    "changed": 11,
-    "credited": 11,
-    "from": "2002-06-07",
-    "units": 45
-   },
-   {
-    "changed": 1,
-    "credited": 1,
-    "from": "2003-06-13",
-    "units": 45
-   },
-   {
-    "changed": 2,
-    "credited": 2,
-    "from": "2005-01-01",
-    "units": 46
-   },
-   {
-    "changed": 1,
-    "credited": 1,
-    "from": "2005-01-07",
-    "units": 46
-   },
-   {
-    "changed": 2,
-    "credited": 2,
-    "from": "2006-01-01",
-    "units": 46
-   },
-   {
-    "changed": 11,
-    "credited": 11,
-    "from": "2008-01-01",
-    "units": 49
-   },
-   {
-    "changed": 15,
-    "credited": 15,
-    "from": "2009-01-01",
-    "units": 50
-   },
-   {
-    "changed": 2,
-    "credited": 2,
-    "from": "2010-01-01",
-    "units": 50
-   },
-   {
-    "changed": 8,
-    "credited": 8,
-    "from": "2011-01-01",
-    "units": 50
-   },
-   {
-    "changed": 22,
-    "credited": 22,
-    "from": "2011-12-16",
-    "units": 61
-   },
-   {
-    "changed": 19,
-    "credited": 19,
-    "from": "2012-01-01",
-    "units": 61
-   },
-   {
-    "changed": 23,
-    "credited": 23,
-    "from": "2012-10-26",
-    "units": 63
-   },
-   {
-    "changed": 9,
-    "credited": 9,
-    "from": "2013-01-09",
-    "units": 63
-   },
-   {
-    "changed": 85,
-    "credited": 85,
-    "from": "2014-01-10",
-    "units": 112
-   },
-   {
-    "changed": 17,
-    "credited": 17,
-    "from": "2017-01-01",
-    "units": 112
-   },
-   {
-    "changed": 13,
-    "credited": 13,
-    "from": "2019-01-18",
-    "units": 115
-   },
-   {
-    "changed": 11,
-    "credited": 11,
-    "from": "2019-11-07",
-    "units": 115
-   },
-   {
-    "changed": 25,
-    "credited": 25,
-    "from": "2019-11-25",
-    "units": 116
-   },
-   {
-    "changed": 20,
-    "credited": 20,
-    "from": "2020-06-30",
-    "units": 116
-   },
-   {
-    "changed": 1,
-    "credited": 1,
-    "from": "2021-07-01",
-    "units": 116
-   },
-   {
-    "changed": 3,
-    "credited": 3,
-    "from": "2022-07-01",
-    "units": 116
-   },
-   {
-    "changed": 36,
-    "credited": 0,
-    "from": "2022-12-31",
-    "units": 116
-   },
-   {
-    "changed": 3,
-    "credited": 3,
-    "from": "2023-09-15",
-    "units": 119
-   },
-   {
-    "changed": 1,
-    "credited": 1,
-    "from": "2023-12-11",
-    "units": 119
-   },
-   {
-    "changed": 2,
-    "credited": 2,
-    "from": "2025-11-04",
-    "units": 119
-   },
-   {
-    "changed": 2,
-    "credited": 2,
-    "from": "2025-12-11",
-    "units": 120
-   }
-  ],
   "constitution": [
    {
-    "changed": 0,
-    "credited": 0,
     "from": "2010-09-03",
-    "units": 271
+    "units": 271,
+    "changed": 0,
+    "credited": 0
    }
   ],
+  "constitution:archive": {
+   "last_version": "2010-09-03",
+   "captured": "20261017045610",
+   "via": "wayback",
+   "history_after_last": []
+  },
+  "capital-markets": [
+   {
+    "from": "1989-12-15",
+    "units": 37,
+    "changed": 0,
+    "credited": 0
+   },
+   {
+    "from": "1991-12-27",
+    "units": 37,
+    "changed": 15,
+    "credited": 15
+   },
+   {
+    "from": "1995-01-27",
+    "units": 37,
+    "changed": 9,
+    "credited": 9
+   },
+   {
+    "from": "2000-08-22",
+    "units": 45,
+    "changed": 34,
+    "credited": 34
+   },
+   {
+    "from": "2002-06-07",
+    "units": 45,
+    "changed": 11,
+    "credited": 11
+   },
+   {
+    "from": "2003-06-13",
+    "units": 45,
+    "changed": 1,
+    "credited": 1
+   },
+   {
+    "from": "2005-01-01",
+    "units": 46,
+    "changed": 2,
+    "credited": 2
+   },
+   {
+    "from": "2005-01-07",
+    "units": 46,
+    "changed": 1,
+    "credited": 1
+   },
+   {
+    "from": "2006-01-01",
+    "units": 46,
+    "changed": 2,
+    "credited": 2
+   },
+   {
+    "from": "2008-01-01",
+    "units": 49,
+    "changed": 11,
+    "credited": 11
+   },
+   {
+    "from": "2009-01-01",
+    "units": 50,
+    "changed": 15,
+    "credited": 15
+   },
+   {
+    "from": "2010-01-01",
+    "units": 50,
+    "changed": 2,
+    "credited": 2
+   },
+   {
+    "from": "2011-01-01",
+    "units": 50,
+    "changed": 8,
+    "credited": 8
+   },
+   {
+    "from": "2011-12-16",
+    "units": 61,
+    "changed": 22,
+    "credited": 22
+   },
+   {
+    "from": "2012-01-01",
+    "units": 61,
+    "changed": 19,
+    "credited": 19
+   },
+   {
+    "from": "2012-10-26",
+    "units": 63,
+    "changed": 23,
+    "credited": 23
+   },
+   {
+    "from": "2013-01-09",
+    "units": 63,
+    "changed": 9,
+    "credited": 9
+   },
+   {
+    "from": "2014-01-10",
+    "units": 112,
+    "changed": 85,
+    "credited": 85
+   },
+   {
+    "from": "2017-01-01",
+    "units": 112,
+    "changed": 17,
+    "credited": 17
+   },
+   {
+    "from": "2019-01-18",
+    "units": 115,
+    "changed": 13,
+    "credited": 13
+   },
+   {
+    "from": "2019-11-07",
+    "units": 115,
+    "changed": 11,
+    "credited": 11
+   },
+   {
+    "from": "2019-11-25",
+    "units": 116,
+    "changed": 25,
+    "credited": 25
+   },
+   {
+    "from": "2020-06-30",
+    "units": 116,
+    "changed": 20,
+    "credited": 20
+   },
+   {
+    "from": "2021-07-01",
+    "units": 116,
+    "changed": 1,
+    "credited": 1
+   },
+   {
+    "from": "2022-07-01",
+    "units": 116,
+    "changed": 3,
+    "credited": 3
+   },
+   {
+    "from": "2022-12-31",
+    "units": 116,
+    "changed": 36,
+    "credited": 0
+   },
+   {
+    "from": "2023-09-15",
+    "units": 119,
+    "changed": 3,
+    "credited": 3
+   },
+   {
+    "from": "2023-12-11",
+    "units": 119,
+    "changed": 1,
+    "credited": 1
+   },
+   {
+    "from": "2025-11-04",
+    "units": 119,
+    "changed": 2,
+    "credited": 2
+   },
+   {
+    "from": "2025-12-11",
+    "units": 120,
+    "changed": 2,
+    "credited": 2
+   }
+  ],
+  "capital-markets:archive": {
+   "last_version": "2025-12-11",
+   "captured": "20261008013350",
+   "via": "wayback",
+   "history_after_last": []
+  },
   "tax-procedures": [
    {
-    "changed": 0,
-    "credited": 0,
     "from": "2015-12-24",
-    "units": 116
-   },
-   {
-    "changed": 79,
-    "credited": 79,
-    "from": "2016-01-19",
-    "units": 118
-   },
-   {
-    "changed": 13,
-    "credited": 13,
-    "from": "2016-06-09",
-    "units": 119
-   },
-   {
-    "changed": 5,
-    "credited": 5,
-    "from": "2016-07-01",
-    "units": 120
-   },
-   {
-    "changed": 11,
-    "credited": 11,
-    "from": "2017-01-01",
-    "units": 121
-   },
-   {
-    "changed": 10,
-    "credited": 10,
-    "from": "2017-04-03",
-    "units": 121
-   },
-   {
-    "changed": 3,
-    "credited": 3,
-    "from": "2018-01-01",
-    "units": 121
-   },
-   {
-    "changed": 16,
-    "credited": 16,
-    "from": "2018-07-01",
-    "units": 124
-   },
-   {
-    "changed": 2,
-    "credited": 2,
-    "from": "2018-10-01",
-    "units": 124
-   },
-   {
-    "changed": 9,
-    "credited": 9,
-    "from": "2019-11-07",
-    "units": 126
-   },
-   {
-    "changed": 4,
-    "credited": 4,
-    "from": "2020-04-25",
-    "units": 126
-   },
-   {
-    "changed": 6,
-    "credited": 6,
-    "from": "2021-01-01",
-    "units": 128
-   },
-   {
+    "units": 116,
     "changed": 0,
-    "credited": 0,
-    "from": "2021-07-01",
-    "units": 128
+    "credited": 0
    },
    {
-    "changed": 16,
-    "credited": 16,
-    "from": "2022-01-01",
-    "units": 132
+    "from": "2016-01-19",
+    "units": 118,
+    "changed": 79,
+    "credited": 79
    },
    {
-    "changed": 11,
-    "credited": 11,
-    "from": "2022-07-01",
-    "units": 134
-   },
-   {
-    "changed": 27,
-    "credited": 0,
-    "from": "2022-12-31",
-    "units": 134
-   },
-   {
-    "changed": 15,
-    "credited": 15,
-    "from": "2023-07-01",
-    "units": 137
-   },
-   {
-    "changed": 4,
-    "credited": 4,
-    "from": "2023-09-01",
-    "units": 140
-   },
-   {
-    "changed": 10,
-    "credited": 10,
-    "from": "2024-12-27",
-    "units": 141
-   },
-   {
+    "from": "2016-06-09",
+    "units": 119,
     "changed": 13,
-    "credited": 13,
+    "credited": 13
+   },
+   {
+    "from": "2016-07-01",
+    "units": 120,
+    "changed": 5,
+    "credited": 5
+   },
+   {
+    "from": "2017-01-01",
+    "units": 121,
+    "changed": 11,
+    "credited": 11
+   },
+   {
+    "from": "2017-04-03",
+    "units": 121,
+    "changed": 10,
+    "credited": 10
+   },
+   {
+    "from": "2018-01-01",
+    "units": 121,
+    "changed": 3,
+    "credited": 3
+   },
+   {
+    "from": "2018-07-01",
+    "units": 124,
+    "changed": 16,
+    "credited": 16
+   },
+   {
+    "from": "2018-10-01",
+    "units": 124,
+    "changed": 2,
+    "credited": 2
+   },
+   {
+    "from": "2019-11-07",
+    "units": 126,
+    "changed": 9,
+    "credited": 9
+   },
+   {
+    "from": "2020-04-25",
+    "units": 126,
+    "changed": 4,
+    "credited": 4
+   },
+   {
+    "from": "2021-01-01",
+    "units": 128,
+    "changed": 6,
+    "credited": 6
+   },
+   {
+    "from": "2021-07-01",
+    "units": 128,
+    "changed": 0,
+    "credited": 0
+   },
+   {
+    "from": "2022-01-01",
+    "units": 132,
+    "changed": 16,
+    "credited": 16
+   },
+   {
+    "from": "2022-07-01",
+    "units": 134,
+    "changed": 11,
+    "credited": 11
+   },
+   {
+    "from": "2022-12-31",
+    "units": 134,
+    "changed": 27,
+    "credited": 0
+   },
+   {
+    "from": "2023-07-01",
+    "units": 137,
+    "changed": 15,
+    "credited": 15
+   },
+   {
+    "from": "2023-09-01",
+    "units": 140,
+    "changed": 4,
+    "credited": 4
+   },
+   {
+    "from": "2024-12-27",
+    "units": 141,
+    "changed": 10,
+    "credited": 10
+   },
+   {
     "from": "2025-07-01",
-    "units": 142
+    "units": 142,
+    "changed": 13,
+    "credited": 13
    }
-  ]
- },
- "check": {
-  "acts": 3,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 51
+  ],
+  "tax-procedures:archive": {
+   "last_version": "2025-07-01",
+   "captured": "20260419084521",
+   "via": "wayback",
+   "history_after_last": []
+  }
  },
  "fidelity": {
-  "capital-markets@1989-12-15": {
+  "constitution@2010-09-03": {
+   "units": 271,
+   "units_differing": [],
    "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
+   "text_outside_units_sample": ""
+  },
+  "capital-markets@1989-12-15": {
    "units": 37,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@1991-12-27": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 37,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@1995-01-27": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 37,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2000-08-22": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 45,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2002-06-07": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 45,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2003-06-13": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 45,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2005-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 46,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2005-01-07": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 46,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2006-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 46,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2008-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 49,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2009-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 50,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2010-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 50,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2011-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 50,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2011-12-16": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 61,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2012-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 61,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2012-10-26": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 63,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2013-01-09": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 63,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2014-01-10": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 112,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2017-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 112,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2019-01-18": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 115,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2019-11-07": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 115,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2019-11-25": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 116,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2020-06-30": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 116,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2021-07-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 116,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2022-07-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 116,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2022-12-31": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 116,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2023-09-15": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 119,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2023-12-11": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 119,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2025-11-04": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 119,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "capital-markets@2025-12-11": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 120,
-   "units_differing": []
-  },
-  "constitution@2010-09-03": {
+   "units_differing": [],
    "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
-   "units": 271,
-   "units_differing": []
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2015-12-24": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 116,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2016-01-19": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 118,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2016-06-09": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 119,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2016-07-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 120,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2017-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 121,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2017-04-03": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 121,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2018-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 121,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2018-07-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 124,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2018-10-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 124,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2019-11-07": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 126,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2020-04-25": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 126,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2021-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 128,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2021-07-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 128,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2022-01-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 132,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2022-07-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 134,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2022-12-31": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 134,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2023-07-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 137,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2023-09-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 140,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2024-12-27": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 141,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "tax-procedures@2025-07-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 142,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   }
  },
  "law_dates": {
@@ -851,12 +859,5 @@
     "2025-07-01"
    ]
   }
- },
- "rebuild": {
-  "commits": 47,
-  "history_tip": "9baca083cf7b6a5a65818fc683e5086f4d7a5235",
-  "identical": true,
-  "main_identical": true,
-  "tags": 85
  }
 }
