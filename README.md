@@ -59,6 +59,7 @@ Each change is credited to the law Kenya Law's History names for it (`Act No. 9 
 - Every version is parsed from an archived copy of exactly that Kenya Law version's page; `data/versions.json` gives its address and sha256.
 - A second build from the same corpus gave identical hashes for all 128 commits and 232 tags.
 - History is append-only: no merge commits, no commit dates going backwards, nothing dated after the build, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each change is credited to the law Kenya Law's History names for it (`Act No. 9 
 See [`LICENSE`](LICENSE). Kenya Law's terms of use (s. 9) make its raw, unannotated source documents available under CC BY-NC 4.0, crediting the National Council for Law Reporting, and require a Licensing Agreement from it for automated extraction, commercial redistribution and AI training; the texts may be used only for non-commercial purposes. Lexifina's arrangement, commit messages, tables and tools are CC0 1.0.
 
 No model wrote, translated or corrected legal text, and no model runs at build time; the scripts that read the sources and build this repository were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
