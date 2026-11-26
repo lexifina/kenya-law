@@ -80,6 +80,31 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - Estate Duty Act: the first version is dated 1963-06-12, the commencement date Kenya Law states ("Commenced on 12 June 1963"), not 1963-08-13, the date of its expression (Gazette publication).
 - Alcoholic Drinks Control Act: the first version is dated 2010-11-22, the commencement date Kenya Law states ("Commenced on 22 November 2010 by Alcoholic Drinks Control Act Commencement"), not 2010-09-10, the date of its expression (Gazette publication).
 
+## Secondary copies (2026-11-26)
+
+Kenya Law (kenyalaw.org, new.kenyalaw.org) now answers automated clients with an AWS WAF challenge, and its terms of use (s. 9) need a Licensing Agreement for bulk extraction, so it was not used. The commits after `e3456b57d` come from copies published elsewhere, read by `tools/secondary/` (no OCR, no model):
+
+- FAOLEX: every Kenyan record in its public sitemaps (1,454), the record's data from its page, and its full-text PDFs (policies, agreements and miscellaneous records left out).
+- WIPO Lex: every Kenyan legislation record (88) and its PDFs.
+- The Parliament of Kenya's Acts list (34 PDFs): all are Kenya Law revised editions dated only by a year, or scans, so none is used.
+
+Rules:
+
+- A Kenya Law / Laws.Africa PDF (cover: "By Kenya Law and Laws.Africa", `FRBR URI: /akn/ke/act/.../eng@DATE`) is one version, dated by that expression date; its history list gives the change that took effect that day, which is credited (an Act or Legal Notice), or the publisher for a revision. Provisions are split on the PDF's own section headings; Part and Chapter headings and editorial notes are left out as in the rest of the repository.
+- A version of an act already here from Kenya Law's own pages is not added again; a later one is.
+- Any other PDF is taken only as the text as made: dated by the "Date of Commencement" printed in it, else by FAOLEX's day of the text (the day it was made or assented to). A revised edition dated only by a year, a commencement left to a notice, a record dated only by year, and a scan without a text layer are held.
+- Result: 680 commits; 680 copies held. Reasons held:
+
+  - 449: consolidated text dated by year only (no expression date printed)
+  - 109: no day of commencement or making
+  - 67: commencement by notice or section: day not printed
+  - 29: not a Kenya Law/Laws.Africa print and no record date (revised edition or scan)
+  - 24: revised edition dated by year only
+  - 1: no text layer (scan): no OCR
+  - 1: no sections read
+
+Not found in any open copy: the Companies Act 2015 and the Employment Act 2007.
+
 ## What AI did and did not do
 
 The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.

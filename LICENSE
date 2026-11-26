@@ -13,6 +13,16 @@ Attribution:
 The texts may be used only for non-commercial purposes. This repository is private; whether and how it
 may be published is the owner's decision under these terms.
 
+Secondary copies added on 2026-11-26 (each such commit carries a Source-status: secondary copy trailer):
+
+  FAOLEX, the FAO legislative database, https://faolex.fao.org: copies of national texts, reused under FAO's terms
+  (non-commercial reuse with credit to FAO/FAOLEX): https://www.fao.org/contact-us/terms/en/
+  WIPO Lex, https://www.wipo.int/wipolex: copies of national texts; WIPO terms of use: https://www.wipo.int/tools/en/disclaim.html
+  Many of these copies are Kenya Law PDFs, which state: "There is no copyright on the legislative content of this
+  document. This PDF copy is licensed under a Creative Commons Attribution NonCommercial ShareAlike 4.0 License
+  (CC BY-NC-SA 4.0)" (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), by Kenya Law and Laws.Africa.
+  Acts and Legal Notices as made are Kenyan official texts from the Kenya Gazette and its supplements.
+
 Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per
 line; spacing, quotes and dashes were normalised; editorial notes, Part and Chapter headings were left out;
 and the versions were arranged as git commits credited to the laws Kenya Law names for each change.

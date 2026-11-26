@@ -9,7 +9,7 @@ The law of Kenya as a git history: one file per section (or article or schedule)
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Kenya's national law, which global-law reads at `kenya/national/acts/`.
 
-**What is in it now:** the Constitution of Kenya, 2010 and 8 Acts of Parliament (the Capital Markets, Tax Procedures, Kenya Revenue Authority, Excise Duty, Estate Duty, Independent Electoral and Boundaries Commission, Central Bank of Kenya and Alcoholic Drinks Control Acts), with 151 versions from 1963 to 2025, in 128 commits, 118 of them credited to 88 laws. [`REPRODUCE.md`](REPRODUCE.md) lists every act with its versions; [`data/laws.csv`](data/laws.csv) lists every law with the day it took effect.
+**What is in it now:** the Constitution of Kenya, 2010 and 8 Acts of Parliament (the Capital Markets, Tax Procedures, Kenya Revenue Authority, Excise Duty, Estate Duty, Independent Electoral and Boundaries Commission, Central Bank of Kenya and Alcoholic Drinks Control Acts), with 151 versions from 1963 to 2025, in 128 commits, 118 of them credited to 88 laws. Added on 2026-11-26 from secondary copies (FAOLEX and WIPO Lex; Kenya Law's own site was not used): 71 more consolidated laws as Kenya Law dated them (43 Acts, among them the Penal Code, the Criminal Procedure Code, the Evidence Act, the Civil Procedure Act and the Land Act 2012), 437 pieces of subsidiary legislation (`subsidiary/<year>/`), 199 Acts as made (`as-made/<year>/`), 680 commits in all, in force from 1915-06-17 to 2026-09-18. [`REPRODUCE.md`](REPRODUCE.md) lists every act with its versions; [`data/laws.csv`](data/laws.csv) lists every law with the day it took effect.
 
 Each act is a folder with one file per provision, plus a `README.md` listing its provisions and their changes (`tax-procedures/sec-083.md` is section 83 of the Tax Procedures Act, No. 29 of 2015; `constitution/sec-001.md` is Article 1 of the Constitution).
 
@@ -63,10 +63,10 @@ Each change is credited to the law Kenya Law's History names for it (`Act No. 9 
 
 ## What it does not show
 
-- **Most of Kenya's Acts.** Acts were taken only where every version Kenya Law lists has an archived copy; the Employment Act 2007, the Income Tax Act, the Value Added Tax Act 2013 and others are left out because a version is missing (`REPRODUCE.md` says which and why).
+- **Most of Kenya's Acts.** Acts were taken only where every version Kenya Law lists has an archived copy; the Employment Act 2007, the Income Tax Act, the Value Added Tax Act 2013 and others are left out because a version is missing (`REPRODUCE.md` says which and why). The secondary copies added later give one version of each act, the one FAOLEX or WIPO Lex holds, not its earlier versions; revised editions dated only by a year, and scans without a text layer, are not here.
 - **Changes before Kenya Law's oldest version** of an act are not separate commits.
 - **Editorial notes and headings.** Kenya Law's bracketed notes are kept only where a provision has no other text (repealed or spent); Part, Chapter and Division headings are left out.
-- **Subsidiary legislation and case law** are not here.
+- **Most subsidiary legislation, and case law.** Subsidiary legislation is here only where FAOLEX or WIPO Lex holds a copy with a text layer and a day it was made; Supreme Court decisions are in a separate private repository.
 - **Later versions.** Amendments Kenya Law has not yet applied to its text, and versions after the record was retrieved (2026-10-29), are not here; the latest version took effect on 2025-12-11.
 
 ## Sources
@@ -75,6 +75,7 @@ Each change is credited to the law Kenya Law's History names for it (`Act No. 9 
 | --- | --- | --- | --- |
 | [Kenya Law](https://new.kenyalaw.org) (National Council for Law Reporting) | Laws of Kenya, consolidated, on the Laws.Africa platform | yes, a dated version for each amendment | The text, the History and amendment list that date each version, and the editorial notes used for credits |
 | [Internet Archive](https://web.archive.org/) | Archived copies of Kenya Law's pages | as archived | Every version is read from one |
+| [FAOLEX](https://faolex.fao.org) (FAO) and [WIPO Lex](https://www.wipo.int/wipolex) (WIPO) | Copies of Kenya Law's PDFs (Kenya Law and Laws.Africa, CC BY-NC-SA 4.0) and of Acts and Legal Notices as made | one version each, as the copy holds it | Secondary copies: every such commit says so in `Source-status:` |
 
 ## Licence
 
