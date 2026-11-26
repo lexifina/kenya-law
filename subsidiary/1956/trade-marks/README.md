@@ -1,4 +1,4 @@
-# Trade Marks Act (Legal Notice 575 of 1956)
+# The Trade Marks Rules (Legal Notice 575 of 1956)
 
 Kenya Law's version as at 2022-12-31 (/akn/ke/act/ln/1956/575/eng@2022-12-31), read from the copy published by WIPO Lex (WIPO): <https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ke/ke060en_1.pdf>.
 

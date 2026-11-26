@@ -1,4 +1,4 @@
-# Appellate Jurisdiction Act (Legal Notice 40 of 2022)
+# The Court of Appeal Rules (Legal Notice 40 of 2022)
 
 Kenya Law's version as at 2022-12-31 (/akn/ke/act/ln/2022/40/eng@2022-12-31), read from the copy published by WIPO Lex (WIPO): <https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ke/ke063en_1.pdf>.
 

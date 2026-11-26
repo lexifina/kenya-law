@@ -1,4 +1,4 @@
-# Industrial Property Act (Legal Notice 196 of 2002)
+# The Industrial Property Tribunal Rules (Legal Notice 196 of 2002)
 
 Kenya Law's version as at 2022-12-31 (/akn/ke/act/ln/2002/196/eng@2022-12-31), read from the copy published by WIPO Lex (WIPO): <https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ke/ke061en_1.pdf>.
 

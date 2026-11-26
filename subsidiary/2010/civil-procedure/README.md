@@ -1,4 +1,4 @@
-# Civil Procedure Act (Legal Notice 151 of 2010)
+# Civil Procedure Rules (Legal Notice 151 of 2010)
 
 Kenya Law's version as at 2022-12-31 (/akn/ke/act/ln/2010/151/eng@2022-12-31), read from the copy published by WIPO Lex (WIPO): <https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ke/ke064en_1.pdf>.
 

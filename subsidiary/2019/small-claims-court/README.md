@@ -1,4 +1,4 @@
-# Small Claims Court Act (Legal Notice 145 of 2019)
+# The Small Claims Court Rules (Legal Notice 145 of 2019)
 
 Kenya Law's version as at 2022-12-31 (/akn/ke/act/ln/2019/145/eng@2022-12-31), read from the copy published by WIPO Lex (WIPO): <https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ke/ke062en_1.pdf>.
 
