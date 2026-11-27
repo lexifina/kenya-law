@@ -1,2 +1,0 @@
-# 67B. Directions to person inspected
-The Commissioner may, by notice in writing, and after giving the insurer and any other person licensed under this Act, a reasonable opportunity of being heard, require the inspected person to comply by such date or within such period as maybe specified therein, with such directions as he considers necessary in connection with any matter arising out of a report made under section 67A.

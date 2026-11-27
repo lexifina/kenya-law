@@ -1,8 +1,0 @@
-# 22B. Deductions in respect of registered individual retirement funds
-(1) An individual who is not a member of a registered fund or a public pension scheme at any time in a year of income commencing on or after the 1st January, 1994 shall be eligible to contribute to a registered individual retirement fund up to the amount deductible under subsection (2).
-(2) Notwithstanding the provisions of section 16 (2) (d) and (e), the deduction in respect of contributions of an individual to a registered individual retirement fund in a year shall be limited to the lesser of–
-(a) the sum of the contributions made by the individual or by the employer of the individual on his behalf on or before the 31st of December of the year; or
-(b) thirty per cent of pensionable income of the individual in that year; or
-(c) three hundred and sixty thousand shillings (or, where the contributions are made on behalf of the individual by his employer in respect of a part year of service of the individual, thirty thousand shillings per month of service) reduced by the amount of the contributions made by the individual or by an employer on behalf of the individual to the National Social Security Fund in that year.
-(3) All funds maintained by an individual in a registered individual retirement fund shall be held in one account with a qualified institution.
-[Act No. 9 of 1992, s. 45, Act No. 6 of 1994, s. 40, Act No. 13 of 1995, s. 83, Act No. 8 of 1996, s. 33, Act No. 8 of 1997, s. 36, Act No. 5 of 1998, s. 34, Act No. 4 of 1999, s. 35, Act No. 9 of 2000, s. 45, Act No. 4 of 2004, s. 50, Act No. 6 of 2005, s. 26, Act No. 12 of 2024, s. 9.]

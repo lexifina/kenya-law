@@ -23,6 +23,16 @@ Secondary copies added on 2026-11-26 (each such commit carries a Source-status: 
   (CC BY-NC-SA 4.0)" (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), by Kenya Law and Laws.Africa.
   Acts and Legal Notices as made are Kenyan official texts from the Kenya Gazette and its supplements.
 
+Official website copies added on 2026-11-27 (each such commit carries a Source-status: official website copy trailer
+naming the host):
+
+  County Acts and regulations as published in the county gazette supplements, from the websites of Kenya's county
+  assemblies and county governments (<county>assembly.go.ke, <county>.go.ke); national Acts, regulations and legal
+  notices as published in the Kenya Gazette and its supplements, from the Parliament of Kenya (www.parliament.go.ke)
+  and ministry and regulator websites (for example kilimo.go.ke, nema.go.ke, cma.or.ke, centralbank.go.ke,
+  treasury.go.ke, epra.go.ke); Acts of the East African Community from the East African Legislative Assembly
+  (https://www.eala.org). These are official legislative texts; the sites state no reuse terms of their own for them.
+
 Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per
 line; spacing, quotes and dashes were normalised; editorial notes, Part and Chapter headings were left out;
 and the versions were arranged as git commits credited to the laws Kenya Law names for each change.

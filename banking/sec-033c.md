@@ -1,4 +1,0 @@
-# 33C. Power of Central Bank to prescribe conditions on deposits or withdrawals
-(1) The Central Bank shall prescribe, in regulations, conditions on deposits or withdrawals by customers in banks and financial institution.
-(2) The Central Bank shall within thirty days of coming into force of this Act, prescribe regulations setting out conditions for deposits and withdrawals by customers in banks and financial institutions in accordance with the Statutory Instruments Act.
-(3) For avoidance of doubt no other person shall purport to make regulations required under this section and any existing guidelines or regulations prescribing conditions on deposits or withdrawals by customers shall cease to be operational within fourteen days of the coming into force of the regulations made under this section.

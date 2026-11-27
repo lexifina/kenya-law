@@ -1,3 +1,0 @@
-# 197D. Examination and production of documents
-(1) The Commissioner may, for the purpose of obtaining full information in respect of the levy liability of any insurer, require the production of such records, books of account, statements and other documents as he may consider necessary for examination and retention for such period as may be reasonable for the purpose.
-(2) The Commissioner may require any person to attend at such time and place as may be specified for the purpose of being examined in respect of any matter or transaction appearing to be relevant to the levy liability of any insurer.

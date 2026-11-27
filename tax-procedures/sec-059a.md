@@ -14,7 +14,7 @@
 (d) for periodical or lump sum payments in respect of a royalty; or
 (e) for such other commercial or financial transaction as may be designated by the Commissioner.
 (4) For the purposes of this section —
-(a) “transactional data” includes —
+(a) "transactional data" includes —
 (i) the names and addresses of each person to whom a payment was made;
 (ii) where the payment is for services, the amount of the payment specifying whether the payment is a commission of any kind or is for expenses incurred in connection with rendering the services;
 (iii) where the payment is in any form of valuable consideration other than money, the particulars of the consideration; and

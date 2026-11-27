@@ -1,6 +1,6 @@
 ﻿import json,time,requests,urllib.parse
 from pathlib import Path
-W=Path(r'C:\Users\alany\Documents\kenya-law-work'); D=W/'cache'/'parl'; D.mkdir(parents=True,exist_ok=True)
+W=Path(r'kenya-law-work'); D=W/'cache'/'parl'; D.mkdir(parents=True,exist_ok=True)
 UA={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36'}
 L=json.load(open(W/'parl_acts.json'))
 for u,v in L.items():

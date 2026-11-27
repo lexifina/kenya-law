@@ -1,8 +1,0 @@
-# 5A. Conflicts with other Acts in approval of programmes
-(1) If there is a conflict between the provisions of this Act and the provisions of any other Act in matters relating approval or accreditation of academic programmes offered by universities, the provisions of this Act shall prevail.
-(2) Despite the provisions of any other law, the recognition, licensing, student indexing, approval or accreditation of any academic programme including postgraduate degrees, diplomas including postgraduate diplomas and other academic certificates offered at a university shall be the exclusive mandate of the Commission to be exercised in accordance with this section at the exclusion of any other person or body.
-(3) The Commission may, before approving any academic programme consult with any relevant body established by written law to regulate the profession to which the academic programme relates where such law empowers the professional body to approve or accredit courses offered at any university or colleges.
-(4) Pursuant to section 5(2), the Commission may engage—
-(a) professional bodies and associations to carry out inspection of universities on its behalf;
-(b) the Auditor-General to offer the Commission professional opinion on management and financial positions of a particular university.
-(5) A person who without the authority of the Commission under this Act purports to license, accredit, recognise, audit, inspect, index students or collect a fee or a charge from a university or a student commits an offence and shall be liable on conviction to a fine not exceeding two million shillings or imprisonment for a term not exceeding two years or both.

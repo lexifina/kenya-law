@@ -1,4 +1,0 @@
-# 6A. Imposition of residential rental Income Tax
-(1) Notwithstanding any other provision of this Act, a tax to be known as residential rental income tax shall be payable with effect from the 1st January, 2016 by any resident person from income which is accrued in or derived from Kenya for the use or occupation of residential property, and which is in excess of two hundred and eighty-eight thousand shillings but does not exceed fifteen million shillings during any year of income.
-Provided that this section shall not apply where a person who would otherwise pay tax under this section, by notice in writing addressed to the Commissioner, elects not to be subject to residential rental income tax, in which case the other provisions of this Act shall apply to such a person.
-(2) The Cabinet Secretary may, by notice in the Gazette, prescribe regulations for the better carrying out the provisions of this section.

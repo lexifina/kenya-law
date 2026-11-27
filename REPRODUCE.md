@@ -116,3 +116,19 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the adapter and configuration and chose the acts. No model wrote, summarised or transformed legal text: the text is parsed by deterministic code.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the adapter and configuration and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code is deterministic code.
+
+## Official website copies (2026-11-27)
+
+`tools/web/` rebuilds these commits. `county_probe.py` and `nat_probe.py` find the county and national sites that
+publish a WordPress media list; `county_list.py` / `nat_list.py` list their PDFs; `crawl_list.py` walks the
+legislation pages of county sites without one; `page_list.py` reads the Treasury and EPRA legislation pages;
+`eac_list.py` the EALA Acts page; `county_pick.py` keeps the titles that read as Acts, regulations, rules, by-laws or
+legal notices (not bills, reports, budgets, tenders, drafts or guidelines). `web_fetch.py` downloads them (one request
+a second per host; a 403 or 429 stops that host). `prewarm.py` reads each PDF's text layer in its own process
+(`parse_one.py`, the same `pdfread.py` as the secondary copies; scans without a text layer are held, no OCR).
+`web_build.py` dates each text from its own words only: the Date of Commencement printed under an Act's title; for
+"See section 1", the day section 1 gives, or the date of the Gazette Supplement for "on publication", or the Date of
+Assent for "on assent"; for regulations and legal notices, the day they say they come into operation, else the date of
+the Gazette Supplement that published them. Commencement by notice, undated copies, drafts, bills, revised editions
+and consolidations are held (`web_held.json`). A county site's copy of a national Act is filed as national.
+`held_to_cands.py` passes the FAOLEX and WIPO Lex copies held for want of a day through the same reader.

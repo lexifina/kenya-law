@@ -1,3 +1,0 @@
-# SIXTH SCHEDULE [S. 57(5), r. 14] REGULATIONS RELATING TO ACTUARIAL VALUATION OF LIABILITIES
-1. The value placed upon the aggregate liabilities of a statutory fund in respect of policies by reason of the adoption of any basis of valuation shall not be less than it would have been if it had been calculated as prescribed by the Authority.
-2. The actuary who makes the valuation shall certify whether, in his opinion, the value placed upon the aggregate liabilities of a statutory fund in respect of policies by the valuation is not less than the value which would have been placed upon those aggregate liabilities if it has been calculated as prescribed by the Authority.

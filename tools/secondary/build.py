@@ -25,7 +25,7 @@ import lapdf  # noqa: E402
 import pdfread  # noqa: E402
 import pymupdf  # noqa: E402
 
-W = Path(r'C:\Users\alany\Documents\kenya-law-work')
+W = Path(r'kenya-law-work')
 REPO = W / 'repo'
 NOWIN = 0x08000000
 PUB = ('Kenya Law (National Council for Law Reporting)', 'kenyalaw@kenyalaw.invalid')

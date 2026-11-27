@@ -1,2 +1,0 @@
-# 41A.
-[Repealed by Act No. 10 of 2012, s. 75(1).]

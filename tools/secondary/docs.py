@@ -7,7 +7,7 @@ import subprocess
 import time
 from pathlib import Path
 
-W = Path(r'C:\Users\alany\Documents\kenya-law-work')
+W = Path(r'kenya-law-work')
 R = W / 'repo'
 NOWIN = 0x08000000
 

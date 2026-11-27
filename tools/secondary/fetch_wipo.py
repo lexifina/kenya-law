@@ -2,7 +2,7 @@
 import json, re, time, html
 from pathlib import Path
 import requests
-W = Path(r'C:\Users\alany\Documents\kenya-law-work')
+W = Path(r'kenya-law-work')
 D = W / 'cache' / 'wipo'; D.mkdir(parents=True, exist_ok=True)
 UA = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36'}
 def log(m):

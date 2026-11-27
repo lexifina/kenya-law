@@ -21,4 +21,4 @@ for sess in ['All','2013','2017','2018','2019','2020','2021','2022']:
         time.sleep(1)
         if not pages or p>=max(map(int,pages)) or not links: break
         p+=1
-json.dump(seen,open(r'C:\Users\alany\Documents\kenya-law-work\parl_acts.json','w'),indent=1)
+json.dump(seen,open(r'kenya-law-work\parl_acts.json','w'),indent=1)

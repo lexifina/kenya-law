@@ -1,2 +1,0 @@
-# 96A.
-[Deleted by Act No. 29 of 2015, 2nd Sch.]

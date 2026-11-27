@@ -1,8 +1,0 @@
-# 197B. Imposition of Insurance Training Levy
-(1) Subject to this Act, there is imposed a levy to be known as the insurance training levy which shall be charged on policy-holders and collected by the insurer, and which shall be paid in accordance with this section.
-(2) The Cabinet Secretary may, in consultation with the Board, by Order published in the Gazette, prescribe the rates of levy, which shall be calculated as a per centage of the gross direct premiums written by the insurer in respect of general insurance business.
-(3) The levy shall be paid by every insurer who shall, after the end of each calendar month, submit to the Authority a monthly return thereof in the prescribed form, showing the total levy due to him from policy holders for that particular month.
-(4) The levy shall become payable at the end of each month in which the premium was received by the insurer and shall be paid not later than the last day of the month immediately succeeding that in which the levy became due.
-(5) Where any amount of the levy remains unpaid as specified in subsection (4), a penalty equal to five per cent of the unpaid levy or part thereof shall become due and payable by the insurer concerned.
-(6) Any penalty payable under this subsection shall be deemed to be a levy for the purpose of this Part.
-(7) All monies realized under this section shall be charged on the gross direct premiums written by every insurer and shall be used by the Insurance Training and Educational Trust which is responsible for the management of the College of Insurance for the purpose of running the affairs of that College.

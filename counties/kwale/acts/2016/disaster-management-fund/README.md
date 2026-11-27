@@ -1,9 +1,0 @@
-# The Kwale County Disaster Management Fund Act, 2016
-
-The text as made, in force from 2016-11-04 (section 1: comes into operation on publication in the Gazette; published in the Gazette Supplement dated 2016-11-04). Text of the copy on the County Assembly of Kwale / County Government website (faolex.fao.org): <https://faolex.fao.org/docs/pdf/ken184797.pdf>.
-
-Text layer: publisher OCR. Sections not split (read as one text).
-
-| Provision | File |
-| --- | --- |
-| Text | [text.md](text.md) |
